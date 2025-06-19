@@ -1,0 +1,4484 @@
+<roblox!‰ÿ
+
+      ´          META$   "       ğ      ExplicitAutoJoints   trueINST-   J      ğ    	   Animation Í  ÿ‡š¹/$ ³PINST/   J       ÿ	   
+   Configuration   
+ 8 à  ¤,.Î"INST#   ?       ÿ      Folder 
+  À ¤œINST5   Ñ       ÿ      ModuleScript .  yQ    INST(   &       ğ      PitchShiftSoundEffect      dINST    7       ÿ      Script 	  
+`INSTP   r      ÿ      Sound ˜  ÿk~9,€  	   4  (     6   PPROPe	  ›      ğ    
+   AnimationId ü   rbxassetid://127123923193385  í97146110102548 Ş7082380568904> í78520465522100>  92@ 5691259]  ß7262382943328» Ï936544445963  À158413099994ÿ  , î32182678948053ª Ï458867321675k  ß0496671165705«  ä18622016872838‡  	£ î20769341519287  1844185594Œ Ş1292639985054? î36326545464789  ß0447921833111  ß0426099470537  0364¸ _61800" `229222D N7851 í27810574862029¡í79303506814241 ß9257698106174ı  Ï030939214844\Ğ4389465242726¸¢ î11402389373672  Ñ2337508101996$  ß8117112843782h Â373593374328×H  112274400•P83592/O5397  ¿11703119243î Ş1187230581523? Ş8638874931647Lp8815805O9Lï26519309441375Ï660744638316l ï32763712546617D Ï244091623546~ ß4388641048906c İ6897160240066Dß8605046276010D 0ã 963851579¢   g ß0844361136429‡  ß143653615816083‚ 55906714§ Q80415{.92 Ş9023672815341v 89Ñ3353578gŞ2231614958032(Ş9719568691787#Ş7765471451562Lî96046856659202Ş Á034171511194· iß3938745421444à ß3528542338062à 0?4991114à¿54963037257¿72681713182 0249Ao511526è P03423ì  !p P22713áO3955«4 65S !30z 
+Z 9591161500´ ' V  *2743166íî35942359754590@ ß0941120865134– Ï335477452308ß2696491987296 Ş7087714280605 0310] O7558à 808W.78	Ñ9404222095026t  f  ÷Ÿ396245002†  2D0262Û  71D 
+7ob723967ñ
+# ß9268442050914k Ñ4009040653869® ª ß0466549169148 Õ0902001308431Ö P 410867631Ÿà87046983709861G C €03293946?7yA6297Á
+/67›	ß0439889953039 2ï0793451ò  Ş1406626192169ß756389834Y
+yÏ019187950576_  Ï324397011828Øp5178205Ã€
+ Ñ8150660258598@  DÏ376446700803O @0969Ö ^19504g99q3258792öc  Ï365694697255²  ß1316989196871  q3620304Í
+á @8789
+ `343626£ 1272C § 1124I
+7I
+‡  Ñ0008428587083#
+‡ ß7458391385329I 0019
+ 40ª    €32031759Ğ
+1ó  o10346969  v 56812102Hß2967097753881³ Ï242541941772  0030™ 2P? 3722523843	
+
+Ï955957287060Î 06[ q0777460I  G 854411686× † 0030™	p7213250C $ 262799806Åk $  1555207474½
+
+‡ P88722AP10234g  S Ñ3589785831975’
+W P76095A6502(# p8569677“Œ
+ 2678281083³? Ï551854113313å 4<03830c@9324ĞQ38278ø 
+b 996405901 P01448¥
+?485¶
+¿95771550762ËÂ022087150436  oÏ0478458738136Á104239794201’G 0122¥o386184  0244o138180¦  ¡Ÿ207598352½	 ß2790182836697@   28B 77266439   2171660434
+  4
+ 
+O7289@  08127568Î	à 8278‚
+/44¤
+¯7073437974à07550451147996PROP,
+  ÿ8      ğ-       AttributesSerialize?         Loop 	   NumFrames< ğ  *@   StartAddress o4F6FDCC 3C m5290E4C †  /€CC _0C5B0C / TC N43B4C @C ^4EFEDÉ C /€HC ^55C9F† ? ğ?’]ED1E8† / =† ?46DC  † "C O3E68-?E7BC É O2AD2/ cÉ O2059Õ/ 6C O3E80C O?4FC’V† _4F08C[ÀC _55897’/À]† _50353C ^4FD88É á€ªO5000¶/À[É ?992Õ/€WC _4FE3FC <_4FDF9/ÀX† _50141C / :C /0C’_4FD20ª ?7DAÉ >É _4F56E O5545H1† /C98C O5522’C O66AF† † ?6740SC O5FF8† /@QC O614BC ªO5156ÂgO4141[/€OÉ _4EECAC FC _50EA0C / JC ?45B$?521ùO2A46í† O24F7_56455C .O?2490$_4ED1D5
+O524EÉ O1821)	O4F62A
+ x
+N0C25[C O4F4E¶/ ÕN3C1B† £Y
+O53C6C  É OO5656ÕC O5E16É »
+O5307Ó,O50D3O2724MN4783’>E67C /€D[?78Cş
+ † Õ?2E0ùO/E0x
+/ BÉ ?2ED‹&C ?4F2É A
+/25x
+C 2À?528
+ c3B904VÈÌ
+d20178
+çÿ ä2 Q	
+?1F9ìf^53B14ºø/€A//38Š ~/ 0C 4³
+† ã?73C@	 C /44~Æ	?188wµO0CBAS]?1C7§ >C42ÕÙ?734[ C /22Ë† >2BAG/ \C § /27Ò
+ C Ä?175E C ]O4F4Aw?70C Õ2O?2409S >787Õ† C ?4614CÉ N4824C ’/ NC ?233Ğ§O50D2 /Àb† /B3ö
+s?317C `† ?432Î[?311ê |?30BC [O3CFF<	
+?3E0T MÕO347C?3D4+¶O35C9/€FÉ O197CC Ò
+O51C3í JO53A3½ [/€IÉ O4F2BÕ)	O5785<§?6A4§
+?5C1ù Â /58¶ <€N3F13)	C 5HC /ÀRÕ/87¶Ç
+/3C)	?3CAí ’ ?FC1x
+Ç
+ /BC¬/@UO/A6C  ’O/46sC _549A8<C  /A9 ’$?666g É z >4FEá† 9’^550C3C † ?51AÇ
+
+?50E±>g5571CIËoFlipÕ
+F?EEAM 1?6EA¤ ¦?769­
+?522.o^5541A8É ;o?677R‚/53D † F/FAÖ
+O4EC6NÉ O4F6A« yO4F93[ëO4035€	C  B5—
+† C ?253Ê ‚?5A9Õ 
+/ á?57Aú † É /9Ah!\?201°
+î  /44$† ?39Fù?3DA°
+ŸO4BB6[/€PÕ?4CD  Õ1 /F8âó
+?4E4h $O5760’€	?575W $Õ?769m
+Z?770ìí 5S Õá?577sÁ?5ECÿO_3AB58ÅZ I
+FÅÅw/4A!ô/53ø( O50F6;Á?5AD‹"SO564DvL
+5F}/5D’† N5DECœ;’?1A7S/@a–?12B‚É /29‰-Í€?/59X
+€F-?68AS OØ ‘›
+Š>F80
+† C /68T#O÷+?6E3H"?6E3Î"?557X
+[?570@3?36Då?758ÌC  0ë Õl%O525Dö
+•6ƒ	 ´+/6DÑá¶O4F74[É /5DË6ù/5E£$q?627 “g634FC’q3 ˆ@8620<!ÁUploadHash@¢ÿ/ba923913c69035f189846634adfbac9ad3e04e839ced923408e403e690a198– ò B5701
+	
+– ÿ175c800537acd07b16af529fa81db609aad121977c0bfbc64187e01664901534a– Û&A7982£	
+– ğ1b8b669e3a612f10bf7f594d0c0b8œ"ÿ46e082d2a871994333f13dc8c1a186f– MO1FB9– ÿ1791454c1907c5c763047819e49b5021dc2f7fdc4d1798ac858b49f690ebf511e– ©O6F75Xÿ1808816b91276358820d86cda21bd38e47cd6611daba6f82ec4f8e15152764c24–  ·_2826Cî ğe1b19fabd87f397100561202ba2åÿ9ba5072fa863531ec84c1a91bfd6b796îP_29824–  ÿ052f637d90e2955972bee8628bd8873d2fbe0adeb0814e84c31d36d83814b813ÂÄ O27BE,ÿ687dbc544baf110d17620b6df0af35fc7694129ef0fc63232c3073266f0411a10©   ì%Â!63îÓ7ì%/;@C ÿ299037d63d9da23ccce9d165922dd3289fee7da55930579cc5582c431e6d532ca;e8!€V{ 
+’ /  ? 'P     PROP)   }      ğ       Capabilities!  ÿÿÿÿÿÿRP     PROP*   é       ğ
+       DefinesCapabilities  ±P     PROP	  °      ò       Name   AIRBORNE_ON_STOMACH ğ_KICK   WING_CAP_FLY   STAND_AGAINST_WALL2 €BACKFLIP"   ÷ WARDS_WATER_KB _] (B
+ 8KB SPINNING
+ E€ GRABBED ÀND_KNESS_RID `SHELL ğ OTTOM_STUCK_IN_GROUND
+ ğREAKDANCE   CLIMB_DOWN_LEDGEh  pUP_POLEÒ CRAWLING1 ÀREDITS_LOOK_ß _THEN_RUNÚ 	 U €WER_HAND ¨PEACE_SIGN QRAISE, s ²RETURN_FROM (UP’ ASTAR†K = €TAKE_OFFÀ qWAVING	 …OUCHING
+ l ĞFAST_LONGJUMP]*  QSLIDE"7 ESLOW7  k@DIVE“ 
+ïGRAB_OBJ_PART2 1« @DROW*  2y DYÿFALL_OVERM ÀIN_QUICKSANDİ !ON¼  õ % ÁELECTROCUTIOØY yğ  ® 
+    –  WITH_LIGHTğ  ® < 7 LP
+/  ›/  × µ P 
+. ] "STÍd Ğ  Â Sğ FIRE_LAVA_BURNèP_POSE‹°FIRST_PUNCH   _H # `LUTTER
+  Š "LY%aCANNONy  ORÀ ú U  3   !KB~  +
+ ;  K €GENERAL_0  W V `_HEAVY‰0ECT/  ê`_SHORTa   ó ¢1 2_W_BONK   ˆ } _Pƒ 0.   7ING( PTHROW- -dJIDLE  Œ
+ 1LEFÑ 6 Rt ä @HANGØ0CEIÈ £  0OWL“ LHEAD.' .’   ˆ  B€D_CENTER‚  ‚  ‚ C0OUG\ ‡ ˜ O† 
+  ›  ˆPERSON1 =s` b   / Ÿ, ¿  ) z 
+)  E © E( 60LEGx	d 6@MISSú0CAP :MOVñ  L @ON_W‹ NE³ FT^
+ E H 0PICõ
+L PLBÓ ( €ULL_DOOR”  ÿt    PUS 
+ 	   x0PUT!_OŠ46LY_  „±REACH_POCKE)’w Ä   ˜_q  ı    B:  PAPPROr  Ì € Qæ  Ô !RU Ç
+ a_UNUSEc  RU]{ C @SECOŒ@UNCH, à 
+ SHIVERINGi
+ _œ pTO_IDLEè  @WARMó   ›  SH&sSIDESTEPâ ¬  Ú
+àš1SKIq/ ¤QSLEEP}  f LúÊ   9T £	 Ÿ Ó  	  ) 
+ A  "g  Ô FDIVE  Ì ª  E ò /  û  U w	
+w T
+ ßF  \  N   y	¬ ¬€ ; É
+W Î1OFT !_Ké@SOFTsQNT_KB= £
+ UP MòPOOST$	 Æ 
+e .Y	
+·  1	
+ ½¯ ˆ’ÅC  .‡ ) d  cú ‰U  dƒ  }SCRATCH lITTINGB AYAWNOB QTIPTO
+f VTWIRL	 è
+ Ü~5TOP(1  ' !OPë =¼ : ú ”   j !OP¤C
+ 
+`UFFOCAä  !MMÏ!ARD 2WIME
+	 2™   ü”
+1 «
+N
+ 
+
+ R
+(
+C{1_KE%
+  0ECTo	d ˆQ £ %  è 0_MO
+@LESSŠ (  ìñ0OBJÆ   ‚ ! ‹² 2Í 9 	 “ *aUNLOCK W.ªJ
+ b ä •» 
+ @_PANz® °p	
+  ğ Å  ACğ @_END	 ö  ¯  »
+@ }R  0LE_Ô 2 CTRIP  Î    Î + ® a     CDOUBR r
+ @RISEé  0  2 
+  ¬  -	‚pushdoor `lldoorPROP.   ~      ğ     
+   SourceAssetId  ÿÿÿÿÿ‰ ´PPROP   A      Ğ       Tags
+  ÿÿÿP     PROPŒ   p      ğ      AttributesSerialize 	 òL      
+   MARIO_WAHA$ 5ğ?
+ SYAHOO 6@ SIPPEE 3ğ?FP 	! 7 &ğ? 5WAH4  Y ƒ  Z 7ô 8P   ğ?PROP!   u       ÿ       Capabilities!  GP     PROP*   (       ğ      DefinesCapabilities            PROP{         ş      Name   ACTION_TERRAIN_JUMP LANDING1  ÑSTEP
+   MARIO?  øYAHOO_WAHA_YIPPEE   O_HOOU  † 0k › PIPPEEPROP)   v       ÿ   
+   SourceAssetId  @ÀPROP   =       À      Tags  P     PROP»   ×       ği      AttributesSerialize         BLJ
+   DebugToggle
+   HotLoading 
+   Interpolation	   TimeScale      ğ? ğoolAssistedInput ğ
+runcateBounds     WingCap‰  P     PROP!   m       ÿ       Capabilities!  ?P     PROP(   '       ğ      DefinesCapabilities €        PROP~          Ğ      Name	 ğSM64   Camera
+   Interaction   Mario" `Object PSteps= @Game ğ
+Server	   Soundsold
+   AnimaH °s   SoundsPROP(   n       ÿ   
+   SourceAssetId  9°PROP   9       ï      Tags  P     PROP>   ã       ÿ      AttributesSerialize  ˜@   ± ğ   Debug         PROP"   …      ÿ       Capabilities!  ÿXP     PROP(   J       ÿ      DefinesCapabilities  P     PROP!   Í       ÿ       LinkedSource  ŸP     PROP¶  	      ğ      Name   Enums   Action AFlag ğGroups    Buttons:     BMode  ve6 aShake	! ğoorType
+   Input3  s
+d ÀttackHandler   -  ƒ `Method
+ QStatuz aSubtypj  '  À 0Capy @Eyesy ^  	  X  u  _  ¤ l   U â    
+  ve  – Collision  Z    Ê @HeldŠ ~ QListT : qParticlJ s› 0Airj  9 ndK @Hangœ aWaterĞ ğrfaceClass
+   TerrainÜ  : F|  aIntera•ğ	   PlatformDisplacementY PMario	  B ş B  | @Utilc ğSpawnPicker   SharedPROP
+   Ÿ       ñ.   
+   ScriptGuid&   {02C42E4B-AB28-42DF-BAC0-66EDB295D2F4}* ò75CB5294-3DE2-4594-9065-2C92AC18E549* òA6884DD9-93D4-46AC-833A-C5E003573397* òE321975A-3865-471F-BC45-3DDFE22CACAD* 95 óD31-6F1D-40FD-A55E-BC2548711E46* òCB6EBBA-C3FE-47D8-AB12-C7E079EFB488* óF7AEE936-8702-4DB9-8C3A-C73A8EE18FCü ó5E6AB00B-9911-42B0-9589-06FC3A383D9~ ó48085B7A-A59A-48D3-9711-D5DFF6D9297~ ò9AA8D8AF-B479-4696-B435-837F0745A045¨ òD1C854EF-130C-406A-84DB-EEDE02B0A22A* òC28C69D1-CA0D-44A0-A1B7-C7A1C0697420* ó1E4235B8-BDB5-48F0-8CEE-A7AC749A49ET ó3AFBF2AD-7053-413D-9FE8-CB3341EAB14Ò ò31F82A5D-4B59-44E6-96D3-6E08CFBE2DCB~ ğE53A896E-FF4E-4483Pâ6-C0A256691BE2* Á54ADA43D-4E9Ò ò9-95A7-183D46A0EE5E* ó67ECAAF7-23C9-4F9B-8FBF-29156219519~ ó2757160B-A50A-4F4F-8282-0F7BCEDD241Êğ36062496-64F8-412T ò 1C-8FA041371813~ ò1AC61BB6-3701-464E-87C9-805101BCE51F* ó4B5510B2-BFCD-430F-94BB-8B6264C1BC0¨ À887A7F9D-B8A¨ óE5-A686-7E0BE5663C2Hó8F1463C1-9C71-4DDE-A03B-BC4D11A2E84¨  65AA2039-3Mó4505-AD6F-DC2D5B7FD13Ê`1FBA6Eôó
+26C-4A42-BBBE-B5AD2AF67B6~ ó1388A1E0-3FF4-4942-97D7-31EBA45A597PÀ93C4DEF2-0DAÊó34-ABCA-5297933448BÎóBA05A2D9-056D-4A14-85F4-5035EF68ABCò7711DAD7-1D77-4083-A23F-91DC8BF980A1zğ
+BC570279-623A-4C4F-A02B-E‚r211D51C* óAFD579AD-C956-4C09-B812-2EDA844E92Aô€03725769ëóE-481E-834B-2EC397EA10Føğ36801364-B99B-44Gó ADA-42044F71D68ì°09B30C5D-B5ğğ489-AD19-C9B0C5B=* ğ C41834-B57B-4B9ÌãF2-93CFA91EFEFzğ07324B44-ED06-43qó 8E8-AFDCFF17773ğ°C31C2BB6-8ALôAD8-9B2F-2ABD11B92Cj°70DDC13F-4A 6C4 Ô85-FE47FD0D16"À435E874A-6B9óB3-8129-733ACE08A68jÀ9EC1E4D5-E2CÒ ó71-9787-132CD22EA5BT 91p04F-B18@óF3-9018-4AABFCA7C35&ÀC8DEC47F-64CÂóE6-BF6A-25EBFC93809ü ĞA906BFAE-FA67<õF-B3CD-04FBEB76879ø 214217-5EA p6C-99C8#ƒ438FFE65¨ ğAFE29760-75F5-4523 ğ 6-8F194B753705}PROP9- •     ò8      SourceÖ   --!strict
+
+local Enums = {
+	Action = require(script. ¾),
+	Buttons#  $),F OFlag(  c . - _Group.   Ş),
+
+	MarioCap‚  c.Cap),' ?EyeT  ( EEyes)  R  + OHandU  + _InputV  Ò oAirSteÑ  ÿSteps.Air),
+	Hang' 	ÏHang),
+	WateP 
+! ¯),
+	GroundT 	" ¥ FloorTypeĞ  A),
+	× 2)  #Oodel*  ÿ ),
+	SurfaceClasz  ¿),
+	Terrain¬   Ï),
+	Particle‡ 	  şObject = table.freeze({
+		Flagó 0 î),
+		Lis & AList& $N  * 1Mov½ , ! . HeldStatÅ ƒ " 0 OActi` # 2 cCollisş• 	& Q),
+	}]aInterakbŞAttackHandler\  > .+ ™  :  _	Subtõ4 % h _Statu¦ 	0 $ / oMethodÍ 
+$ / À º RoCameraMOShak  1 . r ×' ¿ÌÅ & 2ModL ?Movs  1Mov& T}),
+}›ñnameIndex: { [any]	 ònumber]: string } } = {}
+
+fun@ô
+Enums.GetName(map, value)5 †
+	if notd Ò[map] then
+		 Sindex[ Q		for. K ñ in pairs(map) do
+			2 [k 1] =/ «
+		end
+
+		k != . 
+ areturn3 ô  K 
+B " 	|é I)
+yRÚ * ó {
+	UNINITIALIZED = 0x0 a, -- ( Â)
+
+	-- group" Ò: stationary ”rs
+	IDLED vC400201D ô1 | FLAG_STATIONARY 6  ôALLOW_FIRST_PERSON& øPAUSE_EXIT)
+	START_SLEEPINGs 2s 2; s 3
+m f000203m 3m  Ô “WAKING_UPÏ b 4b 4b .KPANT/5` 5`  ¢ SHOLD_q T_UNUS^8Ø 6x 6x  	ôR Š  H 7H 7H ]HEAVYN 8N 8N óSTANDING_AGAINST_WALLÂ9T 9T  Š [COUGHşAm Am :kSHIVERn Bn Bn :µIN_QUICKSAN”V2020Dq Dq ñ NVULNERABLE)
+	UNKNOWN_x#20?Q EQ . 
+Q WCROUCze008220J /20›  ÄSHORT_HITBOX& ó| g2g| */OP{ o2o{ *–ART_CRAWL~r}2}{ *ö z •2•z )¢LIDE_KICK_
+ 3STO?2·2·	?ø SHOCKWAVE_BOUNC 22
+ 	¥ “fC00022“2“öİBACKFLIP_LAND FuFO¿	 =JUMM ¸ 3Â3Â¸ DOUBLE_n  ´3´n ŒFREEFALL&Ù ¤3¤k _SIDE_’l •/33’ l ò C3‡3‡	şR .V [3[‘AIR_THROW€ı v80000A3Y3Y4AIR,G ¢ING)
+	TWIRÒR v1880023£3£”ATTACKINGX  ò SWIMMING_OR_FLYt ¦LAVA_BOOSTË È3Èh )
+	TRIPT ¯%3A˜ 
+ 	T OLONGWR “3“	R GROUND_P LroC
+/3C¢  o§)
+	BRAKING¬¼/3DJ  
+MBUTTh Ó3Ó‚m f8000433?MOVyEÑ40: moving (gl)J1WAL¿Xf400044 4 
+l Õ ó	O 0O 4O q)
+	TURNÕ
+3ROU€&44á4á7 FINISH_>  ³4³> :îô 40 Cô !RI“bSHELL_àV …20810446Õ4–
+V A j TÔWATER_OR_TEXTjY
+p 4u :)
+	f	f400844ê4ê1 ’ b	C)
+	BÏ 
+&44Ö4Ö
+e 
+ö†DECELERAIªË4Ë
+I ª‘T £Í4ÍT ±)
+	BEGIN_SLëŞ¢&05($50–- ‡!51)XR V84045+5+Š8 ¡OR_STOMACH— E 
+! Şf08C045X5XG d 
+(DIur b< 0Ø 5t 
+f İ Ç5Ç¡ Aİ  CDIVEmLF8045à5àR  ‡MOVE_PUNáf080045À5À--› f480845p5pÕ{Là 6
+ëF0045Ÿ5Ÿd ó)
+	HARD_BACKWARDA3_KBQ V02046f6
+9T ?FORS  Œ6ïb
+S ¢ 
+¶6¶
+O  
+ 6 
+N OSOFTD€6€T § 
+j6j
+S X_BONKßC6C
+H ˜DEATH_EXI:
++:6:
+L ó’ a7q7q	íP n7nP ÙS r7rS 
+SQ u7uQ ó
+ER 7r7r* 0 ; Z7Z5)
+	®w N7Nw A C7Cg
+ BE	7E	B
+f
+Q  Á7Á‘®6 ½7XLLOW_T0Æ80: airborne)3JUMf300088'8' `î öVERTICAL_WIND_ACTIhrCONTROLÉjHEIGHT÷Ø n E8En 0 9n 1Ü `8`n  ›P _8_P QSTEEP%R %8%R â~BWALL8AIRp Y$86C p 0’l ~„8„l PQ -œ8œQ ê -7TERš¾ ¸8¸m f
+¹ f188088Î8Î L ]
+¶ ƒ  ¯o ÷„8„ o P 
+“TOP_OF_POˆX €DÜ8’X Ê €Ë
+Œ
+
+®›8
+$IRO É  " q ¾_5æ 9ó9óæ 0òSHOT_FROM_CANNONYf088089Ù9Ù Ê K 1K ·9·K 0äÜ 'f281089Û9Û< e ÷ ¦; _ã0w ê9ê ¥< f w 9)
+	Ğ?V08089;9;
+?.L	W TAe Ae 9l 	p ½Ag Ag U ”[ T AT ° oA[ A[ ù F008AÆAÆ½Ì:
+xROLLOUTbI AI ÿ(HIú f00008A1 A1 3HOO… \
+A8A8©
+P‘V8008A"A"'•3KICë
+1A óAóA [§ Ä]8/ŞAŞQ  s R  m "{Ş AŞ qB N AN ÿkZY_BOXœF008A5 A5 ¯)
+	SPECIALù%AFß $AF. Tv"I
+Ä5AIRf10208BBæ‘ ÷	À °j Bj 	o 2KB%o #Mp >B>p BÏ-±VBVh &ß h 
+B
+h \³e ÃBÃe Ìf ÕBÕĞf ÃGETTING_BLOWE
+i 
+B
+ ¿i )#N_ Ó ºBºj %àk ÍBÍ>%
+–+ÖC0: submerged"¡a(¶= 0x380022C¬C¬;#G¡ 9 " G  x 
+  ÏCÏ Kˆ ƒACTION_E5
+3À$CîCî 	" ÿCÿ 9TDROWNa
+v300032C
+C
+t wINTANGIÁ÷ ö  _ŒK v300222C2C2 m } «$ ‘  ]C] MQDEATHDª‚C‚‹ ª9‰ A(Æ-¦¤$C8„‹ ‚" ¦+³BREASTSTROKÑf00024DÑDÑ=x ˆ  * 	*&4D¸D¸t 5qFLUTTER÷ÿ624DDt 5Ña–D–y :f›D›y :k…D…y 5T5ELLù çqDq| ;	 s EBEB>ï X s AEA>s GLUNG)&2EAEAµ¤-òCAUGHT_IN_WHIRLPOO24EGEG 4+SMETALØ±2‡!&2FúFú”  F S
+j % k òFòk f 	+(Û'FãFã
+= A º T  ¸F¸T 	 b ïp	ë&2FÕFÕ
+§ X  ´F´X 
+«  ü+f00042FFU 
+LZ ÍFÍ G 
+¯ Òú’F’¦	
+¦ Q _F_Q 	 « ]
+L&4FoFoQ 	¢ 
+V cFcV 	9¸100: cutsceZ“DISAPPEARô	f000013:/10,
+ò)
+	INTRO_CUTSCENŒ!04M /10M #7 :R_DANC':áµ %10Áh 
+N JO %10O Ÿ1#AFfR_GRABS %90%10	ïy
+a)
+	REAà+ò AUTOMATIC_DIALO.-2ò /10W Zì  ¶l /NPf /10f  »!NOF%Ğ(&%/10%f  #HSIGNK  %10 ºaJUMBO_¢ 
+Ãe000190!%10!¹1WAIí8FOR³ç 410Aœ ÔDEBUG_FREE_MO¥F´%10ÿN °  tv0002131¨1¨·	'%
+b 2¯ 1¢!
+b ÅELECTROCUTIOùF2131³1³` aSUFFOCÂ>WF2131¾1¾m	^ 4_ONJ,c Ñ1Ñ
+!c #BAXãË1Ë
+` èEATEN_BY_BUBBAÁ Æ1Æ$›END_PEACHQ1à1àCREDITSH  &31Ö1ÖÑ	™ oWAVINGR Ş1Ş!PUß	C_DOOö$Û%20,l<		OPUSHK Ù;<		K AWARP“ D_SPA´™ Å2Å’)
+	EMERGEJ"3PIPÍ2´â;ÍŒ Ä_SPIN_AIRBORiK ¡³;K Lİ?ÇF0132ˆ{;		2OEXIT– tx;– E ;>AVE?2`x;		™ 
+
+o 6928_DÚA1
+¸ &92E2Eß ËJ A“ =J 1,
+412BeM 
+*]/12]	lá — ‡/12‡ 
+ÑUNLOCKING_KEY£f%12f½Q érM2MRENTER	9Q 3x3Qâ/NOå33Ù N è3}Ê<		–ABBH_÷ ú
+’&93«<š F 5SPIÄF0153{3
+ã	 åTELEPORT_FADE_ñ#Ç3{š<	P › &33}$37TsPNG3z3zF 	àCwSQUISHE)D&33z3zI ÓHEAD_STUCK_INö3ÅF2033…3…U z&U  3U ?FEEU 
+C/¶<	
+H"PUŠSON_CAT/,š3š¤  ¡rcustom_JEj013FB,LJö140: "automatic"¸1HOLæ$POUJV81003<1< !ONõ+Œ	©AGRAB 3_SL!00\ —4—\ •&J $FA(!J Œ_<¦ Š)
+	CLIMBï I ˆ4¹“ ò,gTRANSI
+
+å …<› 	 R ÊG 4G 	´KEHANG
+f820034öé;I 9 	Ñ 4U 949 ó7NMG &54ô4ô
+sC WLEDGEÙf800034á4á	Ï I ¢V00054Û4s‘ 
+9 DP#9 DÅ9  Ê9 N4O9 YGRABB|©61©6Ï
+}*INH.V00137£6J  x‹TORNADO_D+V02037“Ÿ6O ^ï ıC¦80: objectÁîìV08003Ÿ41Ÿ4„ –)R)
+	PIé	Nf000038»3H ´1_< ¹¥3	< ~
+|H{ 6It3	? BPLACl 6038$A3	9 ’1BE&58%3~6 Â "VY‹EªD ü2D 4f_BOWSEz6039z9ı £Ï&
+; Í9[ ³OLEAS= »9Ú
+;Ğ2any£Q":  ‹ÈRó in vanilla SM64U5ã,î%8Bê
+¡0BF | ACT_·Qò
+AIR) (MorsGames/sm64plus)½Cp“O¢7o)
+}
+5}RÃ ñ = bit32.lshift(1, 9Xß
+ !10Z6: !11kX¬$#  T2),
+	Ø~  !13 9$ 4E ÔMj  55),ò.ğJ 6²  {J  37),Q
+9OR_¥S S8),
+	â1M  _7?  2`İ  dñS2^Æ? _„-U  n
+/,  u_ 	MT+  {€ ­ y-r_OR_FLY¨
+ú v	EQ }¹!  Ÿ31),
+}
+L9‘-- Group šZI	10, á ğ²   '	Ò 2  1SUB¨D¬ 3!  	A 4  «A 5! ]OBJECË6 ñ ô	Mask for capturing these‘GROUP_MASŞ1!b_ÑB0111	 _,
+}
+,PcA_BUTTÔˆ8000,
+	B 4 m0!
+H,
+	R f10,
+	Z 26 ú
+ b 1 SU_JPA<	8t L 2 R 1 D 4 2U_C] SÊ]8,
+	L 2° , ]1,
+	D, o4,
+}
+İ0aSMOOTHtDMENTw ¯1,
+	BLOCK_! “2,
+	FRAME
+aCAM_INu‚ñ4,
+	CHANGED_PARTRA4DEXc t8,
+	CCMœTHORTCË4€qCAM_NEAÅ!z#«
+/XE040,À7_ 8 8 u×COLLIDED_WITHê4¥án
+ •_OUT_OF_CäWõ2âAREA_PROCESSINd(?W1_13’ Uzy62­öBEHIND_MARIO_POST)ã?}
+œá%NO@ƒ,
+	RADIALÈ1,
+	OUTWARD_ 2r ¬ “03,
+	CLOSØ{öInside Castle / Big Boo's Haunt
+	"6NTSURFA·R$8,%SD6a9,
+	IN»=“:ÓA,
+	BOSS_FIGHªÑB,
+	PARALLEL_er„0C,
+	FIXÓÁD,
+	["8_DIRE-.2S"]Ú 
+ÒAKA Parallel Ñ\ò, Bowser Courses & Rainbow Rideä<Q_ROAMI ´ÂSPIRAL_STAIRÅ‰11,
+}
+y±‘c(]ò{
+	RETURN_TO_MID‹ G¨1,
+	ZOOMED÷ÿvOTATE_Ru 3LEF#jƒENTERED_ 	„0º ğ"RBELOWa&Õ r•FIX_IN_PL¹v“WcwBCAM_¦_INTO_MOØƒe!EDf7INGG…U "11ƒ £INIT_CAMERt‹ALREADY_&qFC_UP€ q d8aSCREENw Zb
+Move.8ôGbor( ‡(,  5LEF 
+Ş)T WESTRI, V ®N 
+© ¤)
+return’ 9
+¡ } {Ù	Z = 1,?Qö = 2,
+	SMALL_DAMAGE = 3,
+	MED –4,
+	LARGE r5,
+	HITNR = 8,7' #9,8¯ = 10,
+}
+¥ ¿-- TODO
+}
+zåuZERO_AN>#ä0001,
+	A_PRESS<gOFF_FLŒ{4,
+	ABOƒK0· 
+u
+a\,
+	NO5 ›
+Ä›AA"ÂIN_POISON_GA&(IN|TSTOMPÁ ¡TERACT_OBJ¨CBABLš8éD2ÍBZŸ pZ' 	ÿ¡NÓX¥ÑE_IF_HEALTH_N•#SIÏ“1,
+	KNOCK± a/&3,ò¥KOOPA_LOSEi
+÷
+4,
+	SET_SPEED_TO_ZERO = 57 SWIGGLµ1ED_
+6  óHUGE_GOOMBA_WEAKLYp=^&7,ƒqBLUE_CO!o8,
+}
+…"HßDQOR_TRwD*	1OM_aFl2_ORæA = 4)#ST˜ à ? L6,
+}
+·ÒAHOOTò,
+ä01, -- (1 << 0ç-& •% 1$GO-0Ó&  E2)
+	g İ" C3)
+	5  1o  H4)
+	˜:¦ F5)
+	*¡ *? —6)
+	KOOPAç 8A 7+^™0ì 
+8âU:EAK
+2% ¡9)
+	STRONGaHr 4' (10N!& 8& 1N •AR_OR_KEY( #12N ! © ! b„ANNON_BA’	– 	( B4)
+	$\"_T¤' Ñ O 5p UTER_R>	– 	' …6)
+	BULL¹ 2" 7úC#AMŠ‘ 	D 8½Ø#ß )19º Ä“ P Õ20)
+	MR_BLIZZ¢9™ 	( /1)– Æ
+Å „22)
+	TEXF› 	L 3¢1_	$ J4)
+	50• 	& 5/XAM_ORf%” 	* |•5RAN=
+y ò7)
+	SNUFIT_BULLEÇ ¢ 	S &8)‚ #0x 	" ó 9)
+	IGLOO_BARRI
+ * '30s!318	Ö31)
+}
+†»‹ø«E00FF6Grio _i _i"
+	
+QSTUNNÉ	¸Q1, 0)[j‘4 --6 ‘?_DMU1< 2< EUNK2
+ï23 43 _DROP_"K1, 3: 8: e!WABá 48 '108 OUNK5¥  53 23 63  63 43 73  73 83 Ò	‡lÏŠïU  1”!80V ?8 		_#208 3WASn =1]46 ‚	4 	^84 OUNK1Y1Z«ÀOUNK1U1V¸/ 8/8…½/ 9/ 9/ Å/ ATRAP[3  2a¿ ‘HIT_MINE2  ÃÂ 2 ¨cRYæ2YÈ 5 ÿ TOUCHED_BOB_OMBn  ùÒ 9 ?}
+øÎ4-- à‚_WARP
+	F¨/	– ^	
+. âDamaging inter,!õs
+	DELAY_INVINCIBILIT< ÷f,
+	BIG„9 R	sUsed by‰b, sets
+õ's forward velocity to 40 on hitjÊ XBABLEc!S_8t 4(äAlso makes the
+Qheavy
+ÇHOLDABLE_NPC> ä	YAllow: ò
+to be gently dropped, andÎ ô	vertical speed to 0 when+ „ with noï sğ A--
+	R–IMMEDIATE	Ğ òThis gets set by grabbable NPCs that talk to\" tA him‡ ± them afterñdialog is finished;KICO
+Ö
+'NO~3l
+åñHeavy-Ho to allow i>Rthrowš ,2out q being Ì Şto pick it upşBDOOR{_ß
+"20b )3
+!
+	 º èú5  Ù
+	Œ*·"GRüeA^#80 s’TEXT
+	SIG‰³ 0Ör¬
+… 	M	\
+	EATæ2I :}
+Úü ]q{«
+ !0xaú
+9¶IC4,
+		è" G í
+7_OR
+(20I<!0xR
+a10x8E
+Ã . ;_NO’q,
+	4 	,( û   OKICK  OTRIP  ¹_4 D  (/
+) Nì!ı Ã	C&BWEAK½L.zçÉ Ë
+Â/
+g¨²DEFAULT_CAP+0, "FFÇ1
+	Wœ) (2, & o3,
+}
+Yk SBLINKb DOPENW ‚HALF_CLO”E2,
+	
+ 13,
+Ë/D
+?}
+m6Aario/Ì{zNORMAL_Sœ!VAÆd
+ 2í
+ 4ã  ì 1"_H •ô  XIN_HA!0À«1SHOw6 ÃÔ, rX‘	MOVING_UW zUp Q0,
+	AÀ"_S¯1LAY…
+^ 
+,İ
+" o
+fvLLING_FU
+Ó˜ T 0Ü I 0åP F ©	ª.ãNwCAPS =   ¥+ <
+ –
+C U  	U ‡ >J /
+xÎAFISTª	Îs	PEACE_« &2,ì+[3 ¹ Ü	¹_K 5,
+}
+dÔŞÿ È*Järù1‚1VIS!J á,
+	NOISE_ALPHA& Z N ELAVAôH¹ g_PLANE E
+©HORIZONTAL
+8 VQ*
+9 AŠ102,
+}
+4"{~ bCTIVAT/50S í¼& ÛÅ01
+	FAR_AWAY *  Ó!02¾
+ÿ4
+	IN_DIFFERENT_ROOMY  3‘±
+	UNIMPORTA®!È	†  ®B10
+	z„TED_TIMEwq5  ¯#20:f¨THROUGH_GRøi 6– 40
+	DITHad 70 !80­¬"10& ¤£2& /109 1½z400
+}
+bõ
+Ê~ó
+'Ç #0)—
+x  M'QUNDERR–  R'NO_Y_VEL   31&
+— 9.LA Jbor(! ´
+JED,  i )
+	  *
+Ê
+.ñ UPDATE_GFX_POS_AND_ANG¿ô g 1CAXZ_U +Fê 28 Yœ#TERMINAL(2Q 4 FACE_YAWL!!OV f G0008> è @  B   j›ÕK# bê ñ 0
+	COMPUTE_DISTm ^ iJ®¦
+Á6 7à s?010 vÊ 0ğò NSFORM_RELATIVE_TO_PAR%&o ’ß 0
+–.  ™Ó 0~H)r_MATRIXŞ t%?FOR‚/10ä 101öƒã„	1„!02= qPERSIST¹E…8% >¤  	'8g OUNK3, 3vq
+áG 1FREÈ r,
+	HELDŒ	pNì!BDROPg Ø(×	ô‰--stylua: ignore
+
+-- https://github.com/n64decomp/sm64/blob/9921382a68bb0c865e5e45eb594d9c64db59b1af/src/game/object_list_processor.h#L28
+
+--[[
+ * Everyô is categorized into an ólist, which control¢órder
+ * they are o !ed¡3  s% ±can collideŒG.
+]]7òPLAYER 		= 0,  --Ó
+Ø
+DSTRUh2 SThingƒ’can be usÓdestroy otherÊ ñ
+s,
+					  -- like bob-omb® ò
+corkboxes
+
+	GENACTOR 	= 4l óGeneral actors. Most normal 'enemies' or! G aren òon this list. MIPS, bullet bill
+ áy, etc)
+
+	PUSHşB	= 5€ APushª ™Bis aí0Q of oœ « } Òcan push eachñaround as well aŸ—ir Ã¡rent< ¾ñ. (goombas, koopas, spinies)
+
+	LEVEL·6® TLevelw.=l ñ such as heart, starêeR 	= 8M vDefaultO OSat didnt= tSQ a 00Â  êrcommand¡²ut here, so’‘is treate2a dm D.
+
+	ç'B	= 9Š E‰Š òspecifically have s“‰  0	t$noÖ  Ñ. (thwomp, wh  aOLELIK 1AAPoleÉ§	¢attract or8wis•r"cling"dò similar to a poj ó
+hoot, whirlpool, trees/polesŸ 	ÄE217#¬spawnmers
+w
+ô12, -- UnimportanÁ xwill no‘Ñload if thereÔ”not enouglr slots:—C Galso…qbe manu¨bunload5Òmake room forF k ¹ B ñgets exhausted.
+}ÓñI wanna be a hum“Aing,z4 ò	doing
+-- I couldn't keepKñpace up if I tried
+-- The source of my+ntion reÈ òisn't crime prev X
+-- M. 'is ! oHò	 lie, yeah
+-- Welcome to‘ úScatman's World
+
+‚ Qlocal))
+p
+÷v è
+2ON_z
+ü  ƒ	b2, mut°exclusiv¡ 2OBJ§
+r o
+	LEFTT  Å4Ö+l·R8
+	AT^( ƒ-›	4µ (10ÊO_OFF˜  57 27 " Û
+4­_ 6 Í
+±80
+	OUT_SCOcFÀ 8‰ Ç
+ª
+³
+2* !EDç*T  ¯
+«
+__LAVAöÖ³800
+	LEAVINM0 Ó”
+°%) Í€
+† S #
+¼ ÑB4000æ
+Ë	ú_.MASK° …bor(
+   #, 
+1
+)
+à,T  Ö*  S 	y ï,Ç, ± e ›! …
+~ /
+~1?UST‰ (0)“OSTAR%  11),éD_RKLES   !3)õG 4),
+	BUBH
+&5)U1_PLASHi  8#DLıP_C$7° 5HALÿ/* R8),
+	Wµ&9š VE_TRAIç÷9?FIR "ø9
+ â A12),hFÿ  1iOSNOW _?DIRç1^ŸMIST_CIRCç 1^#BRÚ]İ-1V1TRIa 8í¤·
+½3,’"1,­2º/aABBED_o@Á
+ BCEIL†449 DLAVA> ¢6,
+
+	CHECK= õ@1¿5aECK_HA= [|¨ 
+µ%0,º ­  “¡_STOP_QSTE=®–_CONTINUE ”G€  (ó HIT_CEIL_OR_OOBê2LEF í?}
+bK '0É OºaANCELL*ìÁ ä9}
+E '#·
+´EnvironmentÅ
+òf* ™
+ñ
+Lava / Frostbite (in SL), bu
+Eamostly
+
+±lava
+
+	HANG–
+N A@BCeil…9#atK
+æ§limb on
+
+	^Eó 09, -- Slow dow>, unusedfä´ A2 ÃDeath floor
+¶! ÒBâWater, has no E%,øon some waterboxes below
+	FLOW_ ™	Ò5P ¢ (flowing)Z rparametÔ
+ÄVERY_SLIPPERš%!13® äVery slippery,KWZ
+lides
+	= B%S8 ú#$ uFNon-` Aclim“$¥É,3BHard: (Always&´fall damageúi
+l 3l @ q%™ G 
+!36L Â Q 
+ 3FBP O  iyö2şShallow quicksand (depth of 10 units)
+	DEEPC 2ã Q; ælethal, slow, I 6J ~INSTANTM IM  tinstant† !MO!
+
+ LMY… Ï Ñ 5 V V & U %25-
+› 
+E ' (€ ö; Ö  M dU Ak V )b&WI6Cóı Horizontal wind,ğ	 < !38< Ù’at bottomÃÖ(˜wind
+}
+Ot ¥šw Ã #SSÁâ
+b2,
+	ST3c
+BOOKYpçQ5,
+	IDR6,
+	S˜!&7,á8z— ~ Á.FROM_MATERIø
+{
+	[Enum.Material.Mud] = 5 mGRASS,* _Grass, ?ounY _Leafy^ 	
+‹ <Ice‰ IFİ Oarbl+ GlacierW 
+X =Wooİ ²7WoodPlank<2 
+_ LFoil‰ ä^ OMeta, ½DiamondPlat_ Corrodedg 	
+¿ LRock¿ Ü¿ OSalt+ ?BriW ã ƒ ?Bas… ?PebQ Z ^Granik. Sandston›0 oCobble2 ¯rackedLavat
+ËMSnow, ?NOWÊğ!SAº
+•À	U V lFabric- ‚ }× ½?
+•‘ bFFLAGSŒ- _CHEAT -,’Walk on e!	Ñingle slope a Â-sliding.Å
+ˆOR_NEVERÂ	qfalse,
+V ôGod mode, atleast health wise.
+	DEGREELESSNESSó>B 	°  	w  PHYSICS ¶Use inertia®/6for÷(u&q only).â TÌb(techn„ò) ported from Rovertronic's hack BTCM?  r0 ö/BTCM-Public-Repo/blob/masteryöplatform_displacement.c#L185
+	USE_INERTIA\¼ âIf it should a¢
+øapply uncapped +Y U ò  no matter whatÄ Oãa, stic‘0Rthe gìa(until0atargetEgoneXL˜requires ¸ afor bex ‘behavior.¶öTFORM_DISPLACE_POS_Yæ 	î 
+D †EOSIONA VLló
+boundaries related stuff.µÕ_BOUNDARY_MAXÌ8š	wqrange lO barea (% ±) is 16384x Á (-8192 to +	 Ain xçzÚ:ñOOR_LOWER_LIMIT = -•H,Ã  U_MISC" A + 1*Ù ‚If (abs(}².Y) < WALL_Ë+‘), then iËxa wall.bit's aLc/ceil.N@ s = 0.01m QfixesD AcuckÌ!by+2ôae best! Ã depending oÙ!'s² 3fac¿u. (See:ıò
+youtu.be/TSCzC-WECw8?t=42)6DdWALLCU9+‘T õInstead of quarter-stepğ31verŒstion, iLEbe aV1tepœ0ñfire a ray between old posih†and next ñto avoid clipping™ 2andnÓŸ problemsÿ S90)
+	ÆöOUS_INSTEAD_OF_QSTEPZr Uthe S‡¡ °§ç¢Adoes„Bchec>KFwall¢ As inL òcertain conds. if youÍñ
+weird geometry or pushingş$s,Åôis on
+	SGS_ALWAYS_PERFORMS_¯4tru›¢Use a fake’¾5ŞiÌ©Q, aka½ Q raycÈ!itÚ h 
+Áflag respect¹ókspace.FallenPartsDestroyHeighB¡It's up toö ”to decide 1wanS5use thisj upsidesêCdown 1re: ò[+] Removes Out-Of-Bounds invisibleA. vFartherş|b6 "ly1 ñ -] Likely easieÁÜñ through the map (truncK )A #Noà [
+	FAKóD¼Ó#ÔGAMEPLAYÓ	#Ifa, b² on SpawnLoîsùbively.z ëSPAWNLOCATIONSAÿ From SM64Plus (š$ ñRbmario_9 $s_°2Öƒ-- MakesÉ !doüÎ	6 (i×RtimerĞBbonk†‘as seen i$Õ	„rn gamesÇBSLIDô
+ä ¯HackerSM64æ  3N64
+ $SM†%ë
+è ò utomatic.c#L295YB)Õhangable ceilA%³A	* FÆ!an;Btrano*'	**æon sharp turns}Afallt$ff5 ¢Move at 16…‚ of speeÎ¤2joy*	’magnitudeº r	* OnlyG§÷if pressing A or B ª1hav òo let go of A + hold itê1all‹ştime
+	BETTER_HANG¬"aturn fj
+bs;)RdoingB-ish.¿ qapplies- 6
+qis in A¤†.WALKING[ J"1.
+	=7T@LÂThe distance%!Z —7sto takebA. Se;Ñ-1 to disablef 2LL_F3_HE›MA1150cj 4moro Ï Ÿknockback} _HARD_‚ 3o	å#
+ş
+-- §AJòally calls onReset() {a is cokr¼#õbe in a dead state.
+	AUTO_RESET_ON_DEADÁo I #ãupdate() deltayris pastÑ ²number, capz$À#
+!isÛò10FPS Interval.
+	ñ c_DELTAa
+A1 / ¼: 
+[ oVISUAL> ì 2ren4“characterz
+2n'tµ&6theö	‚interpol7 
+#frpNO_CHAR_È< —	9"İ  _DEBUGÜ 	ôDon't show debug long$	§s that hit)	ûRAY_DBG_IGNORE_LONG_NIL D¨U ÷
+mode in-game (becomes studŒ¬ T!2INGÍG;!Y&ût5ó freeze(FFLAGS)
+  
+z|  -- ã(aÙ
+¬nightmare! ò
+-- WE HAVE TO COME UP WITH Vò-LESS SOLUTIONS
+--•&“is moduleg'QttempèaemulatMs0)B,
+--d W
+‚your own´ oÛ)ñ port, change
+-- anytk
+¿*Swise-ÏÃ.
+
+--!strict„E = {'¯#= ­µTParen  : aRoot =Š   á&dario =a(SM64.ö)< \Enums"  " LUtil! TUtil)e S
+=n .  ±1 = T . | 
+ ,9
+!  & 	u´F  g Ô 6 J  I ´L 	 O  Œ©-   S.TypeZ oAttack*  0  G VStatuµ   . 3 oMethod3  3 OSubtÈ  û  UUShakec  . !
+
+J ^ô M*bReplacñ%ÔÒ type, if anyG  }P¾Ó: Vector3,
+	VçD  +&´AnglePitch:ç  ?Yaw FRoll _
+	FacI  
+I  I ÆHitboxRadiusa  ¬ !
+	;FÈeOrCoinValue B£±: any, -- ?ds Pseudo2RvalueËñy're SPECIFICALLY for= Ï1ing¦ôs.
+	RbxPart: BasePart?,
+	CapFlagŒ "?,Ç T
+-- KF
+2
+/s
+Ç $--“…sForwardÕ 9s7{ã ô	.SOFT_FORWARD_GROUND_KB,   Q
+9 7 },] > ?AIRU 
+ R ŞT  ! }£? _sBack&OBACK' Ö   
+)  
+ U 
+W  /	¡ÿ-- Roblox HelperÏª!FL$VqCFrame.€ñs(0, math.pi, 0)K ë a for pû-Áà ((is!(t:¡): boolean
+ÁI'd use meta‘
+KLb, likeÁ	1 do–"--ª
+as true rsimple F Q.
+	ifÙ ¡of(t) == " "Îunot getv 1(t)¸2
+		X W t
+	end
+
+ z
+  yprepareo1anyª 
+,o Fr S = o.% ' :' e
+
+		if' Ë õ 	-- We're gonnaG!so×2¡operties uŠäjust a part.
+	z ópos = Util.ToSM64(e .	)- eextent1 BGetE 5 2) /L ]Scale9 eSize =G c- pos
+É 1Mov
+N‘downwards¯ dpos -=¤	„.yAxis *L dSize.YL E	®? oĞ ! =w R			o.*	A	" =
+Rmax(e× V )X,e Z; e	Ô 2 ˆ Úôpitch, yaw, rollm‡sŒy s * FLIPn 
+|
+" =X Å  ›Yaw = yaw Rx Aroll"3o
+	»	-- Or not
+* 7%or}Azero* @
+ Gor 0' g'  ' r
+	Ğ ì 
+ 2   û 
+ ' 
+ (  ) 	
+!o
+ ¶¤Ä¯ªÑsDelayInvincTİ‡ÔsInvulnerableŠºyõsDisplayingDoorText& % ƒJustTeleü!c d QaccepW¥Cs: {ø
+" }
+„É.NORMAL_CAP, wI
+ ?MET/ BWINGE t Ğ1Obj3T–
+2(m:D R, o:  #):¨ "
+	)dxÏe.X - m%.X( z( Z( Z0 5äAtan2s(dz, dx)5ä[[
+ * DeterminÁ"'s"n­sa given
+ òtheir proximity,
+ * < ,¢,í R.
+]]
+í 0dƒ  â/© 4= 0 C = mT1()
+á  R:Has()
+AATTA“ ó #ifÆ 4 ==&
+ƒPUNCHING?
+ 
+_­" BJUMPîQDdYaw&zÏSignedShort(OA, o)÷[1.Y);Qif m.Ù é  ıÂ ç Òñ	120 degrees total, or 60^?b way
+	V ª-0x2AAA <=µ :and <w#4AAAÑ	:			­ ëBTypeš h Fend
+  Ì  K?sË OKICKÊ ^TRIPPË 8–9–O4000–+ –
+NTRIPË Oelse X_POUND=V5INGŞÈw.Y < 0. 3
+o —T;¦ ?_LA« 	 -a-- NeiÈ!g’#B pou%Ãnor twirlingä w²'s verticala on la6 ,U
+cso the Ï#”is nearly=(a
+q(perhap#qñland while going up
+?”
+a-- AddSally,ÔState itY"onè2fir·ZØK,¤ Ais i”
+q-- only 
+‚ prior tÅ CveryJ Sa (i.e.w Cve 1 3 qit run)ı
+5andÇ· ?== #MRSLIDE«Ç _
+ Ïî[ã , V ’bRIDINGîfã
+àË2_OR< k +ñ Vel < -26.0 or  *<=  ôq #$nd©
+F-- P `%V Btype6Bó  be overwrittenFŸ¡s, howeverwL anot beÖcC Aspec:(1llyb ó rides turning aP+® ÓT intoŒbbounceÌ¹ ˆŸV%IR»Şgfç	7Y >Ô
+%.Y`agkZABOVE
+
+Â m2O.Y <f +WBELOWf ö¼ .t
+ğø	
+½ü	o)R = toğ=(o. )B%
+Bbonk
+ ƒterrainIüËò0 -- 1 = air, 2 = w’:60 =;Ô …strength< U Wangleß	Î	M rfacingD/Á
+
+
+Q 
+
+J¢remainingH0I  #m. ÿ - 0x40 * m.HurtCounter4
+
+gÀEq
+/
+qü
+X$2
+œ ş:AIRW zON_POLE k%h 1…-if<`C? orID>= 4uÚ¾ 9 29   ±ï
+GetY( ), æ‹
+H k ]	Ş'28^Vm:Set c(28.0)X‹¹
+C /16C (16C ”ù	-- indexes start at 64
+	V+
+T ¦-Ÿ
+(<=8and \Æ
+	¸ ¦*= -1.0
+		á/ = [Ÿ )][š ]©c % +àñint16.new(0, 0x8000¡| {
+æ{ VKÍ JBtakeñDFrom\
+Oz"N6>^ofloor(M)æs  
+ .-rße 	^8  Ar‚	< a<  3MED|(Aoif notµCAP_ON_HEADG§ D+= (
+ w 1) / 2T aÿ<CAPN 4= 0> g-- set*FromHit(EI)
+
+	ˆs += 4 *w)› &An	ÉW 	Âdää = (o :: any).h4ion)"_		and$ 
+'	; ö.DELAY_INVINCIBILITÎmH8(m.u!> Ê
+OÿINVULNERABLE))
+		or£VANISH_CAP4Znot (€ (orê
+1, o§ Õ ¬APlay(%( ss.MARIOØ
+$ED¹
+#Âm:DropAndSetÒ$(dÕì  cm, o),L)’e \
+ª	
+?OffS d, velYÑ6)
+	k
+
+æ‚
+,
+$+ ë#C ‹VelocityC  u 3€B:AddK8 .;`/)
+bA`aBOUNCEê(%(+
+
+ßpushMarioOutO
+fpaddin6#)f ²
+ 
+¦
+!oPûB hV$ædRadius% DminDÕ-=3 3+ mn3 3 + ‚ ÔqoffsetXH´–.X - oPosŒ' Z' Z' ZŒ ^.ÂRsqrt(< DX * 
+ +
+ Z Z‰A <Ø C
+¤Apushv 1new¬X "Z
+÷X )==~L Ú  eS$ ©
+jÎ #Z,Í Xµ‘ # =I) +Ñ *Eins(„ ): Z: Z: 9Cos: ú  G…FindWallı[#s(Y'U.new(¥ ,˜$,  ÂZ), 60.0, 50
+
+b_floorÁ,ÿ5QFindFY1pos– #if" B~= nÉ:nó ! Doesn't updat~ Ó's referenced; Ñ(allows oob dRHwF % a³apushes6Üsa steepˆ=@%in
+±jon)
+		È5pos9
+/nd~ Qresettw ıTV–â qG
+__JUMPO
+ª¹#or¹  D 7FLYr É SX|0]Ø
+aÏ* É,4	 < Tm*0Ö	36= I „|äb
+	P I+5 J
+r ‰b 
+% R xKICK or#ë OTRIPx 
+Kz»
+Ñ w… C• 
+ 4 ” 
+ªa  Ô:Å` ¤` * Ö°Do = î
+Ioó
+›-} .¹+7 = ¢Ç+ bit32.bor(æI È.INTERACTED, 8WAS 
+˜µ	c ü -- obsolete atmÀ£StopRidingÉœ1)
+	û 	if m.RiddenObj¡  
+	Ş  Èsñ)
+		stopShellMusic()am 
+æ ?	]]Ö †GrabUsedÔ Cany)Ì ‘HeldObj =^   3 m.=  0 :SetHeld{ø("bhvCarrySomething3",|CDrop] ¦ ¨h§  ƒ ( 
+Š!--©P ..j'bhvKoopajQUnder¿"ü /--‰"--^	q 
+!4"Ë ‘-- ! WhenspW} iÙ?¹throwing itÃ?!pu07 "'sí$ª y-positonB „e HOLP's  $io,ñfact is often exploitedf7T 1cloõ/).	AholpxABodyğXQLastPù E ­.new(holp.4	 Æ
+UB.Mov]01Yawt _8.Y
+€ ¯—™cSThrow¼ 	d-
+Ô HO	-- Ò ®  bI
+5I Œ÷
+A
+			|‰X + 32.0[
+	t)ŒmØ!.Y > Z> _
+
+> 1
+		“ á'p	AdoesQHaveN D–CapOnHead· ÇmCand(7(),ƒT $RCAPS,¯ o)
+		==9  K%? ¾¥BlowOffCap× ¤, capSpeedJ
+D
+2capç!Ü,
+¨x:Remove.Ñ H€ Rspawn ](...?$ W s
+%Y(C  ,
+K_à) and 12ô!18Ë“ .pUVel =C
+¸ ƒ
+g	â" +tÛ - f <96--	Û 
+f 3800Ò 	$f
+ùçLoseCapToEnemyH%ar…Có wasWearingCap =şIá-- saveFileSet<‘(arg == 1¤#Saö\RKLEPTO or RUKIKI		H $,		Ö C/ 	# ¡ˆRetreive¢1)
+	Q
+ÕH
+QClear× (ø , Sº( 	 ğ)¥dIN_HAN¥
+y£ableToGrabÛm
+À)
+?ÃÊ{( Ü áÕ·&DI
+†Œ)v
+z2z
+Ö9Å.GRABS_MARIO;\L
+§ êô(
+
+ÇtArg < 2r
+x İ1 „Advanced¬	\ only§1GetÉdı
+â™5TypK9> 5 (mØ: 3Obj “
+
+	for _,‰ # iw GObj.x Bs doS± ¦ò= .3 2nil¦û 4CheEGrabôã eresultà @c
+ ü Cysm.Input`o=±F_OBJJ€)÷] ç » vScript 
+m
+
+<$ ÂGBows´7	--~U .!
+©‡!&(m?ObjG+ .# [ %>=ş*+ì '		PT
+ô ¦+×-b8,	?$Æ  (4 1DIVI*Band , r.DIVE_P-+!_UJ  ñ v”4"  	›) 2“!unœB hit>˜FromBelow¡È		 ‹0jSHAKE_ì) 
+ˆ À‚BackFrom+Š =ionj
+
+Òb
+Ttest(ò8ione
+MÎM	áÖ UTRIP)´p+O  İ6	m:ä	—.)`jE	yT ì	%(-û!
+! 4_"Ì	]A#	 “.TRIANGLEKx
+	if
+		`
+ü&
+  1or(´l AKICKC 
+5 OTRIP \)	ü
+	û¾ £ACTION_HITß A
+ ö+*AGrab  _t
+ }
+§
+}<  Ë #re¨Jçµ ˜(O!`
+©
+º%|
+¿%aATTACK¯oØ6
+/4)M £ u  »ö 	ì“ ( .XıÿAndHolding(m);
+		Ü  éÑu X $  Ä$ #ED‹	 öJ = o”
+Aor 0• ™t ¶ o ko_ Œ 
+h_OOOF)? 
+5¬ ±/
+	ò¥, o, -5.0)v.-H
+ç÷shouldPushOrPullDoorçVpointÎCô cframe: CFrame)›Ä-54 !.XÂ œ%dz# #5  B_, d‡m 	ô9ˆ 8)
+	( “) -¸l5%)
+& HA4000+	 Ò&¸ w1001²* 2Ú_]]
+
+- Ÿ
+&QDrio ÄOionsÊ ¢
+Ş Ë ì
+WFlameÔ#t?yb€.I qBURNING÷t«+c> 0xFF
+%<c&€%¢
+‘ INTANGIBŠ  I 
+uÃ é+W?%‚]if (oÄY"  	6 ~#EDÒ	t
+˜'Y³É,ç/aWaterL6Z	—9Y > 50.Å%
+ñGENERAL_FLAME_OUTŒ	\ „		m.BurnA;0 ¾aN_FIREŠÛA 
+ ¡Æ	¹ g
+G.Y <l&	‚DFALLş
+
+p& 	I 1, 1İ 
+0	 p"ÂA mus¼1i6MoUnits.l
+Dëhm
+ûA)Z ª'
+*)D, o)›ö IÒŠÛÒ " ®I/4Ã)‰ &sD‰),– 	²	“
+f/Ej)“
+í4% ş	v1­< ;®å
+() ==m
+/Q 
+*:(¥D IU# 	VHOLD_( ;
+³	 ´	ß	wÊ		u#	°º#--(% 7*2Andb,# Aplay
+w
+
+Ÿh‚--! PutsB3 in35o$3eve¾V"in/32makçt easy tß Qescap `< o>ñ
+o crouch slide (shell cancelâ Ü¬
+ <_ú#7œ8[&Ê
+2É
+6  Qû 
+
+»ù # |å?1capŒõñbcapTim1.½L ûM
+¾u
+c±M6 = ‹Goæ‹Gµï/C= ˜
+10)
+¨ !  
+ <~<
+ıÕ2andHn.find(²AêEFlagvö Ó
+ØH/o)t2Dã
+ 
+±96 hĞ` ¢ æMHEADPlA CAdd(§f3if  # ==Qj  U	Ç &3600à NòSEQUENCE_ARGS(4, SEQ_EVENT_POWERòL%u Ê0t 0L ?lseë WCu  /18ê (µ	w _R> m.C rm   #= c> ì¿ '£AIDLE" J h 6 
+³ (Ï
+Ë¹O1
+òAT  ”. 	¨ f0’HERE_WE_G£1¤6~= â
+ƒ-- playC (| d ³8	Æ 
+Q
+ˆStarOrKeÊWNã	S‚starGrab± ¥ô STAR_DANCE_EXIT/ cnoExit]	— -- (o->or­	ñ & INT_SUBTYPE_NOF t) != 0;M …grandStaGQ ¤GRAND_START pÓ9u>= 0x10• ¢ Ì ç'	ê+	D notë 	 :•|: å@5> 1Ü	 í7u F
+v Ÿ\ŒĞ
+Lb k-` Y
+3[ ¡FALL_AFTERÂ#	_ Ç <uJ"  =F6 «E  ;
+Ò%$arÍ<õBand(
+ ñ
+rshift(o.BhvParams, 24), 0x1[ !QColleÜ Ì¦.NumCoins,f  õ -- m.NumStars =]!ÁGetTotalStarˆs(gCurrS úNum - 1, COURSE_MIN cAX - 1c úò--	dropQueuedBackáCù *ã--	fadeoutLeve¹*A126)W#m
+V2ENUQSOUND„ 'ifHá
+ RJUMBOD °)J8  
+“3, (pBand S–) + 2 * (ˆ   ÷\ ¯ˆBounceToÁ%¯!
+ó
+0ö$ †’
+>  ş
+Çˆ
+; l	ñ	y í$_N²1o.µ á
+¿
+\¡– ‘ 
+Š ?risTwirlÓ
+O  oJ
+ @ ü	n  · w  ]HÄ74¥p
+a x X ×8r, o, 80
+-		Ë3féBARIO·«„ ß!4 · çç’
+³š 3š '†O
+ÊÌ(
+
+)hoÏu	u	$.›
+Ü:í
+†<s~= 0)
+	a
+W 1and'Çâ
+‰~ 7Arg 
+˜ 
+t.C
+"==Ó9;
+
+ŒT 7VGFrom! W._, o)
+ôEö
+
+Á ²	", zëb™	P0 B_SHOz TÎŠ 4 ,™1ArgT3 pB
+M H˜ª
+?PolÅ‘	< "*Id¨	k(•	"F)G . =1080ã  e< 0x0ARËbm.Prev›
+¼l¢¹qvelConv·,a‹lowSpeed! Ÿ <= 10.0
+ÑU ¨
+£	--! StilliYİ`Qs forÂX£--  Change4pÊesolution. ve±'‚s if any)
+CPole>"Z Ç>`	+j
+> !Po)2 ) BPole>m@.’.Y - oPosE26	ifgAö8Y_SLOWC ù --! @bug Using ¨ Õhere is assumºjq0.0f duFŞN"etµwqearlieróM2--  ÔThis is fixed
+oñ Shindou version2 ù 
+f*
++ Á0 -- FIXED VÖ
+[	H	Ä @ &UNB 
+9
+Ø;"	O
+2FASï	â
+OCoin~$@Dcoin–8&KA1
+
+	Š
+§
+6 +=? "
+	€ˆ
+D  a
+	if oWÁ !  	º
+â Ü	d"ò	if CourseIsMain # ANum)‘  Ô -Ó C < 1! ! !>= ª ábhvSpawnStarNodExit(S'ã.HUNDRED_COINS#?	]],İ,
+GrabbabJ
+	é,
+¡._+% o.8« ÿk
+ïEí5notÛ, < :!* 5 m Z»H Q.KICK¹Ea A 
+  
+–;,—)›É
+z*®Ã
+'( -ï//if`(† HTypeô&½‰   1; 4 ŸMà1NOT³ºG
+1	m.Œ.B
+ 3
+ƒ'
+–.¿½ Ò ~t.ïEı&a é §%Ÿÿ -
+-- Initialize %£ÿ-- Outside redirect, if needed©
+P dê)	 å¬
+öÄbProcesÊ9 äsÕ /)
+à!N	M K
+¤Ç
+½1> 0# Nnot ‰ Ì
+3 -ßô 	Ò‡1i3
+6	if* t Pñ µ&Á @ š3rzTypes()ËÜ3Ÿhandler iØ'BionH" ç3ˆå3G 1[1]ÃÒ ’ 1FTypef n Oğ4
+Ì¨	. { 
+;	~ º È	 X$noÓš
+°¾ Ë$Ù' Î ¡intSuccess¸ ÄOut = pcall(?w YZ!2]~š > 7
+0 D	end	 Em É p _ Tbreak= ŸÕ9 . òwarn(`Failed execut4[Î%¢ because {m 2}`,Æu±.traceback(ˆN® { 	     d!ßwò kick/punch flagu"seäöHcË¦! cÓ!s n!'sU3è3, hít!ge^ awall s©ÿanyway.
+	m:CheckKickOrPunchWall(†9
+«2	!LKICK _Uß
+>‡ Y
+ ›ùMethod.WARP_DOOR FDOOR²¡d	 1 q ídm E+ ã .â)9µ;i= ÿ÷kDw	Ş ¾'CHOOT£
+6--	OE
+/Š8
+& AHoot¼ qRelease¦!”/aGlobalô(E
+	--> Ç&û Nê & Â 	œ ZC  
+X 
+' Y RoÇ9± 
+' Y G± & W G-- @×8.c
+j   vr  WICOINoCCoinPr7 _FLAME8 j/9 ;SHO¾
+q _Shock9 AO_TOPw æB 2C %_DAMAGø ö,~ '[ Jø ?Pol7   …Ã>  ,D 74?ABL¹ ÀA ‘#oOR_KEY… $C ªMR_BLIZZARJK?ó} :: { { any } }
+
+k =8
+M{‚PlatformŒE = {
+jSM64 = sï<d.Paren  C 9{   {{Ç¿{
+F#  ¡{Ğ„{)ÅSurfaceClassH  e
+
+type±  § ÷! =ˆ“-- Use ow0ù
+øQ	i}Aown qr2men.‰
+³¢
+n³QRAD_T™ÄCRT =Šô0 / (2 * math.piá+XZ®IA1, 0:2",õ ertiaFirstFrame?(ÃsShouldApply, " ¡
+-- We mayûq to fin
+ó ABSOLUTE center, maybe the pŞ•dó
+-- from an assembly of welded parts.¶ ’AgetC[ 3OfA4 ÖFromPart(part8t)ò8‰e qParts =b :äBqnnected b(true)ÄÂ
+? M ir;f M¸0çB fPart iõ w åB# = %+=—Part.Mass$ —9
+(  *@ 	ip 3 /3 n - 4-- lqõ -based inertia,_4_units´ ÛL
+«,øt´4): :W`,Ø4zrangular¾Tpart.¥ A äZ™Dline0 “:ôu	< L% ; U / 30r fMN6AddıŸ z.new(0,¬*¤ !.YL ,'  MT‰U > 0.r-- Calc×vWour d  'ô thx @magicoal_nerb
+Úr¢;ª‡ª8
+)9 "Pr(1²;ö .fromAxisAngle(· Lc‚ Ã 2U * r
+b8,{l f- r) +¡
+.A ' ø?¤
+ÛÍ ¡
+U1 * 3Q one f>6 ofú"roNÆ'orĞRB ‰•uiven
+ *; b. If i¼Ñualse, u2†Q keyss+]O
+.Ÿ  3(o:K	|:	,q í,  g_
+æ{+ m}4(o.ŒJ))
+	G S
+z‰÷Add.X,
+		math.clamp(9 ’.Y, -64, £
+.…–2andN1huga!64ÀQK !Z
+’Qi;ümÚW
+
+Åw Ö—5 oB ­3AddE
+		m5 +=&# 4m.F‘9 +=€AN@  	y<YawC ).Y_İ"If$%'s
+{“Öt null, apply ²ä.
+ * Otherwise+ B ¿ if allowedÅcÊm€¹Bloorœ!&lo™’	ñ : Instance? = (k^Ó
+ . )Â`æ q= not (uFabs(¬D.Y -m ÁHeight) > 4.üƒ-- Let'sF #Ë on a moving‘ï”94lidE–Ñcuz it's FUN!šÒm:GetCeilTypeR7
+.§ñ•(AHANGDE¬á!ce™‰”m.Ceil
+		CA = ( ‡and ceil6"		ê ù2› ¶'¢ 0.˜DSLID 5Wal6pƒ = 
+ƒ  and walƒ 
+
+i›3and‘ğ lŸ	(true
+		# µŸƒvm, trueg€):z 4andài ˆ  Fæ #(m`"ö
+ô2ê
+ ø
+o"’u's lastñ¼%%ÿ782195ed025b5aaa8cb04b8c9bdc45fd34305356GMtò
+ a real note: its actually{
+ñhackersm64 LOLOLLOO LÏ<u#--Ç—Æ€
+à	şu
+<A b *= XZƒR !OnFuSof leQ”#he;=e, boosóZ% yŸñ×ö S(+p p /.Y"
+	•#•-- Drag
+	> <U.new( ‘.X * 0.97³ Z ¼R Stop¬”ertia oncµhas landed,8
+Zw<@
+uAIR) or!'()eS?bœÕ“:GetFloor{~{
+F¬tCzero ®“Vò 
+' --!strict
++İB
+ C.__i…r 
+( X ºCore = SM64jóPlayers = game:GetService(" "”	T ˜º/ASharù+‘ b(Core. g ’Sounds =  :0TAnimaçŠ!  
+MTypeÎ  ñ <!=  @;= èĞ Y BButt| cEnums.  + |"   	& VGroup6'  ‰ 5Cap‹  I  !Eyê m  " 
+ #  $ "Has G  ‹ n‘
+›QModelZ ±  m aTerraiQ%   & 	'  ( 	LP) 	 Á fAirSteK I IHang     ‡Ÿ$ c  <ğP  . X ‚player:  M2rt( rs.Local
+ ‘)
+type di0±{ [string]:<¡}
+
+export & È`â 	( Controll| 
+ 	* 7
+S  
+}  ! =Š Hof(sè‰C{} :† M ,­.))m 2 = §]E) ->sYì r¿  	M — %¦ŸVARIABLESÁ ¢ïASHORáÆZRAD =$ /7- !sMe
+‘SandSpeedbã 12, 8, 4, 0 }* tX¯¡Ÿ-- HELPERóªë¨safeUnit(vA»ë Gif vª>xBâ v.Unit else vv5upXòsolveBestWallFrom
+ñ	walls: { RaycastResult }Êle: number):! ?3²angleDiffStg	LDhuge" Mbest> 8\âwall in ipairs ).\Á a 	Y1Abs» QDiff(ŠÁSignedShort(/ # -tx)›zRRwall.*d".Z|  !X)'Ö] 1 < N Ş î
+
+ =( ¡
+			best =Àÿ
+ÄObest£BlopemCFrom—
+‘epends o^JrW#is›[" on
+aslope.3 U ƒj
+ A: +Y MDown - ×Side-to-side:&~ZM¨¡}@d4 or
+"q$bFacingA I.Y *¿¥1= 0
+
+x2absü˜ /ª20.9 " à4„) >= 0.5
+e-- LOLJBface„N~{’¹ ’, 0).Look. 
+%vG H:Dot£ )
+Ç 2degÉCDiffq$ÏAclip² •, nextPos1, hº4Off;?S2if Â.©	7€ Q 4setT E = (85! z¼7: aoriginàPÔ+!& *² Eset)‡«¡=â ›F 
+& ŒnextClipn" =A 
+91.01CşRSM64(ª ,4 Ç n)È Nj’ 
+>‚ N4 ³ignoreWall, b
+ C’‰ AGetI. d?adsions(W )S snormalY‚ CClipfá8³-- Push awa(cclip p{# ò
+we make sure we do a safeŞ„ push, oòW*ò'd get propulsed uX/+s^ ñin a weird way sincDR ray f! vø  is higher thanŞ©,t,AWall¸(+®AY) <Öğ+		­bESetYRğ6 +  N]U * 5)V!.Y~úLˆG0íG4if š dpË a) O<= -*  GCeil× W„dir = 30C"DsignJ ­  é a + dir 'qerererr ò im sans undertale' ë+”Å ;
+‰ !+=eïµ¿$ *$‚XZ) * 52_ Ş+  Rªí
+Vv ÿolveContinuousClipT
+S?notW¡ 
+7Ñ é%PoÂzÓ â#ówish to move as m†Ípossible¿Š%we$"cuè.atravelF "diY! ia/“re was no#Rfound`aThis sv$ó always be successfulşŠ9¤…, unlesst¯n í!lyÂ amount of f)?
+.B
+iô»È 0.25, -0.25<
+Æ !Di	(11* iÚ2-- ib shortÀ1  ,A< 64rGi ~=ÏK1†´˜clipped =¢ ,Ñ' +f  ¢ í"_,[!He¸µAFind/(a Ä 'if* m
+60 ™
+ ± i4 
+Ğ ¤ÿACTIONGROUP CANCELªï	÷ heckCommonObjectCancel%7:lA'ifl™
+[4100ıA:Set$ bPlungeY(š
+S áQ:Has(
+ åFlags.SQUISHED›R 
+wU 2 E%„` ¹O<¸OP 1TANc1\DEATHV ü:UpdateQuicksand(0.5¬ 
+ôÛ;2nilÓ
+…2ForNtW #m:§…8 F- =W‚
+
+	if
+		
+kType =iò INSTANT_QUICKSA8’—	/ 
+×6 )‹Bd m.ƒÄ
+ Å	9
+-  . .S m#
+	r)õ 
+9 ¦< _falset ùöµı ƒboolean?OPè
+8	 $( O !¡+‰  \ü„0002020Eâ0 [_  \ y	.bEîŞêbÖm@@Ï4³
+	Æ3Set  ¿b¡Airborne¼À˜$ˆ	µ‚VERTICALùx
+iALLOW_1 _¿c	> h%m.µDepth = 0.0pâ
+€ŸSubmergedÇ>Õ$ o8nŒ >d&ò	Â÷VSetY( ,i ")
+Ÿ~A! If[rpress B‡—ãrow the shell,Ğsis a ~5î*bwindowE 1  w" ’­4helqs! iø<G 1butk 1areQ'i{C Bater+ “ swimminga<.4
+Rallow	
+qto hold¥ TwaterF ² õ on land (used for¶}ƒin DDD).×Q '3== ÄWATER_SHELL_¤’¼$(m9_#.Hg~_}‘O# ·³T:Set( i¯ 
+á€;Ãm  l "
+	_ “Dbm:Tran.‘¡ToWalking(ò:Jb
+î^PºP %A,'	  g ˆDROWNING~	f·fÕ
+0£ - Ÿ¿
+-- BINDINGå
+ªcP…Ò© £!}
+  Ã#6 = 
+  q3s =W *$Dound A9 *  
+! Ï$GUtilP> ‚Register¬ (Ã _K,‹ 
+( )¤- "s[ TType]`@B"- "",¢ ’.GetName( Y ÓType), "was r ¥ed twice!"]e 
+m 'qùŸüŸANIMATIONü¤VQšIsAnimAtEO×
+
+®
+ï8(>= RCountÒ[ 9Pas] T, subÃ?3a¾  Œ1sub²2“ o - sub™ 5SetË sVanim:å)¥ ="niê-±typeof(animã 2"In¨Q" and( e:IsA("c "X
+) áAnimCurrent ==1 ‡n û
+2
+		: ƒt<i
+ÒAttribute("Nu# !s"W·n m \\õbInvali¹ Á(Ø provided in +":"$9F   0· ƒ ÔEend
+ñAtart´ q© P
+ã S1 "#0
+è ‚AccelAssx
+ ¼T¥ DReseNc [Dirty – ' =£ ­s† dAWithœ m e, acceî·±­ ;~,	µon 
+-\ vV " ¹?celTÖ 	!To Ï Ã
+À¾ h ©e € ¢ ˆŒlÄaL $XC0) +lH à  8 r8 
+Y D ñ! < g J + 1"Se¡FD "P2Pas2 # cø%is5  Â 4lse$ ­… 
+fU a
+· 2 u½T ˆ7
+		¡ C = ([ >| A  >8*Rist - ˆ2M Ÿ E E== (œ)Q9
+ † €- Ÿ¯
+-- AUDIO
+¼ Ÿ-ç APlayñ
+´(_, sound:  ?
+ÂOE1	»yqassert(< ¢. H \ D & ):SRPlay"5cårollTable = {}öQchancz
+P bs')'Sname,- B in -' /') _ 
+¡		table.inŞ ‰ t, name)vJ #% b(z"Cpick³Ñ [ˆ!—random(1,= C)]
+	)„R[pickP_v	T	¦  íJL
+
+‡IfNoFlagşc ,&N
+3£±:Has(flags)@ ² %m:k ( ì9 3Add9 ª 
+AJump\¦ )LH ×ebARIO_S½3=LAY’n C 4
+("
+ q.TRIPLEDyÈ ‹ g óYAHOO_WAHA_YIPPEE×A
+v	\ 
+È¯"	Z “PUNCH_HOOR , 	eYAH_WA. ´	
+Ôm Ÿ
+aAdjust’ wForSpeewçR_absFx VğB(¸ bTODO: W  ¼ W o Pitch… ¨„AndSpawn‚s
+±Dwave°?­ p<  Âm@2G ==  yif wave%		W 4 = Ÿ à.>ßD w_SPLASH‚9 CWAVE]^ § ¶ 
+Â¡ CDIRT‘ R 4NOW R ESNOW¬ ‡6if é “ )m.)A:Add-EDicle
+: 3w 't 4   ,!<"2steMqf ø .Name .. "_" ..h 'if; È 	½ t
+
+²g  ‘
+üc›8|è™ U ; É k¹ V¿_ jç |Landingè k# 
+Ÿ  ' =& ¿ã ñTERRAIN_LANDING
+€ëvAlandl 1 = ,Ô Ü È·)©y
+q   o e	(
+
+%\€ 3, 1È,
+ø*OOnce)í qÁâ OHeavó
+ĞRUHEAVYEÖ?
+ô Ûtø áNj ½| à5, m,  ?ô	 ! =£4 Ù£	BJUMP‰" t R$:ü	l 
+Œ9: £ b ¡ 
+õ	q -d
+Ï
+ D !9Ø!	
+ E F+?‡ ¬
+¡ 
+V 9  o³ | 	² °
+B V—¡…)o STATE[²
+çî',•,V1^4' =$ ã
+
+	m.SlideVelXZÍ¦	ô48) *6  5 Z5 i› 
+5 
+ C"= •4g3.new(„ &, & F.Y,  Z® BFClas¥)sÆ¦( ,# Rhit =)L' .¤¯4hitôŸ4OàVNEVER„îm¬lUE.NOT) ±
+Q 1hit{ 2hitÖÊÍÙşP ó
+IsHard = hit:HasTag("Hardp ß3 rphysics- .0P ÆalPropertiesK1fri
+$ =< #.F 
+& h 
+‘ óand "HARD_" or ""ø!S <ò#2Ù6¨)¹ ÃÅ[`{hard}VERY1`·Ş
+P N £I p79å— 
+Ç	M A hitÓ=="Roof"O %…Dc-Q.HARD
+ŠBq.DEFAULiù
+P 	> ) Ú
+
+7GetŞ
+CY2-- ­ \Tfloor*7 m´ì˜#.M „È 7äFROM_MATERIAL[D I2 
+Ÿ ‹*% ù M$Nz'„\otherò7 9°F1¿C 9 ô .X òAWall2 u &B  t OWalls ûLs &B  s ?Ceis };xDownhilâuturnYaw
+) f®;2Yawô ‹8$ifE y	 <¿>9
+		F #+=À=+	 =Íö=iš;8 - / )¾	 2 < u£¦IsSlipperyšÔT=EÅ i 2	0 È&' ónormY = 0.7880108¸? =	¼Ş	I ö9848077 -- ~cos(10 deg)\ ÊW e396926W 2W Ø[ ©iùJ¤ ˜9.b8á  	< =Èo_ÅDdeg = 15¼%@ 5¢#= /10> ‰B 2B   œ!ra“vƒath.rad(E{
+¡oscos(radÕ©Oteepn2and¸:Í)bÆ Jw‰
+/30Ä+1Å*ƒˆ	 · 
+Å3Åd®8ÍBõRelativePolar(
+	Õ
+JCAFromAH},
+	dist R
+): (‘D,Dy$
+Y
+" +8BX 1) *Ûã xE i
+E F ôŠx Ctest ' +¨
+¦y, 100, x)í#ù:D G' 
+õR, yaw`Ao<÷ <8 T) * 5È z+
+
+4 5 fV–YA ±  ç/
+x%z)´ ObackL "-M -N ¶Ÿô_$ifˆ© <andp 
+å × fYDeltaü> -š9‘Q 6 	¾6-q 	j U^ 2 <) I 4^ 2ú	× A…Atan2s(5Á2 €/ H
+1 
+­ 2 
+Ñ
+< O	ÂSetSteepJumpôä%m. L
+	@
+  ò--! ((s16)0x8000) ha¤@VfinedÂñò Therefore, this downcast has6 q if m-><e
+ÆÄÇDTempÌ
++Ú
+³
+@ R
+" -ÄVTemp)ûD
+ö	S 9) *–|µ îå4 
+a * 0.7Ñ	æ ósqrt(y * y + x * xJ¸ Å3ÚH2le,Ë
+‘Tx, y)`á _/
+	e7ATEEPÍ ?, 0	ñ SetYVelBasedOnF–w§, initialV£½Ç, multiplier%-
+Ğ ‰VelocityM 3( ? *U )(Òm.SquishTimerx=or ¼5%> KCl * *×A5h5
+2Setv£7  aŠî  A¬
+³ #if\  „"DDOUB„".or  …TWIRLINGÁB  À .S
+:% g ©°*"52FB%
+¸S= 0.8’Î uBACKFLId İ+
+T T= -16=+ !62Íl ¾# Ó !69F N7ˆ	Ğ ç
+;»_o  A8´ °
+
+Q '"zò/˜$ ¯fArg ==0õ 4‡  Id [÷s8ŞC31.5Ú€ ã8G !RI@s7ı Ù F¿ ‡šF C d ˆ9
+z ‘ ñ^KICK_AIRš ”TOP_OF_POô¡ Œ 6Å’ZmD< 24±
+§ A= 24f!ndo‚WallKick]?= 0Â  YSIDE_Â:5˜ 	Q	Ö
+ îm49ndedYaw-Öí T§  E— X— B-0x2”ä¦LAVA_BOOST‘ 
+ï  R, 84)¾
+ÃÚ¡½… 5DIVÚ@sIˆ	–+ı Å
+„Vel > 48Â àz~‡R = 48T:îb Kr”×  p#LO¢c ¶Zjó		m.LongJumpIsSloU« _<= 16& {bV_KICK† ”«#12«	D6< 3D	 O= 32¯
+
+*ˆ 2'1vqm.PeakHÂPX
+e\';‘FıDÔÆ ¬•Aı·)	i_¨
+‘!  É S4R)& !ma
+S†ath.min(8’Mag, 8)
+	Ñ 1Arg=3 !or¢S7  GWALKS	(if‹ ~TU…if 0.0 <Ú1VelÖ%d < magz
+66mag¤£
+«‘kingPitch|b'Ê – /
+Ï Ô
+BEGIN_SL× æ .ifvÇ)" ®À
+1BUT¢Dü*O)Ç% qSTOMACHo ( k|Ÿ š  H Ÿ * ¤ ÁzÜ?} |:
+Ò( o
+¶à 
+* »T#32‹
+
+oCutsce›
+·
+
+õ EMERGE_FROM_PIP` à 5à qFALL_AFpB„TAR_GRABü
+’(ôH ‚SPAWN_SPĞFBORN£ 
+ª  	ÆSPECIAL_EXITI ö* äJ0 · ¿/64ó
+ôô , Š	®<ò-- Basic nil checksDõritical componentsë:Ugroup·8CbandÂ?,`õGroups.GROUP_MASK™j
+ |3-- Ó…Øo tÊCs¡ s Â sn ) /¦  ,d 6ArgO
+Z öÂA 
+\  ^ 1SUBJD» 	ç` àš_ 	;^ ”2-- Of flagsI	hRemoveL	Q/ »(Ù5notz4
+oE5AIR|Å	| µFALLING_FARQ» ß ò history
+	m.Prev'†F³) -- Copy cá>3 ¡to previouFkUion
+	« 3Set ))  !--Ñı3newns/
+ †metadataQ 
+ Úcè} ¥-2truÌ
+8
+[QmdC®
+ :õ
+Placeholder until replaced‡  z X q<‚  )Äs 
+
+î ²GetCollidedùRO +SThrowãHM .VÉ?è .—ı=ìf$.C # ufDPart 
+!Ev³AµjòReplicatedStorage"):WaitForChild("³M ,")r
+Iƒ× $æº	 8Ì†İ 
+BqPickUp"”8&tr+&jÍ".P ‡3_UP òend
+-- ok idk what im doing but i hopeÙ“works yea 7donõş"uhÊ:qup lighÂ‰˜BÜ its empty id³SetJumpFromÏ1 nTÔDepth >= 11.0¸V ì èS_9*LAÒMe$!H:X )"Ãm.DoubleJumphj
+€ Œ d¬	FBprevŸ„#()¦ Ø 1 orˆ  AFREE4
+  £²2E_STO‹
+ F(  a¥^
+
+  % V ¤va
+~;…©|+=<† 	z5> 2uL  ñE ©ï ö % XÍ¾' % 0 ®µ'
+Ø­P4l™]<Ï j
+×
+IHurtY« 6, hqâDf)
+	m.H ( =& 
+
+·  a ïbCommonğ GExitÜ/¢U•A_PRESSEDß œƒ aS †OFF_FLOO&
+S  4ª 	ïNONZERO_ANALOG¯ d[ RABOVE¤X 	¢^ ä 5¤ ¦OHoldªJø¯@X ´Ia ¹E] ¾$w	¶unchSequencÚ-Z#en×”, crouchE aœFB 
+d
+Y Z%;
+		k # FCROU|KK  OIDLEH 4INGü×
+1Arg<É 2ArgÚ   ª	 1© ÛH 
+¡PlaySound( é7¢
+D_YAHşíÃJ1Mrs.FIRST4 M© 8µNZN!0)÷
+c2 or 1	°NNÏ	Ö×Û³ø,!tr61p™A $ =R  °ybsizingLas whenGVÒpunch reaches
+ØHF]game.9ô
+.size:FireServer("Right")Œ %#	
+ƒC.¶§_÷	Ã	œ|T_FASTU
+<ô“ –‚BÕ#g# 3%F »PÂÙ ection(7u3<i %= ëé3é
+WéoSECONDêo5 or 4ê ¨!—è ßê à&ß2LefŞ²  ì&= ú6×RPunch¾a" 1ê  Û%3= 45ú] 5¡Ÿî á	6× F 66áà‹ÉÏ2HOOù&	#  	aS ×ü|DKICKV 9  TĞ í2í
+
+[ 2>= ’Z "<  âòe foot during kicking±::×K*¡õ6FooõÂ=9Â$¶ “BREAKDANC§dX =4 A>= 2˜  tÄ: ÅWTRIPPÅ
+Q	ò2é
+ T&-#To [ !m.‘,Ú'A	Ğ] 
+PB¨
+ 
+)ô	+  ´'"LK)M- Ÿÿ
+-- PHYSICS STEP
+Ã ŸQ’BonkRefle†}anegate	-Õ?‰2wal½"BWallP !~=d"Ç
+Awall€4)Ë-[w
+jwJ
+': n)  w] (- ±&/z .'!4if Ö
+¾Í¿
+E BBONKHyN FBONKp 
+( 3HIT k
+b&- c  ?/$+=4	«b0x8000æ+`r„ ¡„OzeroUqPushOffu1…$a,®
+x 	KË
+1D²1$1AŠ1aceÄ
+<. 2> -z;B and$F #<  j ü&	z@<	X¤%‰-©  P É1{3
+% 1funŒ/lÑESand€ái7,ª	 ”Qm:Get ®>)»1
+		; 	!d Ò 5 
+L<RDEEP_?_æÅ6  
+P9 1 m9  3)
+	01uorce = šxÀ nD
+”‚Force"))Å D 4í ×3
+,Zqorce, 8 ApushcF = sä "s[> r> a + 1]
+à^+üV.new(W *¬7ª m), 0, % ã3% ö
+Ù cŸvŸ ²RWindyáƒ³@
+ª„HORIZONTkiü6Ù ÀÄ.\,
+.µ
+!¼).şÎ j  ûÈA
+
+		ƒÒVİ>n	aÑ * 0.5 or -8.ï 1	ifí  
+• ”v Xøå
+
+ ¦Dú.
++ ‘= 3.2 + (1 bGlobal°!% J.¤O#$Stór´,!ToŒ!Ÿ
+ù&² è ì5dXZ
+	m.
+ ˜X7 «Š 61Gfxˆ 	K	dRn
+±Sı•#arşFStepá .‚takeStepAèÒstepResult = C¯Step.NONE
+"'
+	H "m:‚P!()*1º , ŸDbor( ,±pÂA )µ	0 2 ==Y F%ô
+.SGS_ALWAYS_PERFORMS_STEPSÛ		Ş –m:Performç (‡2--!ık‘is respon‘yå for several so¦:awarps.5 2Gfxr>L
+ êG÷ h
+ yQuarter:||»€ Ü+Bnext· ª{< E, 60ÄRlower6 NÕó X ˜, 30, 24)j ? 2)1uppP ,
+ Ë„allWalls†e 	i60, 50e J e  ëL‘IX_WALLCUªY, W™
+ Ê… 
+Ì¬€	,i  #²MBceil3 ê DCeil+ K % )éN­ ¹ 
+r 	JE&A.HIT_=nQc£Ş
+[ R—/b_SHELLÖ/
+™ : <=ƒp4and «KRPseud¹{ 2a Ãp\
+ F  · ,B.Y >– 6+ 1í	( ˆ+ 160 >=‚é«	6ª
+5‹  ô˜O     m x RLEFT_S î 7È ı
+®  Ÿ Å  
+( ô4new¶).X¸J2.Z)®½DAwall-	:í?naA? ¹HZ? ,X)(®YTRth.ab‰7	H‚Qã»ÑJ‘ ´) <= 0x5555² ( k N	†E‚2 R ï[ú	ó áU0J‘2not+Ï | åJ ‘Ûce )Ötsteps =ß ğ ‡d"4
+³S = 1,B %doià9¬«
+
+! Xì È B.X +ê WY * (N B.X /o ;B ZL ZL ZL u-- MoveN ±Y up/down ddŠRing oKèB¡ we're loo›qat fromk`! nî,[ #soPú B ıs can be detected.YÓ ?Y +‹0ûÃ ú ó X³VndedY
+ VZ)
+		8½	¶K 1Pos{ <_Ö
+	×
+ 1 orÀ( òô¸9m.T*`ü  ?()
+×	!_ 	Í ¥ )© 9 Ü
+8 Å/ 6
+¡CheckLedge!¾KwallñQÊE
+ÑW
+
+Ä,f• 0É ¡  	\VdispXu…E.X -8TPos.X…WdispZ) Z) ZáP *Š X‡1spZ¸E¡ ZV¡  \ledge¢ BY9X **
+Ledgeª 	1 Z1 Û c b Xt*KC160,b N
+( Y ìV
+ ($ `"ifB 4Y -¸Ö 5	7 Q ÙX " =T  …ı
+ # ¡
+N« D 
+  r3 Y V
+A “Z X] ˜ 	»1ü+ r ‰ ¥
+áf¿ ¾û8Air;Å( 
+°Gstepd4øı®‰	O E, 759 ƒ	¸
+)/15¹
+w/,
+ ûk	3[ @ sÇ2nilş
+š	
+!<=Ëbş	¨ië¿9 !Á!Ai~.LANDED"
+T ˆVZ
+O æ©±<ÿ
+F(if‘-¸
+>³§½™
+q!— =  Â©´
+$ &.Y”Ä	…C		--sı¨ EC!0,¶
+Cstep¶N¢ says that¾
+ñMario landed, but his movement iÊ
+acelled‡hÎ‚ferencedJ Sisn'tŒàñ d (pedro spots)/ ÷ |-) £~Í	E‡ ( >´ £bYb	 Ÿ b0 %"
+	m9Useù BceilÛ¢rstead o3$ ( Bhang9’pœ!if*´Cand(,ã ñ CHECK_HANG) > 00  Ê§ ‚:GetCeil
+
+ëC¨C
+			
+"ÁGRABBED_CEILÂ,aı ñ--! Potential sub¿%Ä"->ù ?*áo2èq ¡  Î
+R ˜ o íq„the wallT«âcompletely ver’>	Í" s7Awall!:ñmisalignment, you can 1vat-8ñ se conditions in unexpIa situa PôÕQö LEDGE_GRAB) andá§7andØ ôš3if ô¿ªÄ " æP)< £n‘ M+¼¦ Z ¯²/: c 	pb ' œ	Ğ n	ş'or3_,	‘wOert(2 âÚ„ 'kp$
+a	¡x‰Eî_ :	ëa6NÀÖHIT_LAVA_WALLÀ/if©f> 0x60ø
+a² U[on c®”ñ
+ step] ur getting nerfed kid/ ’hopefullyù/ñ
+doesn't affect elevator BLJs0 ¡(Shouldn't Cone ÂA!ndm )X	”#k< -256= Î«/X%êy°	 kS_STOP~Å. .àß
+ÄÿApplyTwirlGravitÕ_ ‘heaviness×-ñ Ë
+1Vel+&10ˆN	. Y024 /.   ÿ¥é$alF • = -75 * F &
+	d * -	H0, 4, „ È <g hÄD; )Á K,£StrengthenQÕForJumpAscentô
+Ô$Û§'$ÆK¾ ã	˜ü k!Ü‡] ÎBÿ8BDOWN6´ Õ;W ¤ rCONTROLõ=cHEIGHTrÓğ ÌvilÄ'I!™=!ifM 	LpUP	hÎ
+!m:o 	;ĞT ôSHOT_FROM_CANNONÅ_ ŞTyAxisˆ
+ 1-75\òshared.nospedlimit ==\ à-QjPÉO#HbO ßBBH_ENTER_SPI÷ »ø A * 2L
+Íı nìQß ÚI
+ºå /3.ç 6ä;6¨U6/m:®	ˆ xb.new(1*XvBb
+ƒ!ME£&6ATEÇ [ &?1.6
+1f 
+5&16Ÿ0¥7’÷@! $
+ÂP3‚WingFlutÈ>ê8@637.ô E +‡ 4_
+m>F Î
+•¢,2 )VQWALL_ŸS°K 0"1)<EThe ÆBfor ÏQ Âalready caps–ª _  qKJZV!(WiX*Î¡maxVelY, o½bdY = 0,ñ2€
+jï–ROUND_POU!*= mø¢.Y - -1500)
+O
+?é“•-3000.0 <¡ 5and 2< 2 	5	if 8>=  	ê  gÙT 4/ (¹ a+ 200. 
+µ8D2 150..g •Ğ ^ ‰ 	  & +o
+™(0 3/ 8w : % U V =5 ?  ¹,[	R Š, maybeSC§0ÿ¸N( 7(
+’% =wVNONE
+0½0 @ T5 + **
+-Ñ) +; í¹ í ç
+©	¹:6$if= ~#Ó
+G, o	Ş	dB Ÿ4	ora   & 
+ ¯N ©µh D>= 0ê ¡X
+€§d Ò	¿FHn :$í
+$ 	;'î) Ì í	U4 G
+,‰ 
+à ”	™RHangi0´”ş‹ECceilŞ,¥¼ y O
+
+»))!Å
+…)p \«	 	«  –¦ O Bo&8)
+	Ó Hceil, P)
+"ifL”³€+µ9)´CEIL_OR_OOB‡±= 2LEF> 
+7 w
+è@ˆ —~‚4—Z 
+¥   ()$- xŠ ¾
+9W < -3{ Ç &
+ t /> A 	
+® ‡øS V, m.Cj+‡- 160)
+	Ö= !à\³ ­
+	Z ! + –ëSÿî- Ÿÿ
+-- UPDATE ROUTINESÚ;²ÁUpdateButtonw
+±K»¸.( ÂPressed:Has( 1s.Aê[4ON)oÆ
+8Addé¥éK d  ODowna $K	^ iûe” ß Bß à èB«g 
+â VZ_TRIRLb Zá ×
+
+	_ ¥b Me j i %š
+ Ï2ÖÿÂFramesSinceA¸3â	 E< 25q
+ &+=Í’~  t~ B~  B~ B~ ’,:Joystick
+	<{=>m!  a&(() ÿ.StickMag / 64) *   d) * 64è	õa£`K  8øì*8MagŞæ Ramera^"0
+k‚For bots¢7not5.NoÌs´	K Ä = workspace Ce Î~BlookÓ# =‚ !.C[%.L Q
+			c9  ë-B H.Z,  [@ö C ª/-È(Y,ø Û'• D@<D
+ lP° ’ 	i
+¶¼ 
+V
+²Geometryh ² ˆ
+K)Ècq‘
+4 	R%ûC ÉI *ByÂç
+V – - 80.05)ã§ ã Ã	
+		Cl
+*cez&F
+È agasLev·/­ ¹TaggedPlane´ ñ "PoisonGasCloud:JF wl­, R4Z EGetW'  X )³Gˆ “  3 " =[ ¯  ¬
+q „ œ	**Hd‚*ZÒ _Ó":f  =}f:KSÅ–ò	I guess we could just sh·0Q a usLÈ1a taf2-- µsãits Unanchoredq# 	Í2eilÌCPart6
+	ÑG@D :: C„äsº!ab_!((F	T #.A’ q@%q ’:HasTag(" \1"))8	if^ ¸  ¹ w<õ²àM Æ
+ ü
+Baif 0 <§ T 7B Í E< 15Í bSQUISH–i D	¯ 	iœ   Ó # 	äC    E 
+v7Y w =} w J!É1lseÍ
+%ì  ë.	
+(I¬) ( +ö.FCWY  )< Q6- 1ÒW #INÇV 
+¿	k²¬ ÔIN_POISON_GASÓ
+}  Z ©)ágets "killed" d&swhen no?‚has been·¶]Gñ TriggerWarp(m, WarpOp.f");c óĞz"etÃE±'s health fù4#w.ı".H J> 0x´ a= 0xFFA´rint("[!] N¨ Ÿ b underi .d7	ifb	öStreamingEnabledPS £-	"' mğ^!beº21rfejN‘with youra LŞ¥'re tryingE¸ò across large diz¢1s!"s ÑM LÚÒ3m.PÍ–Q	b:ClearÒ4 Band(0xF $E ) $
+	(@é ^m 
+  
+i	±Í‚This cod´(n exampl%³how to let /VÑERSON happen.V%ÂDo something]J!ifÛ(£want it toz7)’ideal...
+%…"
+ÚZ!, ì 'à
+ ²
+†_MOVEMEN|"‹
+Ds "5 ñì: s`	<  > Bend
+I	Ídchar =2 ÊNc? or! 
+µAdded:Wait(jÍÁblink = char Jc|Blink")ÓUResetT2(m:¾-
+b;TX) %
+	 á.CapState:Set(n4Cap‰˜_CAP_OFF)2 1Eye2 " =n ¨Eyes.BLINK& AHand' Y ¹Hands.FISTSQ RModel, |¡ 
+¸RfalseºCñ
+witchHandGrabPos("RENDER"£-XbRemoveØ  ÌüSSHOCKuDŒ-- what?]a `ÿ, callContext: stringujrtransla%o'Bzero} [ D == Õ noQ~	$ j g6 = N,†	&if# e= 0x01A R
+&
+e"XTHROWêÖ?			Ö ‘new(50, 0:(™	¢2 "11wa  ã†+”HELD_OBJ"È ñ-- ! The HOLP isJ ó
+here, which is why it only01 ÍZDheldúä’is drawn.  ¤@ &woq1ñ during a pause buffereEstundÓ3theäÂ is very far` aäí¤r	-- SetÇ ñoutside anyways, until I figure outÑ‘ on earthRcallc²– and thisæ!ø is all about...€¿hBLastMmÎ
+RÅAnew(ÉJSins?Q) ˜I	ŠA)) *&Anil
+ö 
+íeSinkInğfîf g é $, 
+ .ƒC UDepthò[[
+ * Is a binary represent®o’À ^1sÅäDlick3	f's cap]ñtimer
+ * is runnØ>ñut.
+ *
+ * Equals [1000]^5 .
+ 2]^8
+ 1]^9	 C] in ´
+ * 1000   
+ d.
+]]
+
+ÇÉ
+AtrunÏir...
+-- EBcapFç 6qs = 0x4 ­9249255555¬F6Cap5"):æÓf&Ò« F*Nm.CaŞ É3( "<=p<a		or ("
+T «#ò	READING_AUTOMATIC_DIALOG. ?nd 2 /NP, OSIGNR  #INª*
+Ä
+^ Ì ªé
+= 	Eğ ‹rECAPSÔá	 sh( @lI RN_HEAt™« YÄ
+f@sïóp through a longßG “, increasf¶2how”common itwQs neaVB end–![[
+%A< 64ï |r
+ lshift(1Y-),ï)(ƒœµf@ NDc$ ºa$]]BB 4ˆa	0Ûmx	
+
+.0 ‘	+ A
+*   % =ğLù)
+ ffVANISHW6
+		 0„ ¢Ô.NOISE_ALPHA)ú ¢ \ +QCAP, Í
+B  USHOCKÜp  . j 
+nùL>= 3Tv DPf, 1) >¡m  ˜INVISIBLEq Û !CA¢06HANÄ B+ºÂš
+ 1HOL= 
+? : /nd­
+â—Ò !ÄÇ 1_ONëz
+Ê 7 b—û: 	Ê =%Ó"
+eÅSHORT_HITBOXxƒm.HitboxRd)I "6046end!çThese arA scaì:‚values fß8! x“Rz axi ÿ2
+ *’hK²close to un×1ing
+Ó£#& ÷ScaleOverTime = {
+	0x46, 0x32 &C, ÷
+  ‡28, 0x14 E2 E CK  F28
+}³Applies the2 toá 1's \D via.
+ * Musuıdone manually
+]]æ
+=n"Gøt~B§ó -- If no longer— 1ed,… õe back to default¨S 
+Â 1Gfxi 5onel P
+q is les4>õn 16, rubber-bandCsizeˆ ’up and do¸^ˆ ]%Ù 	 ‚*?   2newb	/((* A[(15
+9 m tX± * 0.4) / 1^,q + 1.0,-	o1.0 - Q !6Q K ´ $.Zf	Îç  æ Å1.4, 0.4, 1.V«
+«—û>^6FÊ ™.PUNCHING¿nc	 3b¹Ã%HrangV¶µ¯
+B
+			# µ
+ 1
+		M
+&XK
+z B* 49·0/ _	)Q q, 80, 5k `/¢	È*TMOVE_Gg or m.V­>t
+D ;t? m \…ö74Sets	k ÷	Ç
+w_"48" im:Play]f	Ì_†PÁ«		 q.TRIANG5Ó°S
+ ? 	{™  /16™ Fô•wProcessÉÁ 2)bInvinc‡T		 ©r @I­ ÿÑ‚¡-- You havá Òreset/respawn 2 on{”ÁÔÍDeathBarrier  1<0Gf+ 2048]2if --[[óCWARP?`n20 aá/		¥¡FALLING_FA ¦ [
+§iùs.MARIO_WAAAOOOWJ
+M NO‚>
+eí\›LavaBoostYï ¸
+Ã!RIš
+	kVˆ
+a[ 
+Z  pì	ˆ
+ñ	m.HurtCounter +=äk
+ 	¾
+Rand 1Œp½}Ì
+ö9øw†¢ ª‘leSpecialß!ÌTband(<3(),±6W‚2Ç „CUTSCENEE breturnÂ~x   Ñª5ó
+»5© # 
+s.åB_PLA„)  
+ô5ä  ŞqíH4AIRÔi.SWIMMÌ
+à 
+½ ”B  Ó‘øS•$	Ò`)ıCµ X/= 4
+¥b›N#;R5, 1)+›ñ	behavior sucks, feel freeÃ:V
+Km,Ê 10)
+° 9O
+19O0Ú & dVel *=Q8ı
+8DIV¢k 
+0k 1XÆ¢ñÒ¿)Ì@!óP "	VDROWN°k²+  ÃWATER_PLUNGEÔ
+±PlayFarFallÖ
+AâßÇ
+ç"(F³FALL_DAMAGEAb == -1á& _HARD_+  «
+e :X=y$ 	ƒ
+$AN û2  
+Á5~ 0  Ï;d MfA4Ø&ÏINVULNERABLEï 
+CPeakù[_.Y > q   Í (ïÅ ){ ’ "
+4 	ôÏ _äBBothgRments"e I Q's HP
+†bUpdateP²áãterrainIsSnow 0Bå…
+¥#"--=NT="heá¢or hurtingÀ	µ™ ğJñ hanged any more…$m4not  Rtest(%$Ø ), ç Æ
+€D
+=%5·
+E^ ¡©Zo &ô$- !		Ñø m¡
+:	áô ± Ÿ§ xví*" s´I², recover h® (pÜrin snowVî$& 1!s ›3> .Ø fæúqdebug l8,âselect, do not? ’any HP toœ F 7if ÂW:6(m.,v - 140)Ô• Æ‘	Œr+= 0x1A§ T=
+ÿ J-= (G Qand 3"
+%Ç (
+ C		°M	 † "40  Ş
+M  Õ
+ FM -M  . 
+M KËt880) orÒöDEGREELESSNESS_MO`l =8 £ ;*<=!
+7 Æ',g¢æ¥ò, SinkingSpeed)
+ì8
+r%m.V <>“³
+  F< 1.V"
+ V= 1.1Cq
+†kWQ ºª5if  
+ 
+vSHALLOWNnò | )+=
+
+' '>=L
+Ã €’n ¡ uJ¨ :%25î ï U= 25
+m¨  
+  /orwÇ :6oÇ 6obp­ 
+/EP@<Ò ˜	= m:Y‰L‚_DEATH, %`³pF í 
+/ 
+ïñ¯ %
+O1˜  “İ¦	±	* Copy posyS±, velocity,¦Ùaò  variables from'	¸1 to.µ 3
+	*Ä%Ğ	ACopy' 9 "To! 5’o: Types. ' F)
+	o
+zco‚
+
+	o.Mov%ÑPitch = m.Gfx).X! (7 ì
+).Y  !RoK@ @ Zb ‡b ! b   b ® 6Vela  Ã  `  Á  ^  À 
+/
+#! aRadiusA2  !rExecuteùÙ
+éĞ „
+‚ÿ–I'Dé'Vloop ƒ­æR animÚ)cstatesš	Toped."ÒanimLooped = º
+3nim¿8Á Ã3\
+ 
+DtrLoop"))à-?Ò  ` ÅF „-;	 %
+Ì ACounDimO  ( < , g u
+fAnimA¯Í |	J  bAssistn›Ó¡Ï© # #%=Í#Â#0 Ş  1+ 1b0%sV 1DirSLm®‘qMatrix P+) ¡SkipInterp;“th.max(0,
+  -„+m:š- ò/0O
+	m:â, )M· 
+_C ä "= ò:iE
+ßUwhileœ(Ã"ohdrJ)³	# =	 bs[id]
+
+ $š,Doup Étband(id™›	˜i ócancel: boolean?
+·	Q ÁC „—"		@ # =N&—CW As(m)Q ¦. ¼ ”	„Ìòÿ	 
+´— QheckCâ&
+ß• 
+•
+¯ $.B0Q.Headk `P 1£+j™ Í 
+À
+× YÊ gMoving\U 
+‡STATIONA§µY S‘+?ary] ëJ¿dçô„ *#UOBJECÏíSÆ ²*{
+›Automatic[ ]4	ifÜ
+c ¥ ¸¶8 Æ4ØN!T	¡WAVE_TRAIL© 3	+­)	 1.DUy†!´’ — BIDLEÀ8A_WAV_<6OL 6
+oname =–Ü"id"if( ¤‘warn("UnhZ"d ¬(:"€Ñ
+', rNKNOWN † ":"] • [E  û 2IDLÖ Ã 
+ñ ERese©±eviously itØï(¾ ò = 0), which would6 CjustÈôa Start. (. o‡â takes care of8 , ‘ stuff asƒ8]c’also appl'Á!--Ò	¶ &(p­ only setŒ&to§ i óthen effectively ditıŒa¹ôccess oÉ4   i2õfirst place. Yikes! 	ò /
+ EC
+
+'
+i s") or 02
+Ó
+,m:Y1´%RModel 	ø  # à
+¨marioObj =†b
+vObj
+	if# ¶ .e	ad
+uŠ9X á"()õ
+"-- ¦'s primaryeupdateï2Q.
+fun ˜ B.Bhvß p’#Z = m:W)P ÷.u O6'ä3sHb%ofÜH etcóI qto sync)6ithÎË˜ <™	~ f:ë²0
+i	ó e Ñ
+-- INITIALIZ`
+Ä ---åSnew()0Û,%: ù	¯+	ÂÅVa
+		Cap‘2 = yN t,
+		Eye * -.+ 
+QY‘false,
+		D 
+^ ~8‡ )O„n  ä3 ·
+Ö TRTorsoÚ
+# ²HeldObjLast~  
+¤.zero,
+	}
+BÕcontroller: C D”RawStickXÀ  Y :
+		     5Mag- ®ButtonDown]  K
+ ± h uœ{
+		Input8 1
+		‘	 4 R.NORM$l é#,L 4newï´SPAWN_SPIN_|
+w 2£	| Á	š	 ß@/ õ— = 37,
+		’teùf 	g &ArI2p± ÙK ›( ;
+		ÔLJ255, B ¹
+		WallKick Î>Z ÜÃÃ
+LVâä
+! 
+ä
+Kidentity’ d ¨. `‡
+		Slide8UTwirl C
+		Pèv Z5òı#Û ¿îWertia= Ú	û+F‹ 5VelÆœ EVelZ4BCeilq	   Š+ 	 ˆ  ib= -110Ñ GJ ñlY1x88d'Ä ë ª  G¡
+		NumCoin´9 75 GBurn3 '		²!# A½®µ	A¯K,
+		ù> 
+[²'8
+		¢¹f„' =‘5 Ga ·Q = -1RnimSe%	 ïƒ < í
+
+ Â g ¨  	0¦ ñ-- Hacky solutions...å"le
+1niloboleYaw±íBPoleD0™	Ñsetmetatable(ö¤ÿ
+
+Ò
+6Inia*¬\ópawnInfo: dict?)8
+–s  pztypeof(A a) ~= "Œ "‰‹ {} elsei Z ¥
+_‡
+„I'
+@ò	ôQB *
+	.^
+
+   Ğv'ƒ"øBÎ ï'Ÿ(c 
+‚& q
+ª± ¡veRidden,†
+	m.Used À  ¼  ü0% &
+	"	1 "2Pos,1‰a €O)6Ã9)
+	N"!= 72Gã)ş- "/ 	ê! n)OÉ ¿	*
+3× µ. …·Á F@; ,zğ.
+ü\*• !XZşVEG O.Y <€# 100)Ù4 )sIDLE orÅu_ ìG
+ó/
+
+û
+imê
+w
+ò
+¯  --!strict
+
+0ñ = require(script. Ò)
+export typedÚ	QClass°1Fun! !s
+' Ts32 =• f u ;s166 +s8 u 	™ 	k%{
+Ñ
+X, Y 
+è
+   #  6Mag$ 
+Õ
+CDownA, .Y+G,
+
+	ıTï:,
+}Á E #{
+æ
+Ù5,
+
+ê
+q â
+& å
+& 
+Ş
+€ ',
+Ş
+ , ¿`
+t_$,
+ñ
+l !
+	FType  Fimer 
+Ú
+S &,
+ 
+ ¿
+"{
+
+º 
+ @Ä6,
+	eª  	›5±	§Å  ¨   ª  HB: InãL?• Å  , (9 
+  Ô|8,
+
+Ë +  9Yaw l5 
+Ô  B 
+Ö Ù 
+ÜÒ	L
+=Vel  Ì:Ë1Â
+1 º  
+´
+
+°² N ¥  #
+	š   —R x 8Vel~Œ FVelZ( _
+“‚|?,
+	Ceiª‚?å>oor/ /
+	ÇU+ 
+ v    t  Ï + † $  
+ 
+1 Ş',
+/³!,
+%6lthC J
+ M
+   Î	 
+S
+ å	 Y
+  \
+  _
+  b
+  
+e
+  
+h
+ ?^":àaation?YëN 4 !AcjK «! / 4
+ / r
+   \Reset ±
+
+A \
+ _
+^
+"W"?, b
+B w
+õİ 
+6BObje…eûò
+-- Roblox helpers
+	RbxConníœNùARBXS	 µ | thread |Ô1 },> ä	îõ	OctreeNonstatic(Ù#--› y Fields ±Collision
+	
+ Ã´RÂ&Å% As: sW 
+ s{ any }s # &xB	ãData: { [any]:. b -- ?
+Œ!ve6 x 
+ ÿ
+	MarkedForDeletionñ OdataN cCÕğ~  T	1 I •DownOffse ~BQ6ñO û
+Û~Ã o×0x088 (0x00),!±field, is o¦ò
+-specific and defined bel¹/é"7 /s.¶ƒtangiblee1s32© ùY: f32Í1S32( DLeft& g?,
+	Up *
+	
+)7 `
+!)€ s * CRoll  1	@ ¾( @  	@ qGravityÅ ' Ù ,MoÁqñ	0x0F4-0x110 (0x1B-0x22) }• • S)â   Ë  Ë k3HelmS! u ‚	şf b
+	Fricj †	Buoyanc
+ÆDragStrength& ”ounciness C
+]+, VStatu#
+ŸS	SubA ‹	t
+ 
+ƒ"Di
+!Toà
+‘ *
+ sñ GHome¡ô
+	DamageOrCoinValue, 
+%th †BhvParamÄ  X2ndBy’
+ø iÅ%FtypeùZDsion¼ µ Œ•LootCoins{ ~Drawing. !--y3ÿC-0x1B2 (0x48-0x4A€)WX£€ 
+¥
+1s16d"ToN\ç	0
+r	DeathSõ  ?d £Ü¡
+Sus±=8?,; ö	!s8· Í!u8Ğ5diuòñ  
+$ 
+/+ "}
+¢8Xvd Ç ÖğrÇ. ˆò ‚2dRoà& - "
+	c UEventW 
+·gLakitu† ‡CurFocusI L	Cur±=oal' JGoal( ü| I	Def ú 
+	ShakeMagnituds ˜PitchPhasû ò VDecay "
+	ü*  JNext 
+Ü  p ORoll¡ ORoll   KRollŸ ?YawH 
+‹
+ç ;YawF ¶ H¨5 Ü KFocV Î 
+) >Pos) ALast¦
+4Ìcª’?QD
+	å\ 	Œ
+j AckPaîÉ{
+	StartOfPaÚ
+…™	DistThreƒFZooms 
+Ö  ?Old L	Oldë 
+~ ! wAreaCen-
+	-:  ,
+	AvoidÄYawAfterDoorÇÜ «Aheld8‘Spline: {7dex) g	Point˜ 	É
+” —ËSK:;ion 2_2nÇ
+TKound3 CäsÑÍ ‡DialogId¬  ¹': 
+ a	D WChangJG 
+O –jZoomAm÷b	CSideÀ 
+r aBehindlÎ@›	ZeroZoom{ 2CUp)~ BModea	h ò
+	SpiralStairsYaw$  i Ùs8DirModeBase<  8  G
+	Pay¸ |CannonYg ¡  ( BMode8r{
+		NewùH \	Last )Maz4 6
+		iú": - Ó!¡®?End# ×ÓCastleEntranc\ü‹ParTrack& v‚  ,  š ?Off( : StoreCUp" 
+Ø7 › FPathé Mô
+_FûASegm‹f	  QProgrº
+( %hoærâ BVars
+_~	Unused HAngl‰4ObjU )Doã †ObjSpawn¶ }—{±.freeze({
+	'b,
+})
+g³1{}
+2 „.__index:  Ü	ÿ= "BitmaskFlag"
+Ô#{ C[) }& ì$ =F	ÅD{} :„G'))È¡ tnew(..._ "):S ³E[†  5¥bor(...) }Ø	| 8 v 
+iÁy ³__call(selft  17†Qself.ÿ C ?Get@ *S@ (, 	&
+	~ 
+÷  HCopy !, Ş 
+Q  İ :AddM  ´ 1 ¼!{?Has[  !Nmask£+7BbtesŒÒ o, mask~ oRemove  x finvert— Bnot(s ·"anM ?   B- ¹I 
+Æÿ 3 ` {r.õ
+Q 0[Sretur°8
+¿YkBUtil@
+Zª,%1Sca&a1 / 20×5 3Col‰	óService = game:Get -("% #")‘STween( :   5 /Ru3 	 1 sCore = îTParen  ˆ ÂRNG = RandomZ,á HEnum3 ÁCore.Client. Ë F
+*  7gSE03 ?
+
+- ŸS
+-- Hm¾ Ÿ-òÂ ÒPicker: () -> 2Locˆ äS  3 ä2rayŠYRycast `  ±.RespectCans$de·7# ‘IgnoreWatb(Dtrue® µVECTOR3_XZ Ì#e.one -o$SyAxiséò[ÒTO_RAD = (2 *<Rpi) /æI#00- qRAD_TO_4  âEJ00 /7 - Ş +B	sq<ñath.pi, 0)
+
+-- CoiCs anAñ in degrees to sm64's sÊ‰ägle units. ForUl", ²FAS(90L60x4¶ W(% xk	 5% (ñ9x *÷ Ñ¸  ´ 3ıun-rounded range¿TOINT_« ¦çP¥ ’QfadeOI/=2Infz150.5œÔwaterPlane = Ö˜B"Boxâ=ÆAdornment")
+0 W.Sizejanew(48‹;)48) @ )eeòxxTerrainP ¢Øparency = 0.5 NQ8"ú± "è ÅlÄ ¡ –:Clone()
+  ´ ³ 	' ’Color3 = 	 f<1( • Fb "n 
+Ò 1 ~	³ _ñ
+[!!] Photosensitivity warnŞ¾ĞS#isOKòutil
+-- causes flashing colorsJo4imeõCwall^D
+õQDecalè
+) a.Textu= ş
+"rbxassetid://11996254337"6 !Ïs\} 0  
+25T Zn = 512 ²»òfromRGB(128, 255~!Hloor’ 
+ù F- k Q0, 64m g<ceixi , h 1200¼0g òfakeFloorDeathPlane: RaycastResult×	é
+ÿ¡Part"),
+	N˜¨ I;,UWition ±new(0, -110’ ¡),
+	MateriB TEnum. ƒ.Plastic… _0,
+}
+½  .© ñ :SetAttribute("ä ¹;	A", "rHœV/")N 
+—3 ‚CARDINAL*£-Vector3.x  z !    }X ²ONSTRUCTORS\ * 
+J, /(  A.newT Â-- Hopefullyó	isn't harsh on mem usage• 2TaguÅ: { [string] " }_7Get5 (3 	R5 1
+doÙÁAdd new part¿ tfiltersV
+ ƒappend(p	M ,„*zlã0 ÿ:IsDescendantOf(BD) orI 2 ‚)0$
+	PD>3
+		¡ aAddToFÌ († 4)
+
+ç>1rem(B:A#4
+		  # = ’.Ancestry#d:p#('Nòò ¸ 	Ğ
+%
+	º Q	-- :ÜbÊŠ2 = Ó .Î JsgRs
+			Ÿº "e(; ",  Efind 
+n?Y 2 = K   ‚Goodbye.zFBDisc˜$  c = nil=¢#)
+ÙAÑ ¡t
+[pPƒfor tag,E in ê2F1	ifÉò:HasTag(tag) and TIsA("¡"Š	Û_ t"A!ndµ H)
+
+	]5 = ş4tag£#)“F© [[tag]½Ç  *®?newƒS		newÔ:·1û Type.Include
+		Š c= new
+^_:U
+M in ÿ:2gedc}]
+j?and4new 
+¢
+1newœ
+ÌFOk!
+à s.Roblox1B
+/ UE 
+á²V = { ¥ }ëÂ-- To assist…ñmaking proper BLJ-|òstaircases.
+-- (or juÓA"inÁB0ÏTome c­'§s)
+-- MostE ’ in 64 do”¸ve wall-typ? ’and that'ÉtE{ rto BLJ }Im” §unless itsƒ ris a slÊÚK ônot steep enough—dr shouldIE(}‘r-	w?, side‘(  Òboolean)
+	if E (‘type(side–"= o6uŒ	5 êrR`Coll¤ r{side}`h	Celsen N Cturn 4, (^ 5(
+& Rfalse%%‘unction nû	cIdFromê S 
+"):%N1 ê !pa>‡ Ù 
+ÿt 2dir3ICsultM 
+" bmaxDot«U4 2max$ #Id14 ƒId.Frontu´,É : in© ã:GetEnumItems(v^ ı + ’t.CFrame:©	ÒToWorldSpace( _ (= 6Id)]Ld½  U:Dot(ó )Ğ1dotX) ó Ú5	 S= dot q Z I_™ +êdrandomP øInPartBounds(par…	†sıApartUu  9YPoint84
+		;Êi‘RNG:NextNÑPa(-sizeÂµ62,  ">, Y,  , Z,  u)
+		)
+	Ş R
+-- U Â
+
+-- stylua:e¯­v€
+ôModifier(getArgs: ‚$ |Ş!
+,Ë¨(   ¥)):
+	((vec×2, vL)2 > ¨<) &. j 3   )Í (Î V, new$Ùconstructor =([{7 &)]í 4 	] ÷Rend
+
+ÛbetX = J Oš < x~#x,. %.Y
+ "Z
+À
+S YS yS ~ _.X, yS ZS zS ] CY, z¦ Ş  2.ToÈ	%(v÷) 2v *& à.? OSM64= /= SEuler *  |±.new(v.X, v…a.Z) * †ºª …) ® j šÇ¤3<
+¥ J
+Ÿ( mjTP ‘.fromAxisâ œ5İh.Y)
+	  *= 
+r! -¤ /.X> > Z» 9âVec3GetDistAndË e
+	from¢X,
+	to Ddist7B,
+	pĞ/Gd,
+	yaw ?
+):’xñz = to.X - from.X, to ~ Y Z "Z
+† " =b#sq¾óx + y * y + z * z)  ñ~Atan2s(6 . »;yaw0 z'¬ÿdist, pitch, yawZSZ
+X W V\ Gd 
+ )‹ ;!
+	¾A.X +S år² ) Sins(yaw<g
+5 " 5 ,Y Z$ Y   8yawe! R³!s ]'B, YabbARolló# aû in Signed 16-bit int format.¢N¨½1s(cğöà c“, roll = E ä * FLIP):ToOriX€4l"--£‚fasin(-¾’û2-- Kogatan2(# 7Z,  X`› )ò­ CrollÅ	
+„GetSpawnç
+&()=,<†ı
+6 ë Ü÷ $„Å ! =.E%.L>€
+& = ^
+Œ
+.textents”BGetE ´
+ œf=C+ ï¢ uM'4.X, 6.Y,³ :.Z)J7 &0,ƒ 	`b q0, 100,œRÀ°!8 	yô's AssemblyAngularÆ<2 to_^ZL
+-- For: :3Vel› 6Yaw
+ KRoll}
+~ 	†aš ¯‹) =‡math.degS 5.Y)¹a1 
+X1 ã2 
+'Z)ˆ #ğ²-- borrowedÂë@magicoal_nerb.
+¶j	Ã
+M©†u * 0.5
+< ED
+		+ RRightlƒ:Abs() *n& /Up# Y# Ø
+H +
+ÅDebugWater(wÂhÍSI"):Gñ8 jkr—‰• Q ÔÅcale) + 0.017 wfocus =5õCurrentCamera.Focus
+/ xÖafloor(> Ÿe4) * 4( z( Z( ) &cf7
+hnew(x,Ê İ
+	Á(U
+
+		fp^Z = cf7   Jelse V 7nil,
+<w¼Faces(wal©@O cei  3
+6"?)¡decal, hÓ œ
+		{
+			[]*6 or¦R,	[$1] =ƒ 
+' € c&M2] =ö	) R}
+	dod~
+&  ?Îø“hit) ~= "B"
+		évï :1 an^Š+õYR nil
+› 2(hit•Öı†}~Ş5 Vand (6(±:IsStudio()… 1truzJÄ	Œ 1< 1<–	¿1.FaÀà
+3ê C ; p—q	continÛ­‘8
+1 ²	±'po97E dirz!, M½Š á?, worldRoot: ïVRoot?‹ù!roà5 " o“Espac,pæ y r or rayw N Wroot:Ë T, dir¯®Yelength<ÃG] uor dir.Ú7dp(«)ñ	.RAY_DBG_IGNORE_LONG_NILn ‚ Q> 256  |
+
+”#š"3newX: t0 or 1,¡and 1 or 0<	>/li«% NLine¬%„		line.L&­   	 Ñ.new(pos, posÖrB ÕThickness = 3@ $%×  ì%	y ù£æ ytween =,Ô:Create(line,İ&S, {
+	j3<&±1,
+		})
+
+		J A:PlaªÃ	task.delay(B ò.Time, line.Destroy CMÛî
+·
+9¼OSM64‹NB    ’¢ Ô¬ÿ
+” I(pos!]
+ ª  f)
+
+   Âìàu-- CastK„ASM64À)q scale.< 4   ï5= { B    ãÛã,$  d$ú f$
+( #In(  
+( 4(  à
+5 W«  5 } :: anyË Ú  Äd
+RAFind÷$P?bï)d
+Ü32dir©ï
+å3" and dir or ó$¢yAxis * 15ı+5calëµnewPos = poù#hªD3 = PòFLOOR_LOWER_LIMITçP1Cor,0 ç%TÕ”"")cÈ
+_trunc % "(pªRpos.Y  ÿ½_qth.abs(= U.X) >˜ ôLEVEL_BOUNDARY_MAXp ³Ê ,Š "ifwV ZV 0I‘ŸQtrunc	 Y	 Z«e-- Odd»U# fÍshaCheir
+Ùµ_ówhile being above a& ñthat you can stand onm ñ(exposed ceiling stuff) sFõ is technically similar to SURFACE_INTANGIBLEùÒ¶‘unqueried¾&t
+]I¶&W
+mÒ2È#F 
+–a+I­’),¢ø­¥ socal _,´?d =U 1, "¹": 'hi]?;u(´ 
+
+ÒCif (¸1 0 ¸
+Áhit.CanQuery&  Í%deK	ZT[hit]p0:			1 " =  \   ‰ ¡
+
+Ñ
+é¼ & I
+T¢ëTShortO¹‡	? Ó "ûU ü ­f„%..5in 71par?. ü Rtrue
+­
+C æp
+Ì 
+5and2AKE-s‘_BARRIER_!|Ú d™HK;	³FallenParts¾% ğ
+8 +~= ñthen -- NaN check
+Ÿ	G à[	!
+“
+. C+= 5f?
+		Ò+Ïò)(çc	… ')
+(U 	7.Y
+‡*  ¬Ó	(Uw KCeilv 9 ¹?/b
+‡ D#T10000!+ eO < 5newí
+H 2andh 2 orçBhuge± 
++ Ñ° œÍ¡œ ?Å Ÿ =Y pè•Ÿ Fheady
+R.X, (X2 or"b) + 80/$Z)@ ®Aè	ÕAheadŒ »äXú& ’, "Ceil")Ü2 Ôª€".YÿS, V
+AWall`‰sions(
+	(
+9
+	oÅNC,
+	rüHn($
+Çí
+;, {ö0}=borigin¢
+) +è20, u ®­_lastWó   wÖà{Ø
+
+x ' GdispôQzero
+&	óAdd a small unit soT óalways get found wheÔZ" iç(7-H anear a; .u 2Ş7
+ 
+51)
+#'fdir inô0%doƒocontacgD> "* [ VD)
+		4 j b, "WalkÍoi m]	nU($ = Œ3abst'T.Y) <S RWALL_
+_F ˜s4 W ó„move = (- ‡- pos) *b9 . {7ovef! "ifv<$ 	4+= ß 	e 5) *¹-J Ëp`  Da ¸ë 3 	É/ainsertÌs¿¯'ac^ e É p r³Dsp, d ‘s@ 1Getı
+QType(Ÿ)Òúi¯
+\< Ê
+
+ 
+B ¹…IsHard =R ? 
+ Û/S"Hard$ÿc 	. Z"z:İ4 k .IÇManualDefine* 
+ô. QClass78if  [L ]œ §*  ›	t-- Lava+ş	[»5=ß .Cracked9 %orWJFLava¦ ‰.BURNING‰ ŸQuicksand Ô(string.match
+ 7Ğ(Ê¤.Name), "qI î! ¡ j  ¦ Ò ?Typ	' šÅŸ	kd	! SÁ "å Ñ 	0 Â, "QUICKSAND] Ó	Ğ	1 ]°3T.p/  Š
+. .~  
+û,Wš ‰.HARD or©‘šACeil?Aceil«Oceil„
+( 7öÓ@HCeilÄÛÒ>.if‘£Hangable")À
+Ù¶DiamondPlatuñº Ÿ.HANGABLE 0æ'Ò;æ2walæ?walæ	( æ^W9<¸Î
+ø«Bdå
+?rayÿ  (',, 	 ¶
+kÓ_
+6ray[
+
+8 W §9 " : ·r  8
+1œDWall [ 
+ BCeil)E
+BFind7¼
+Ô
+*8(
+
+
+	Yíd	…2ú
+"*X
+]ô2 g5000),Û1Æ-<u,
+		GetÜ6A(tag)˜q ş
+¨  h ) e	
+Ãi=0
+Ã-- Get waterf Ñ$,qplanes.' BNoteXteven ifÂ6‘not insidi·Qthem, cll sti¼Ù1swi	èâre, since it'sv7Sbasedı6# p(D the×€ !laLD%onñ
+µ ÌAFrom7,Ë  Í
+Z ;Bter"Ë6J 4 šŞ c ó -- Check terrai9 q voxelsª4ead±
+$ Ù˜í$]
+Ï/5posç_ % T õ	:WorldToCellPreferSolid(P O = 2Reg	 Ú P864,  @8oneQ¬!3)%%1)
+	4 T " =  ö :ExpandToGrid(4 ’Ás, occupanciğ9Ú QReadVP’ P ,o ÕEsize—( =H ¶5]ÕI&c-11000$by = 1,'Y“ yW •[1][y][1]HÇ & & M a>= 0.9Ğ	9 ˆ©¿	Ã rtop = (
+ó Pos.Y * 4) + (4/2˜7	í 7max>'Y, topŞ)ï¸„ ëŸ aPseudoúóÂ]!32[…,†=.Ş27_-” b ¼z'9<ÿ  Ä´	„7 8 €u1 
+yˆ·© ,¨ ²? 
+~˜EJ^ ’-0x8000 +P²floor((x +  a) % 0x
+ )_  /In] 	0a ` 0d è
+Æ ?UnsÈ 
+ ¾ x³ L µ J ¨ ó ApproachFloat(current:Ì7w, targe 6inc %de
+ Ncif decsy D inc§£assert(dec0| # <u :  32in(– $,  e+ inc)m* 2 -ax2 !- y 	¬’8 '	/In%£ 6 ­ #	å OIV G
+V smR ¥¤Á ‡  ¤ –˜ 4 } U D $ -S”/ D>= 0Œ	YT> inc ş +â/ =Ô
+ON ?< -O -O 
+Ü 1[b98vDiff(x0E$x1 D $ffJ iDux1 - x0;Uff ==¢A „ -0x7FFF
+	Fff <j t= -diff' S º
+f(6Eshor±
+¼ :<½ 7 4)
+	!  G ¦/ 16) * 161% 3sin# 
+!:p”6l _L ¤ 7 £ "#cou 
+Ä:£ Läatan2_lookup(y¨ (,  3 « 7 Š(y, x) /+;V†
+Àf « ¥ & G9¤ ¸ ¬ r#jxÙ
+Õ x q	ret = é  Qx, y)J"	¯
+ S* -. . å4 dy = -yb>y <u P +P J £ ı~ ¬ ~ ’#9 cx = -xyˆ
+ p 
+ p e C  ‡E 
+s E 
+s -µ 	D
+3ret‚„ùA(Ÿ
+áxö±8s'! :ú^[ Õ8@'PN6 PlayersºY "NG1RNG
+I(Y”os.time()HV784())^ L¶3cyer = Q . /
+
+ÂBìX¶Ó!is$áAvailableFor(pµ:´MK:
+Y$):½êàRTeam,+ rTeam = L Q.TeamASN  ? … ƒNeutral,y  MO. ,R  ¡òCannot spawn on nil
+ *~ƒdisabled B
+	if¸–fobj:IshKdPT& 2.EnB Q$)Æ¡2theg T is nÑ banyoneQ+¤ Qthere‰ ú õ_ o(^ R	_ kthey cba teamp @  œŒ páQerent8 sV ¶ P#„R or ( ö~==[Team)Ô 	3e $tr–a˜œJgetAccepÆ )s B): {sé$ }Wl®!
+& #6< )inN*7( ,GA ñ 
+|!Llist* ™
+@
+3lis
+¤¨¯ detectioní¢‘1addß }?íPEB(not'9QIsA(") "O ZU[partÍ!ı KbAdd to	7 »)eı	,$edÕ+µ [Sfw ! =£ ™T7if Ô (á¦  -".n
+üS	¢ 
+6 (	’Hrafor _,Ï 6 inLF:Get¬ òM
+6ë(Æ< N Š; 7Add³U6 )š¦OInit‡£µP+()?õáÒ
+; 
+)’
+#3 >†
+n  […N¤Integer(1,4 $)]±2 nì.I;£
+¥AnimationsÜ>. iSĞ-rscript.  ƒAnimTablê{öSLOW_LEDGE_GRAB = P . ú ,
+	FALL_OVER_BACKWARDS3 !  4,
+	- k_AIR_Kf 
+ ±,
+	DYING_ONe 
+` 	 Z JFLIP&  ‚,
+	pulldê Ú  ! /sh!  ú,
+	CLIMB_UP_POLEh 	 q,
+	GRAB' _F
+- 
+ 
+/ ¯WING_PART15 # ; 2; ú2,
+	HANDSTAND_IDLE4 
+ 	- ;JUMf- ÕJUMP,
+	START_ 
+[ 
+ ï,
+	RETURN_FROM5 # 1,
+	pš!ONl
+g  ‹,
+	A_POSå  ı ,
+	SKID_ON_GROU¯ 	 İ zOP_SKIDp  ’,
+	CROUCHÑ AFASTù=8' 
+C C 	' ¤z 	 9,
+	; 
+Ø } 4,
+	à’º_ON_STOMACH1 !  ú ,
+	WALK_WITH_LIGHT_OBJ7 !  o,
+	RUN6 
+  Î P  
+q ô &  ñ,
+	SHIVERING_WARMING—
+? $ 	= µ/TOa c 
+& A q ‹BDOWN´
+*  OEDITS_WAVY 
+  - kLOOK_Uí.   / É Ç 
+˜ … )  G OAISEq y    5 _LOWER5    5 ¿TAKE_OFF_CAå "  9 Ã<é 
+(  E : ßBACK_THEN_RUN.( ÷,
+	--	FINAL_BOWSER5†–
+J * 	;L `5CAPş N 
+, 4;
+	©ªPEACE_SIGNA   VbAND_UP5ªLAVA_BOOST; & s,
+	FIRE8 +URr 
+ 5,
+	· :FLYb  ÷:OWL(   ,
+	LAND
+ o,
+	FOR	
+ 	n	 ½,
+	SUFFOCATé  ,
+	COUGH$  û,
+	THROW_CATCH_KE(
+ ¨ ø	
+/§   º t
+
+- Õ  Éœ
+Ë  ´MCEILà ¸ Ë,
+	PUT_CAP_O5 1,
+	
+& "FF°/ " ¶,
+	QUICKLY_N 
+ì   ÿ
+, -- unused
+	HEAD_STUCK_I " 
+aOUND_P MLAND
+" ø ,
+	TRIPLE_JUMP_# 
+· & Ê/RT;   
+¯ 
+j „ Ÿ,
+	BOTTOM
+$ t…	z
+! 1,
+	Æ
+ 
+© & A < 
+! ø/LLx & A 
+W 
+´ < 
+! 7 Ç ASLID 	¹	D . ‘	G 3ON_œ
+t 
+• . 
+d .1 U 
+2 B,
+	R© pÂ
+–  Ğ
+
+S  â“àIFLIPë@f 
+€ 
+ w“FROM_DOUB¶
+7 ?# 7,
+	1 <_FAm  ,
+	SINGb   	“   “  # Z<_KIé*;ICK´ ,RIÎ
+´ "RIØ
+kr]SPINNş
+$ 	…ì¸+EC–  
+EEÄ 
+
+9" ß,
+	BEND_KNESS% 	· OLEGS)
+" ¯,
+	GENERAL   ) -LA¶C !LAR QBEINGY+BE8	 
+AB_HEAVYl
+ _7OW_é+IV!  b,
+	FLYn
+Ö
+
+ a,
+	MOV–ÛWIRE_NET_RIGH
+$ = ?LEF< 
+îLEFT,
+	MISSING¥  ÇrLL_DOOR˜
+ 3 /SH3 
+
+ ‘,
+	UNLOCK5 
+0   ú RT_REACH_POCKET. u   ºò , reaching keystP8?
+	/ 
+O   I !
+	• 
+8 
+ 	= zŞ
+8  ³f	¼  ¢1ST_cÍ
+O   Ÿ,
+	SECOND(  
+P <_FA+
+ U  
+Z  
+‡ _  ¯,
+	PICK_UPµ
+ n,
+	PUSW h    ,
+	PLACE… 
+  ~ ò>’
+2 š Ë,
+	BREAKDANCl ¿r  \_UNUS&   ™ò  duplicate, originallyº2?
+	SOFT1
+a ,) _FRONT*  ‰1IN_¯Sïß
+  n
+ 
+o
+ '3  _ ì,
+	ELECTROCUTIÄ	 Y<OCKh ™?&  ü Æù   [	oDESTEP 	 + } ,  k_SLEEP‚
+ 
+1 \SCRATªR ! 
+7 JYAWNï 4 KYAWN1 ?SITª  œ ! è Ê â % u .LYï	,   3 -  >,
+	XADIVE@ ?IDEw %JBONK %ABONK2OP_9 q
+
+0 " … „L B
+™ 
+` $ b ›MOTIONLESñO  	B
+´ 
+l  2
+
+* 
+-
+ 
+% „ ‹,
+	TIPTO˜ ,
+	TWIR³
+ % 
+]   ¢AART_ 
+!   ' 2OP_L…	 - ?ART.  	 Ç
+W n # ?AWL"   s „  É   +  ,  ~›MMON_STARV  ôßSTAR_APPROACHW
+ +'  °oS_WATEP   c,
+	SWI~?OBJi!  7 2Ş 
+X 2c’UTTERKICKD
+÷" _ÄTER_ACTION_Ez
+> ' ~ñ either swimming¸]Ólutterkicking™T
+2OBJH
+Ø ! Ÿ Â u™ 	! ,
+	DROWNá
+ - 
+n	- 2‘ ‡
+À " ' ª ,  	”I 
+0 ” 'U % 
+Õ zÑ  
+u SÑ (
+, —  F8 ü
+İ  ‰ JÇ  
+" 9 
+û  	9 19 
+£  / ê ^ =
+ nÛ
+  
+»  
+ÿ Ê‹* Ñâ Ğ
+;   ¯ƒSWINGINGş
+. 
+ 2 RELEASE1 
+ 0 1HOLù 
+ ;¥"VYm
+‹ å
+ ‚nLK_PANï	 ) XA Ş M ! B,
+	T JÕ	 
++ 
+†+ 2g2FLI
+à p - ( 
+`…  ~<  
+V   <ERS 
+
+  ›Do ±R} U
+ 
+ 	\ LCENTš0  	„$ü@$© 	-   .  G"KEá9
+¼ 
+ 	/ 7 /  	V
+
+[ 	 ı#<0%Ñ -- pole jump]?ŠHDkickÃOWALLÛ
+ &
+ ” ¹Ñ
+³ 
+Ã ­$  ı	á	# 
+ù
+w ÌG_FLYX4¶( ©(ìH
+ 's. ,# F«Ê
+*   1 .HI) 'HI! 1METs!-NK(  / £ƒ
+³ 8 	$ A ; 
+ 5 !STòm LSTEP/  / ¤#
+	c"PA]
+ Z DSIDE 
+Y   - P²
+( Pu{ 	%
+€ 	 X ô TERRAIN_BODY_HI™
+? ( I *> 
+, £t   l ÅV 
+Çe b { Bµ
+f %,
+& “P©
+V ! ¹  «; 0 _6
+¢   l  Xµ  / ^
+D
+^  
+- T-  7FASMSWIM$óSWIM,
+
+	MARIO_ATTA{O 
+ ,) 6DOHK $ 5DOH ,Ö!-WA,   9 LHAHAY FHAHA! -OO  (OO " % œIMA_TIREDJ  P }MAMA_MI”  ) |ON_FIRER  ' =OOF$ 5OOF! x
+	 ' nUNCH_YZ·'_YS …  
+V A + DŒSNORING1Í  T  2) 2) 3) 3) UOUz-UHj &UHe hWAAAOO‚½ e 0 *W¨ W¨=WHO56WHOÉ¼ ¶/YA‡  £ 3YAWµ	+ ' MIPPE™ úÖÉj } ó9INGº(w 
+ - 
+1 	 Š „
+¹Ÿ°
+ !YAÏ
+   2AHO
+!  d¤ ®TEP_DEFAUL|	% ¤	 1GRA‘
+ğı ]# ? I
+= Iş
+W óß# z L{ /SA‡Ó (SNr{ !SN| _POOKYº 
+$ » 7TON d ?TON÷òú
+( ‰ ! İÌ 	& E  	C 	 
+	& †  
+D  	% † úR!e $
+	& ' I
+
+E ( Ó F !*B &> *B (@ '@ +D !}
+ Ctmm.....¢;i’o’in pairs(<ñ :GetChildren())pRDif (0 H=BoundÓZ
+ ConfigurV91"))ˆAnot ^ €[2 U.Namen=!  $= 2 Û9i<Qtask.:´(function()Rÿ ContentProviderME
+# vXQprelof{@v_, anim+õ9 
+V@A 4 )³ +
+	p ":Pg TAsync3 ö<9)
+
+¬Ãisx__index±Q_, k)[yórn("UNKNOWN SOUND:"  
+;A	endã¤
+ 9{
+		;Ş 1,
+	~ sÀTable,
+}
+PROP(   †      ÿ   
+   SourceAssetId  ÿ/ PPROP   Å       ï      Tags  ŸP     PROP"           ğ      AttributesSerialize    PROP          ğ      Capabilities!        PROP          ğ      DefinesCapabilities PROP          ğ       EnabledPROP'   &       @    ğName   PitchShiftSoundEffectPROP          ğ      Octave~fffPROP          ğ      Priority    PROP           ğ   
+   SourceAssetId       PROP          @    Tags    PROP(   @       ÿ      AttributesSerialize  
+P     PROP!   ]       ÿ       Capabilities!  /P     PROP'   %       ğ      DefinesCapabilities         PROP          ğ
+      Disabled  PROP!   9       ÿ       LinkedSource  
+P     PROP{   }       ğ      Name   Client   Airborne	 €utomatic €Custcene/ `Moving
+ `Object- ğSubmerged
+   Stationary   LazyNetworkingPROP#   7       ÿ   
+   RunContext   PROP        ñ.   
+   ScriptGuid&   {414EA066-967A-47CE-BB5A-E018EAD92F66}* òCBA5B7D9-A16F-43CA-AB6B-A6945E62FFAE* ò21E99824-5DAF-4A33-BEAA-164A24845842* ò4BCD1B4C-3547-4477-8592-BA3C235E3C29* òE0771C9C-8B94-4965-B387-80C5D387982D* òC73C439E-9989-4A18-B41C-A254AD358C00* òEB0A0BBF-D000-462C-A0E0-395F726887CF* óB1347B4F-4EB7-400F-91F2-907BB377D0FA* ğC85BBA8-A3C5-4303-B9D3-1D23691C2110}PROP"
+ “˜     ó)      SourceOu  --!strict
+
+local Core = script.Parent ò
+Debris = game:GetService(" a")
+
+ifB ó3:GetAttribute("HotLoading") then
+	task.wait(3)
+end
+
+for _, desc in‚ ñ	:GetDescendants() do
+	if' ±:IsA("BaseS¯ ] ñ
+	desc.Enabled = true
+	endj é OSM64é oPlayerê  #")3Run 1 ¯StarterGui1  1 OTweed 	  5 „UserInpu£l $ = ÿReplicatedStorag> 
+% ? ÏContextActio¹ 	( $")ˆóFFlags = require(’ ASharâ& RCore. $ ‚ounds =  . h OEnumg   B ^Mario‹  $ OTypeH   $ NUtilG EUtil÷ aIntera;* WGame." X ÿPlatformDisplacement> + } ³1 = ş . /uButtons   
+²>  $ ŠParticle' 	 •¶SurfaceClasr  S ôSM64_OBJ = workspace. DECTSQ aEffect3 . a
+type ,CTypeà . |‚.KeyCode3 ÑController = ç. # " = .Î ‘ pc": P¢ = assert( rs.Local
+ æbmario:M U Enew(ÀãSTEP_RATE = 30$ó NULL_TEXT = `<font color="#FF0000">NULL</font>`6 OTRUE6 Ë00FF00">TRUE6 OFALS7 m $ 8 ôLIP = CFrame.Angles(0, math.pi, 0Qcoreg<B.$õGui:WaitForChild("coreUI", 102!debugSta
+ö
+Instance.new("BoolValue")
+' ¥.Name = "D: " øArchivable = false > 1 
+Zó
+PARTICLE_CLASSES = {
+	Fire©x,
+	Smok Qparkl_! LQEmitt@ ’Billboarda $
+}} “AUTO_STATw ñ "Position",
+	"Velocity
+ AAnim AFace˜b",
+
+	"BStat  WTimer 2Arg/ ¡ForwardVel ™SlideVelX Z, ¡CeilHeight WFloor ƒWaterLevK öQuicksandDepth",ë òModule: {
+	GetMoveVector: (self: any) ->  3B šwhile notF R do
+	Einst…£:FindFirst}	6 !",€b)
+
+	if9 		' C = (ì" :— b(inst)¹2	30.14	- }2
+--M Driver
+¡ }ñ-
+
+-- NOTE: I had to re8 ò the default Bind×S via üY and 8
+--, ôforces some mappings (such as R2 ’ to MouseI ô1) which you
+-- can't turn off otherwise.ÊóBUTTON_FEED = {}^ ABINDãúõTAS_INPUT_OVERRIDE²ÒÅCOMMAND_WALK V ñfunction toStrictNumber(str: string): n "²result = to ‘(str)
+	reÖ ğ& £, "InvalidE #!"áœ € rprocess˜4(id~ ‹, state:½ ¡‚, input:˜rObject)Œad == "Ÿ aDebug"ßÁ  fTogglee"ifv " =ô.x c.Beginï"		Ê bcharac³ÂC 1
+
+	U $ (= !isˆ f = not' 
+m
+$ v")
+				$ S‘
+$ ,R - Cend
+ Felse 1TAS 	SForce× …Nnot  ò
+			print(`<- TASÆ¾ override {4 ¾ÿ"ON" or "OFF"} ->`)× ¿CommandWalkÏ $
+3f_	else   a
+×b[
+*	^Óid:sub(5))
+		ÙRFEED[1 2] =€!/¾(,ÊPTòedEvent: boolean#! •È| C	if ¡ z[l ÄType] ~= nil@ 
+Ë> ÆT d $ ‡ » 8 e { 
+~ qervice.yãBegan:Connect(÷  )2 Changed4 ?End2 ÆAbind (J»t, labelUc?, ...8TType)Üò id = "BTN_" .. F à
+Ò TTouch‹<#:q S(id, )ëš C)y­ OM	w‘:SetTitleR 0 
+£nd
+
+	for iá± in { ... }ê	t Ób] = idõóÖ õupdateCollisions()c î3 inô
+Rs:Get¾×ö	-- stylua: ignor$Éu
+ 8I¦rootPart => Ò.PrimaryPart
+F5 œ©ApartĞT C:GetÄ„edParts(Ö
+	F¡_, part in sC©Fpart¬FPartE ±			part.Can7dJ
+#		.  ¢ÆÕ{–%(c
+ :Ç
+óler, humanoid: H
+ ?ì5not Wæş”moveDir =W d	`(-Spos =_c2.new(A T.X, - Z0 rmag = 0Oôpos.Magnitude > 0™   1 	s ƒpos.Unitòï	´óÆpos *= 0.475. ‰ 	‚ 7\q.StickM´ mag * 64  XI X  Y  Y  %
+	¥íd(Enum.µ ÙType.Physics)w W
+ò Pressed:Clear()T\ T.Jump4` < Bs.A_ ]} á	
+ñ 7if A ’Down:Has( P au #En€Blastb À/ =Š ş 3for®,<¯Birs(ë QeÜ	ÿ 3AddeyX
+¬
+6
+%En'T hRemoveW qtable.cïÒ .¬*
+z J3Setz D + 	ø Band(bit32.bxor7 ,¶)¢ ­% =ö.Parent
+	if
+		(($ 	ß
+
+ŸTAS")) orÓ²ToolAssiste
+"h
+?and’
+/+bmario.  ç6ñ Flags.SWIMMING,˜
+s-  uHANGING	C© 
+$ªz
+° 8 >Add²
+Œ
+…Ê
+	f
+Õ]S.LeftÆ)_ œ
+g FRighh 
+J3s.BüS, "B"£ Ü	w¾! 2
+.E XX "
+	 ñs.Z_TRIG,
+	"Z",
+	Õ9 œLeftShift ¯  W ,L22  2R2
+–R(not =ñ.DEBUG_OFF_INGAME#¬¤:IsStudio(‡ C~!P)Šƒ
+-- JPAD”¤s
+--     ^	 U	 q< HJK > O   v¯ »U_JPAD, nilŒU hDPadUp›*?s.LD HD  OLeftF RF KF  ØG DG JG  ô
+Down)
+
+-- Too lazy to make aB vloader
+Ê»Pz(Wtype(o.*2   !s)G"S ³> 9 #(mĞ4)
+	l
+ ! 4 
+r !(mO ø¯ 6 ÿStopRidingAndHolding° ¢DropAndSetä­ ", ¡": Ù 4Arg %?)HH
+			Ó – Ô  &m:y o  g ı ƒDropHeldõ§
+4 õ ¢Ï 4   _Throw¡ 
+5 ¢ 
+5 £ RCheck@OGrab;
+5 £ 
+5 £ GrabUseæ
+4 ¡ 4 	  í~ ÿ
+-- Network DispatchŸ _D	sé¢soundDecay Dlazyå -= ¥"
+%L. 3")
+“ C µñUnreliableRemote("), "badVr 4!")³ üAstep§ (² :"ídÂ  ( [
+ ]ƒ x
+3%qcancel( ÷!
+	3 > 1 = . ¥delay(0.1,’ B()
+	1 W:Stop vDestroy 
+R 1nil )r „.PlayingüÇ%,¶& u#(:d, namenÍ (2? =1ts[name]Æ
+ 
+"= U •Ù&if4 2and‰ Í T 1oldÊ :> 5? =6 Vname)ÃAanPl¯Rtrue
+aQ §
+ wi "ƒ
+&		@ 7.D‚sub(1, 6Ÿ¢MOVING" orÄ +:Gı7cayY ‘	-- Keep Uñing audio alive.HÆ¤  Ğƒ 5ƒ EARIO
+	³		-- Restar8™ ò
+ if a 30hz interval passedw uánow = os.clockŸ 1lasD4 = ™ 
+í L" "å
+06‘	if now -†•g>= 2 /B#t4			Y T.Time0!¢	 °ó(x Q, now.°	6Vò-- Allow stackingö é)9 n’-- If the¤lñ
+has a higher priority, deletf !--4 ñ	ones that are lower/equaº9 « A-- Oâñ other side, don't—! i‡ bre's a‡ 
+pNwith 5 sing thaX n› ¡we wish to& €  1ext‡	22U
+% ßC P³
+6 
+[1 d2128^É*i",6 in,"Ge."Cren(qšª= 
+Ã( '.NúE5) ~w4D1inuG¾|çõ  a ï a ]6 >=V g%		V g	Ö‰ !>=ÑO  C @ T Ÿ
+ a4 G ğw-g b:Cloneb# { ç Q:Play[	”ame:find(… ŒA-- AY4wilú !if
+  R isn'ÑÔinuously call…œ Wv  “ .
+ Ö 	; 
+‡Ö  Ø S3 Îˆ 
+l ü !Se’Oicleş 
+I, se|¨è Nn pª 	øÜ%P% "Û Õ%=@ 6and C Cname&6 or( S and —*4 Ùt =andQ(ô[inst.ClassName]Â~&^Ç B(
+
+" =k ;:: 4 H- 8emi
+:aEmit")¥©cof(emi“G .’icle:Emit* n  3set
+İ GGicleø/2set7 $> .)1 Z ÿ ù.* ¢u.."_"..Ê = 54newb¤(cooldown Rë3 cattachç-Š
+u.new("A '",-yTerrainF Hclon¯ şÚ 	e ³  )  Ø “ : :CFrrs.World  	‰ hä+†  ¦Adornee = \   ` 3	 ıJ
+
+â ^ ä BOLD"P %"		ñ2–:AddItem(7 $, p B + 1o¡
+Ù
+”"coolDown.*
+>notÄnNW×ğ²* .m .Äˆ 5not’j ¥ b  ò S  pÿ Cv214j
+v !OfË	Ú)«¿v215 = v214B TLocal+4õ Gv214yC	'!( 5X#trP	%Ö
+dı%dwarn("qÂ not found:"ö< QTorsox-
+> dangle:·,_int167 Iwais.-smodel.Rö!ã["000-shadow"] Bcale
+ ‚2-switch 1 R.root. boffset! ó2-rotate"]
+	
+	if„ ­
+ .
+0bnew()* 0‘math.rad(¬.Z/170.06) X 1*-1Şq--BAD!  óJANK! Oh well! I cant figure out anÖ1oluÒÑso it stays!
+ñÛÁömHealth¶h  Õÿß#$ h®"Ş# 
+øQWhich@H; B")
+	‚ 1 = +Bmax( Á, 0.01) -- DÁ
+Ekill##ñ  by keeping >0
+¾‘ Á B.Maxÿ H = 8  s D
+mCameraDBcf: ?ò+ 	4cCurrenE ² +cf77 .$ ë3!= ‘ .1Gable1 ×1cf
+Ö   S L gCustomø ÛBõ&›*ú $mdp-œ'6any6 3 = @ Ds[cmJ ¬cspawn( ¢&Y )Ö ÉtUnknownY u:", cmd+ 
+
+Î tnetworkm(¿ ‡Ç:FireServer(b „ ‰
+ #on˜æReceive(target 2if + 1 ~=m$erh
+
+‰ ' J 
+Ö ‘.OnClient;Ø)¡ )Biİ1† ªlastUpdateF.7lasf 
+P ?U"st»¹?] ‘activeSca)
+11 Csubf!•0 -- 30hz $ ÄemptyId = ""N dgoalCFŞ) Mprev * jOa ¹ k(h3.zeroD / 0 × ñTrack: Animation û Nrese€tBindabl%
+& (7 Ø$ˆ=/ H
+s"Reset"ØE	Qreach§ó	256 tracks limit warningÂ òloadedAnims: { [¦2]Î ó  } = {}
+
+if Run¹-"-İdummySequenceû 1Keyö! "š¡provider =r/C:Getj 6 P, F")
+	$B œ:Registerm (œ È6%\ do
+	 QAdded#(A ÷ %; OIpivoV
+Ñ:GetPivot()
+
+¶2F =' 
+Ú º
+ ösetDebugStat(keyûTvalueıR €
+T 11öring.format("%.3f,  "\ $.X	 Y	 Z o 	†
+t 2i,  n (À Û 
+."ifÊ	7abs& İ	Dhuge¹	ËSsign  Gsign3 ‘-1 and "-9"õw ç = `{sign}âˆ`â2 U Û )$&
+	Z;
+/3keyh	yñautoResetThread: t ?Ó 0!on, (
+< apcall(ÿK,* K)
+		 p ! :s¾	grobloxvòyAxis * 100
+
+	--if Fò(ôUSE_SPAWNLOCATIONS• É 	dPos, fn;Ã = Util.GetS Í°
+'.F, 8 5
+		™ W 3
+--Ÿ/--<  2Ãv
+1  ë !sm2C‘ rToSM64(e è?chaÂ‘ 
+ñ n¢
+¿·µ; }8  q. *cfQ· $ *Í 1Rotâ(A)
+		c õ PivotTo(cf)
+
+		ÉUcf
+		È#cfİB and© :†
+	> û	+ ÷
+3J Š0 ^Zchild[È-U
+ab#if; “ qSound")ª  ÷w6U 9
+Ì	* 
+A)  …“
+iò=8f Z +> ±IntendedYaw C ‘InvincTim\ 0 ›HealCount ?urt ”v = 0x88\ 4CapY 1Y DBurn n mSquish 
+›>· :˜&$()_ rPoleObjo=õt = sm64- ®? |ò	  u-/·
+ Ô.SPECIAL_CAPSz bction(í'.©é_SPIN_AIRBORNE›vx3(â:*if½:ØJH\ù2-- Ò$dtÆµmin(dt, 0.1„ AgfxR‡ô CFrame.identityY s°
+"toM P/
+ºÙ
+y	¿	bcale()WO #~=7
+5 Ø ¯ ñP	4rCbloxpâA)
+		  C =Z ñ
+/ 20 -- HACK! Should this beuanced?
+P ?®† â	¹h ³b-- Dis±71for+!rbecausev 
+ ñs parallel universes to break.F ñ TODO: Find a better wa›+ñdo two-way syncing between these \!s.C ôp@	‡—%()ñ w sdß(Ppv - pos)c5p "if? 1> (s * 20) Ô3-- ×w 
+hpc2--  h„	Ã 
+9Bë°> simSpeedµ2Tim’"1 1nil 21
+
+]U
+¤8SFacesˆaWall, 'E.Cei hFloor)? UWater6 “CE)
+
+	ü+g
+Fmin(n#Š,	öPDATE_DELTA_MAX) * (†#*ù 9)
+	É1now¬²! This codeD$òferes with obtainP"ò e caps normally¡£ TODO solvÚ¥¦3= 0 D æ
+1rWingCapzv3   
+	J›H:Addª—WING_CAP)Y— / Ü	2 »	­ 	WMetal‹\ 
+‹ 2MET3Œ 
+3 !   1, 4‚ÂPrevent exec|‚runoff
+	Ó0 „ >= 1 do8bGlobal‹ +¸ - °ÿsÅ	CKa.Apply ş)S entroll u:)¤!:EÛ eo … "--+0Î© s q8ô's versions of pò etc, so we needI<!toZ2 it
+2theK z objectœvÓ è!).û 2ObjF4ObjºB:Cop$£ 1ToO^ J 1Obj0ŠÂlocal gfxPos¶8	ŸG# )¢ 3 - „9) +\ > _throw| ¤ Á.ThrowMatrix+7
+3\E)
+		YV!ta6	A.Gfx­$ | `
+¤	  1 Ä	€
+[hgoalCF{ÜBnew(!²) * FLIP * ¨ 
+2devÒx À¤
+			then (¤
+Õ; T") or&Í )ş9lse { µthisGoalCam} -±  +Ÿ 
+q¹ =O% ùN#-0 2Posõ › "+=! Q ¾‰ B“    ! =2		  g	BAuto"ò logic (Optional@áõ if you have your own–s®Fô.AUTO_RESET_ON_DEAD®/--Z@É
+zisDead(º3e32 = Ô´¿Cturn J
+Á< 0x100 or (g(A "= < ñ.QUICKSAND_DEATH] 
+7
+a>= 100k  K%if¯ ; <notÇù Ì ş}delay(3"[ ¤ Ÿcí/ify ln
+i   TŠ	'ü ¾ş	±7
+¤4œ
+
+!K ˆanimator) 1yOÆ{model")à
+‘AH "'Š öisExternalAnims =•à ¢áHasTag("Handle- : Aly")=&if± Cand ñÃAnimDirty or¹AAnim6)f Ä Q.Anim
+' >ı	xFanim3nimoëI&an´
+E-1 /Ë
+#  interpolM~ = -1.0 E #ifr™º j — R !~=
+ñ åRif toÌG õ) == "TURNING_PART1í@ aÏ0!imL
+3 23 D© QSkipI A = 2÷& rAnimSetŒy/	a*2 †# D “!ğ26 T  wi"
+
+Ò ZTeæ 7î ÔBionIWLè ^?öwarn("!! FIXME: Empty¯AId f1m í%"J,Ñbreak in livea!s!+ Ê .i¤ ƒ€ «	éZ( =G[y A] orPator:LoahX A(aniœ:	z" =Q UVëQ! | ( 	" n A				İ ‹	if SM64áx"çDtrueGA				À Q:Playã ¶o, 1, 0·j$	† N A , È4 Ê
+š-"@    Ï÷C= faX  ÿ  
+d}s“F rAccel /0ª% 2if 
+ ÆF *U else 
+q:Adjusty(I  .
+É
+Ä;E> -1Ôè 3@Üâê 9éy
+o ÊFgH4: 5 / 
+%&-1
+º6¸ ¢pü)Ó.áBlign»
+Ï ¯A+ ›z~ QalignâC aOrientH¾‹ š,!- Á# ×
+   Ó
+s h
+ã= bit32.rshiftº
+1, 89~.g Qblox(€ ‡û	Œ	S.,¦
++kŒ)"ifzÅ	¿ AnextLï
+áNO_CHAR_INTERP­  v KÂprevCF:Lerp( $,  é M	-- !		3
+ZäE
+Ÿ >‚ 5&cfÚ +¥ 	ïŒ  	G'E 
+¶†* Û M ËM ¤ ĞòG "¶¢
+İ $ u+I â: > Õa   k  u5			İK,)Â$ ø5'æ 
+µ Ğ tÅ}U	L
+Gw5ªQê$s2 âEmulateLimits"ä»script.Util=` 
+ Vds#s0$ =© ‹… ~…!vî
+$ óTruncateBounds",;  ñ` K  ”animName YÆ
+O and¨
+í	?$"
+B
+Nœ=) n Tp ËJsGetName€D!IdÀ ` ? "% 
+_ Ewall AWall{ 
+D bWall",+ 1and	 #.Ià.› Éor NULL_TEXT¿ 1flo—²QFloorb İ  ”, F8` (ja*.{÷  áA:Get\ ¦Type())})`-$
+Î ( '",p 
+ 
+Ñ "..!  Ş 6cei>2Cei>Ü Aceil> =' Ú 'CJ Ù –Ceiling",p NceilÙ š Ø  	,ª"	"…"", "`{±B} ({¾(·&S0x%X"“.6 R)}, {ı x}) (INC ü f} | DE 4urt !)`| Z	¤ "ç |   4 ”!apw)¸ ?f)I
+¢O´insert(capsÈ ÂH:HasÁCAP_ON_HEAD)´!"NÂ"Ú° T £VANISH_CAPS oVanishS )ì¥ Z¤ (ÉP FWing  ô 	 !	"±ECapsD
+Ò"B}, C¡R#capsÜü'ANoneh RTconca¦o", ")}!uInertia ° 9-- ³ ò "HasHeldObj", (ˆ
+{ ¯1¨”d1or Gd ñ for _, name in 
+RSTATSÃ
+Y ƒ = rawgeÿ
+w > )M	­ ³;;  Z Åª
+'PoÈ 
+U = cf é
+bbodySt©.ËB % t6& =2 %.T § Æ xEId ~z¢BUTT_SLIDE" #ndû	& WALKING# 	òRIDING_SHELL_GROUNDU†
+œ 2 *== 9 Ñ +~=/ N L27"Se¸/'",G ¢
+I =! zÑh~ ?z 
+$ #",; r  # = j ÎØ a#–ame, flagÇ'µ9F) doÄc•==S 
+³ÿ true) or Effect& 	¥ [ [>ß Y=¾ ^> ‰º ! =Ä$k Q>0 uhasFlag;ƒ A”:Has(flagæ è e Š H 	 b "8Öi v>ï G:/~=l k ,: f	ê?h í!:š ‰H :: 4 
+™³ g3 	Ræ İ 	 ø ON&7sçC^eSounds+RAloopb%,À"if·FÂ+7 	D  ÕbLengthO  í ‚E p ¤ !.L nÏ _ 
+IPlay‡ 
+NUD"?ş‚  « Š 
+%m ,3“vÛ
+H G Btop(2 1 Ø X-  Û) Ğ/lreset.=7ñReset)
+shared.Local	,
+
+beá2Ç^(ú(mBset SŞj#¤J6new>/ ƒhas been2 /DhSd to
+å
+bclear(R bB+ö )
+
+RunService.Heartbea8— Bdt:  *):1ñ .profilebegin("ú:($B")
+	
+ (. Dend(z ÚjİUQsuccejo²‚ %)
+úñStarterGui:SetCore("2ñButtonCallback", ­2)
+	ë Ã` iQbreak  
+tE0.25Â+†debounce1 - ‰Õ
+¤À  --!stricÑ4û92CorÒ+TParen  
+€F« ór9 . )* !SMŠ1L Î@) WystemS 	3 O 3s =3 . K 3!  1Enu­p .  õr SUtil
+ #Ac
+/ .  °DØ!   & ¢'  ( uAirStep#   5EEyes   " TInput  $ 4 
+$  $ 2
+' 	 “¿
+VStatu   . ^   uSubtypeÑ   . !
+
+" ¤ Ö 
+T‹ ¿
+-- Helpers¿ ¢Å|" sšÕIsNotHard(cmd ^YƒDˆ cmd ~= ıU.HARD%A(cmdÉ"1x35 ±cmd <= 0x37z‚ ˜topRising WEif m|2F.Y ># 5 *=(²new(1, 0, 1m ‚playFlipWq „, frame1ú  2 3 Aa½#"= Î?"‘  =a  &  2 3%m:i	(º Ï.ACTION_SPINï ‘Knockback: ó d2ArgQ
+Ô‡th.abs(m(5) >= 28“  „IfNoFlag› ¢MARIO_DOH,
+,‡ ÆSOUND_PLAYEDê:
+† 2e ATTACKEDj 
+J· U¶ ]ø lavaBoostOnWallk{ š ²% lFúÂAtan2s(wall.“".Z» Xì-.:u: WSetY( ,Y -| ßU < 24x øS = 24	T#!m.ÔF¾/I DHurt$7+= 	ƒA112 ş$18  W…ON_FIRE)¨-m:X^é±.LAVA_BOOST*%õ checkFallDamageÈ¢, hardFallL  (Ä3fal^v“ = m.Peak 5- m›$.Y0 di # =¶2ôFALL_DAMAGE_HEIGHT0 Bhard 4 _HARD_9  R¹ (|$ ë.TWIRLING or mz+ =ìB–'àÊh  ºt< -55.03 Mif (¿ a~= -1)0 ;>p	è *Y,6Y!24÷"]U]6a0`
+
+1, 4\(Òß 	% B !m:Ó²IsSlippery(¬ GP8ö 1ö(K	ö m{S = 30$ì	 KüshouldGetStuckInGr…1X.ı  t 
+mœ
+: T†
+¿
+ÊhJ
+2.(` '= _ Ÿ.SNOW or # 	"ANvˆ  	4) 
+r	 aType)
+~.äOif (;r > 10005D .	†.8660254=­VN,³Ü	Æ [ÔU$OrÑœ $ © AOOOF|ë	ü ÓFEET_STUCK_INMÍ(
+ı ,(m Eõ KickOrDiveInAir/ş0˜è
+Q:Has(
+ _ ¥.B_PRESSED(ª†? §	$ >¥	1BDIVEú
+¥.JUMP_KICKW  ó¶AirWithTurnÊ «ãdragThreshold ê r H “.LONG_JUMH&4–<32
+wû&ÙApproachFloat‘
+ì
+B0.35çEåNONZERO_ANALOGJâiñ?Dò?m@'- ?	&.Y=05 p4 ºMag / 32
+
+	Ë ‚+= 1.5 *Ò XCoss(y 8) *T > Ï	+ã´5d0, 512Q ?SinQ 
+âÔ(	.
+¸|	$ O-= 1@ T< -16Û 	6 D+= 26 m…AX	  Ä 	o)7 Z7 L7 ´@ Gnew(‡ ,^&,  ZÏ	?out
+tş
+:
+		‹5= 4ù
+®sideways,êA	L3»#4Magêï ;l1.5
+		&  > d > 0¥ò--! Uncapped air8.S. Net;óve when moving forward.â ÕVÀAX +=…aÇ› + 0x4000ĞB ã	Ò B ÜJL¾orTwirl‘ § bs\8K .>VA1024]Â		<°	ÏÏa0x8000M 1 \]Vel *…0	i D> 32·
+-‚é
+æXQö  ° +.Y¸=~ ø¶­LFlyingYaw‰	’targetYaw½-ÎÛgnedShort(m.CXyIX * \	A / 4İ8*ifP >××›ngleVel.Yòp>”>	À20x4ï#2 Û50x12&		  éŞf R, 0x1¿;ï‡Í$y7 N
+7Int> 9.Y,æ N R, 0x2T + I 
+€ y{ 7 7 Rè -7 ?< -82 u94"20?T 9e
+³i "40 
+¡
+
+ ßP ".Y•5 „Zbh20 * -= M
+	Ä_PitchÆ ÈYÈ 5ÈR  x
+“X®“»Ç$Ê1X >E O FXŒ v‘xàÊXÊè P p“ 
+‚ xÌS  ; Vì Î;Î<-³=6§	
+=	Ğ¹Ğ
+h ‰­
+`[ Î%(mĞ". R ¼  Ğ
+C-= 2[˜D.X /Ú
+a + 0.1$·A-= 0õB(1 -å&«$.Y›	m  ~	 %= «v   )> …¤ Ş
+è ’- 32) * 6“	` _  N % 
+ã0• Ú| 
+ [X; -µ ¤Tx2AAA–W 
+•6 F5AAA2‚ ®V 4 W èv 
+¹	4Š .¼L ¬
+ã
+ HvelXf ZNf 
+ 
+HvelZf Yf 
+± X]
+ ®	v*ùñ .new(velX, velY §’commonAirpEStepD, lam»¦5 ¯[g, stepdz)+ 8ÁstepResult
+	LV u+ Ã = m:Perform$(i ı	ƒ\ C == ) T.NONEãûA")? dLANDEDA Ã
+ÖÓ", =LƒBACKWARD/5_KBD V(\> – „HIT_WALL˜ L 
+Ù Y ìÂ	m:BonkRefle† ã /ip·W‹ V DAIR_· i eß@	Ä"R ò	--! Hands-free h}¢. Bonking #)"no ³is referenc+É2sC!2's ¥%£ to a non-Q  swithout{ Q dropFeôthe object, caus§Ph› ; òglitch. This can be achieved A Âan exposed c¦6M6±-- out of bÇ'd, grazs ²bottom of aõ w ¡falling suz_aìá final quarter›± does not fòS@ Gc‹¡, or by riò Çinto the top Dsuch@ s 
+ò
+etects a ledge, but you arŒl!--’ rable to& ‘ grab it.b æ T>= 38Õ-
+Particleü¤Q	 á.VERTICAL_STAR¥°bAIR_KB) © Fº/† Ò 2(-8A ‚ t ’SOFT_BONK- |
+3 { à Z ¸
+* ½
+ÏGRABBED_LEDG6’s.IDLE_ON/ 	" “EDGE_GRAB–€„ GCEILı h ßSTART_HANGING^ 
+‰HIT_LAVA
+K$&¬Uè& {Rollout 
+ò)Ù µ,6 J	´ Œn$Ë 1, 3à
+C Hu! Ò&qTERRAIN#
+] &
+	] )Ä % Q ™áé 	¿E¹cQ(anim?#
+M!Î  'êı
+gT 
+ ‘s.GENERALÃ#I 
+ß ® 	·òFREEFALL_LAND_STOP²PlayLanding()Œü·l 
+ÓÍ
+ë›¢(æ:IsAnimPastEnd"#
+Ëƒù]
+x*#6Air!)‚tep(
+	m:u 6,
+	Õ
+?,
+	&;,
+	Y„,
+	speed; 
+jC
+J8 B
+»;
+^
++
+}Å$= ¨¤#… ) ôTHROWN_FORWARD orë
+# ó˜PÕ ™
+), (­ ƒ3  ª
+ÉiX5	-é(
+ $s.¿  ² Ø
+ 
+f
+³  €-7…9p§heckWallKi$d, '>~Jãı"Aı"¼BPrev’	Mœ
+ ¤
+:Œ.Inertia\.-].-|t6– Q.WALL_#2_AI¨	æ3É=  q%- Ÿ3
+--)
+1ªõAIR_STEP_CHECK_BOTH¼KDbor(… ‡
+5
+,Ÿ DHANGê4BDEF_2: (°1, (õ2Á) -> boolean &()3vkJ&
+
+H Fe.JUMP,™'(«iÔ
+s&„vã& Zò I'Q_POUNÕ/!ndZ £shared.mov+¨=8õRstart)Y  %È%õ	-- Slower, smoother turneGcurrnóÙ%)@ am&Æ5ä0x450 -- Small€:for 1 (a4P2 to8YpË[ QfaceYu
+Š >
+ÍÄ ¾ ï Í
+w
+'ÔiY …¿snappyturnsˆ¡?100‰ªïk
+ Æ3
+ôš
+¿
+–¿)gLAND, EaSINGLE6
+,Ô)w )bCHOLDG +
+g¥hRE\ = (mME$ [D
+% AObj
+#$ Õ
+ Q)Bract’8 2ion ¤/ÄDROP_OBJECT)÷ ©2
+'%.ˆ…+:.Tnot (Cand  · 3ionı8
+» 09æ.HOLDABLE_NPC)ò-¹ Š
+Q.AIR_
+ ³ z*9	 ºÁÿ…ÀÿÄa	ÅÛïWITH_LIGHT_OBJÍ+EDOUBÏ j\³/ÃD.Y >©
+i S D_RIS[0’
+! BFALLêœ
+ÿıÛÿ£#, ·
+|	oHOOHOO°
+1·
+OanimØ+OTRIPØ
+	 Ğ	
+0
+
+w	ODIVEr	+
+S k	ÿ…2±,ÿ¹ (n	  R, 0)
+ª~D¦, 2, 8, 20Z@µ>BACKFLI¤ fµ
+Cb
+ÇYAH_WAH_Ìß M J	_3, 17J¥¸
+à™Banim
+
+ T	Xˆ
+ ×Ø
+? ®? ÷¯FROM_SLIDEB 2
+ B Ùãø 
+Á,õ #K4N=
+Z ¢8K s¸1
+		ªD ±r
+Ã
+
+f$
+& ˜<ING3 âÿ€ü
+	§:_SIDE_b!ø
+Ééû¦¸Yjr —ÿ7ƒ é A Kİ>Ã
+éJã_w 0É+
+	(ËÀEÿÿó† Ü©S  Ù4BJump4¾ı!¹ö¹	r{EnğÃLongJumpIsSl¨lÈ‘SLOW_LONGÑEæ%ST ¤-$OO¡Ò:GetFloorType$	R)-BWIND<	¸	á)0ñ
+™¢ İ’ERE_WE_GO{	A È*B--[[–$( Ş$=Y
+W[ABLJ"B*!Ü	96T< -15  	‘Ø k+-l+f$ A--]]ÜÑ=ÿÿóT!
+:
+­
+q.f1 riZ-IhellûK	ˆ ^
+
+"nG*@RN.e?)
+
+œ6ì /¢60X&% E/x.Œ >6b.}m‚ *ZN42.0è3#	é [FALL,ı)Ê' 	5 á 5 6  ­SÂ ‚S'TTwirlG'
+ " yDT)D! =<CG	 tA_DOWN)—
+A 5200<† y·@
+à&4D(, I h>)H$=
+õ A, yVeÁÜ 1 += h	k-Ö À ¹È 	É²3^
+Ç }y0b  R
+>† …ıRWIRL)× Í¨H
+ÒÌÁ OstepÆş 
+½E ì.
+—9
+@ 
+5¶
+ ¸	OdÇ
+ODIVEX	a¼ÕQËå&O
+
++Ä%
+€GN:
+C  
+ 5Q.
+ò @Ã´ q:CheckO:GGrab73:Ş´Pe4m.B*lR.Grab‘xB0x01Û
+'()øknRâ+BSr,L ÊÖ5	dÁ" Šå26if 3
+–Hc
+ ®?>z?ƒ	]+$-=z> U&x2@³2
+T °C @
+U 
+JSetX5FŠ 0¿
+$ç
+= ş9, -ƒ a% 
+¯ Z›W)0 .==1 U9	m.Á:Ó: ±MIST_CIRCLEÿ ¢( LHEADºU)Y•\
+¶[2+È>H4‰	Ç>jWÇ*o == ni>
+BDIVEZ¿ Áß7
+*¹/+ ‘PICKING_U‚7èôîÆ- {2 ¹1ä
+ˆ¨mm 
+v4= Ø
+‚1STA3Ù ı4½4Ã *; b$ ÿÿó¾3‰	
+4k”g. 	ñ Ç7B+= 1X^ D== 4V +m:{¾X:	ï
+		G	¬cRWAH2,55A0
+dd	 	k+OECT)› Ø
+21¶[]
+À)B&	ˆE‚u.Value  ;ĞS_LANDZ·:  d:0
+	¥˜_WATERºõ	¥ 6 < Bÿ ?(15a
+¨
+q OEXITA
+ u3
+!¿	À=H
+°	Æ ÄRğLƒ`4 İ
+Æ<€ yC/
+¹$	ï!³ 
+×ÓD ¶‘4	Ú4
+µ4õcx
+¥0ı_ÓŠ GÊA_STEEPÊ†jz!ô&W Ó\ 
+ûp ?i0.98 *z·%
+â ;L
+
+ZS0Ëè>a.BEGINñ
+3ING(æ
+˜=e • f ËZ–
+ c > !‡0	½mYmïm.SteepJumpYawQ:°_POUNDX
+õO y³‡Òo
+
+;
+	
+ 
+
+RJ  Î
+'< ˆZ q = 20 -T	. .š¾^7 ‘+ 160 < mõQHeighåLn45  iW¯NC Í[Slblqosition(? 
+B"50æüB{™Ø
+:/-èû5(> hiHF 	˜-®=$)
+xû r50) -- 2³YA¡, ground p AdiveÇMY=ÕU
+\q,˜;Wf'd E!13 ½\uÜ	‹kDáf % š^Å 
+ÏJG 
+D Ã
+üy ß [’ >svCount +
+ø
+2A_WAHª ¥# 1Ò°
+| óO DIÌ ¬
+¤T7öé   mo'eƒ
+Ğj= ŠŠPlayHeavëKú $QHEAVY¿°Nê A§U
+•	å ), V—.HORIZONTFïÄ ş   mR1ä
+²ŠTj ¯1-16T æSã
+
+^ ÊÈdU´Q
+µ'»
+en[
+2-- û	%nJ 2 )Y
+=} 	†u erı ¯	×!k8andG à8 or BFIREsQoBURN)
+©^tÄ =hÅO s
+	m.Bur¨’+= 3
+	m.H”T-= 10‡ <‚A o= 0xFF "† 2fun0 (HF İÖ?\P ^ƒ 
+óå
+(Q‰Âœj
+æŸkŸ	LMYNàyi* ÛPb	m,
+		{ B'KB 4ß" ©·ö5 ¹Ÿ,
+		-16
+	ŞOûN_eŠ 
+Ü
+
+  ÀO, 16^ iA ºX
+• =" 	Ø  g ^q” !   ò?
+		9¼ûRYö^Æ6~F	í·Ş ¥
+N9 £
+æ
+kWAAAOO¥ 
+²¬)
+¿mÁ_¸"± 	E/ m
+¿(
+	  *= 0.98y	‰Ïˆ;U 		‡
+ †:KŒ
+— 	‹ Š+		÷`KËTpitch(¼#ÂFÜ
+7 f> 0x18h		  )8E U 
+Á(¶#y#; +R £
+É/HD]CıX_;M
+ñ ÷j
+Ø²<,Mm
+ÿ-- CUSTOM ACTIONú* /7OSLID¤'v
+1ì
+5
+AWith9¢6-«]WALLKICKt
+
+!9ÇV$
+ˆ¦
++C(32.•[ 	$ Íb“" ‚ 
+™uÌV~$ëñ 95Â   ãå^Şš$0)+ *b=—X
+ñNo!!! Manual fix!!!ä + —
+Ä ˜[ƒEDiffœ!bs¡*QDiff(QH	”TÙC.Y -Æ)Jc. áîƒıƒn
+7	if† #>=vuT	Ê Ò&°QOA*$if›?B _)€H Ê	
+HSC	)Ô¾
+ã¡ 
+h`– éşj› =³&áäa ^¬ Ï<õfámƒøA, -1<N  +B-31.Ú=h‰Q  3R . ] ±" 1DUSV!N  o+
+u# + BB
+\U ù) (‚:»(ÜTÃ$ûä kickFirstie()cy\"52·ç´
+&
+Pùâ¥èGSLIDßd7ãÔê-	xc
+^M= 5
+7iG Ö ÿ  !3/« 	0 ÔD YÊ õÑ n ù
+Ëgë  †>†2 'õ † Q	.\- y3 
+ 
+º
+Ï ?
+S–hp”h…× 	S
+Ñ •í		Í
+ _) > 04)ÑROLLOUTiF
+	g
+RSPINN&¢/A]ÿÿø³ñ 
+ÇŒ*F   ó O_AIR	4l™ ı
+Ñ‰> 30 and>¢†CloorM"E> 50Ø	´ > Ö
+
+O2	’5â‡)dk*
+vrÑ Ñ$= Ñ   q%»}ÙŠtm¨| x‹
+úŠt9848077Â		â
+*m
+2”B-0.5
+˜+¥ ! 1ógfŠ! Lƒ4&¦ Ü£O
+Ì Œk.F•P
+!* ¯ü-<q  QÄ÷
+VHOLD_X}
+ã+W £ŒMs Ç
+Ÿ .— .:_3ÿ:Q°ùÎi	h5  
+=>‘<Ì&!
+tÉ  SiİING_ON_BOTTOMÄ.Ån
+|+@–ü!e ?&½*ÿ¾–	¾* 
+ê1notb(3m ë	­ÑWÎw@	ê vµ % ¸	Ù Ï“ ü # 
+úI%ù .Î 0?E56Å˜’#7p# +F? BCAP_R'!D)ˆ 	Ç˜	S&		÷“
+Æ!84àS8• 7H¢, ï'
+“#’BODY_HIT_Xú.M73< 2z
+©	Ì _	4_	
+G,	›!/ 
+·å	{¤	V	•Ì8S÷¶†/
+½BöV˜& ğl p› ¡ _
+
+%ıf,
+ş&y!--Úè&ñ--	LevelTriggerWarãòWarpOp.DEATH)
+	--J B2Eye›!= Ì(ŸEyes.DEAD1
+GÊXÃ‰
+v-z	 è:¢ ¸2(ã†“6" ÚDì#
+Å ©
+‹ 8	º £ 
+:\x,¼«	K€¡))% +„XSu Å"7!tiGl( 2	if7 >Öp !		  ( VÆ Åm 
+* 1tilVì‰
+2. BBç
+?` &n†9è sEÿ ùê+ü 
+…Ï¡­´8k >
+ÿvsu	Áà
+APUNC`aâ
+†RnimReh6AtrueOš€ ™ @£ †L[
+aØZ g RFramew   Nv RPunchw
+! 2n J  Û#6
+ “ f Ml´Éy & <æøgame.ReplicatedStorage.size¬çb"Foot"(	
+ÌÔKbG Œ(T--! Dl„”-Y for Òä ²
+ÎO3 îA$
+	‡ ş
+nr« f†:$
+?FLY—Pv€ï".X‚mÏr
+È	‰x¢ï
+BWING¤»î î ^  e]‰
+  ¢2c ÂÏ2FLYbRCANNOO
+	„ 5 E/> `Î
+r.d	¹
+œ
+68NyAwÒ aA_FLY˜
+
+I}¯n¬T	e‹÷–â# N
+P [C×$’È	-³ƒı	 Z3=çZ4 ¹
+ e		
+
+F• XLŒ	_ $P# !To†!(79 ËN Ä	f(1Æ¯ 
+UW3&  g\7 * 
+8" ƒ †<Û
+În
+NBBONKí.Ñ  Şˆ
+â$
+ ö ú(  E/Â ¨‰°%È %È
+M>  m
+
+¼ HÇFfI 3
+€ 
+N
+*)Qk „ X„¹6 º£À
+	ì'å'2X >ã&m$U >= 4#Îa'
+ÿy <v
+z v 
+ÌW
++ù Q_FASTI) ËAYAHO³KvA_YIPPEYq½b W\ a)
+	m:Ac 1For£(f6oLYING_6rº8`!ŒpS5ı
+M I× 
+jâ ui­€b?Pasd„%	h›Nû 11	Æ Å Y  Š<A  Ù5< 3{mo !(3T  ® A• ;	Ğ 8P	
+‚W X	.
+ù!ùI]v1
+ó~TB
+
+6/WI)G
+€ªµªw	Y0 €D$$1ace0í„F 1Mag
+4 Æª/.0O6'eÜşÄrvÛ
+º
+İŞN«‡r!V!¯  «”
+µ  Íêµ_ON_STOMACH’”š3air†‘a" !
+v™ 	#	)ÈH  Â
+J  –2-16\0r 	
+)5š
+		6144.0á¬Î© ,WS ¿.Y,
+		-4096C û¬/
+	É•TOP_OF_PO7…‘õ	¬cÍ+Ÿ…&‹	å+“HANDSTAND¥CAès- Ÿ?
+ı?¨ÀL
+ÌÀ ÓÀ€Àº ó¿5SU´£ÀR
+type0(Á=
+
+É¾¢ˆ¿³~İ3= 0 ÑTOUCHED_FLOOR{ë FELL_OFFŠ6 ½· letGoOfLed»ºı8`#/,
+¹!
+0[
+	±
+E= -8ÛŸdx = 60Î‹WYt z) Q 
+ÿNVa.new(x‹ Gz)
+	¼ øAFindn(OÙ. <8-1ß9 S -= (Æ h1ß=ñ e  ¶#¼OˆÔaò  
+L 	Å
+ £2ê
+åÌclimbUpÌox = 14) î
+AIDLEÓB_LEF»7ï  ¾9
+¬Í øÌ UClimb6'pk:QER, end)=—)/,’topAndSeta"Toü  ë=¦™XQAOn Ê c	H	[œ 
+™Ë-	û ü-- Evil hack. Run.ÛqgetPole²[s
+)1’ŠGápoleObj = asseÉ­P <
+´poleExtents¢3Get (B 3) /¼PDcalew
+epolePo7 {ù3 ø	 iSize =u - 1PosY=
+ê	4
+		> ò .Y * 2, -- Pole×  ^Pos -‘; )7 2Posw
+dsd®f1, oZTY^	 ÿ-p ,Ñ , =´	3Top
+Å eF
+– ryNÃCNONE #.Pz>k 4Topgá• d
+¬Sm¬Y;A.newşUPos.XÓ G.Y +€ +! Z[¢sResolveA,i¡DdedAf”FindWallC‚¡s’¡, 60.0, 50<	¢  W * Bj Bj 3j /24j 	BÄÈ ' =Ó %or
+ B” 6ceiÒÁs‡FindCeilè zà H.Y >; x- 160.0à¸Uİ 
+O= f4
+ıU$.Y*~  Á < „C/>< 1o(© ÊÍè	ÈyÙ<‹ ñ  -- hitboxDownO¡úu&n 	i à¸ „uİ 7+ 2
+ÎEa= -2.0tü  Ç Æ<” FB >
+= 
+?Ó 
+)*­W ï	Ê	¦	Z<š ~ MAplay¸ 0 ¶4, bAwisOnTre[ÏY	if bƒ  BPast$1)	ÆP ;andºÿCLIMB_UP_TREE or "POdh ¬_ bMOVINGß&\_DOWNa ! c ¨—»Ÿ`
+Ùs¢
+÷äf Y	(÷Š›,?¦9€ f¬+±hasSpaceFor» ±C’-9{b>= 160rs7< 1~á /¸ª e9´< 0.9063078¬Ú	
+}
+w Iß#!,   ¹B.OFFú` % ¬B>andJ_ '¨cåÔ( ´ ¢˜¾ cSTOMPE 2] 
+™
+m ŠS== 10yV ` è3&ifºÍx)€Ï&40ô?	if
+° 
+!SL¬i	4UJ
+í ' ;h_QAbove`Ö œ E- m:àÚô RelativePolar(-6¼230)‘
+ßôh tí ú²Û%/§*OWHOA+'ñ;°1ON_¢ Ü ük
+. è/SLlÉ ³"E÷$>=ºÆ	j	 	9ï	 œ 	 8ABO¿q
+Û ÔAubCommon» iExits( %  Û Òa #/EE…ĞLT	sBSLOW´¢³
+¬
+Ø ODOWNï7 CÑ@éÕ	ú .—Èè/ 13 ?FASF3X?UH2u2Îƒ öLÏ 	Ó	2#•õ­%\¡ < Y µ QHangM–Åä‰Ğ yOnext9
+[ 1max_$ˆÑdBETTERĞ¯š (1‘2.0) or 4ò	5c+= 1.0!K& >k ?T= /if’ ? À turnRangÄøxÙT DdYawi	¡P
+Ü ÷Yaw) -- 0x0 is turnúÆ"s,a 	 ¡backwards
+Ç
+ó $< `ò -- Don't modifyš's speeddâturn radius if! 4 isÇi œQÙFlip controls©Ç* 3 soG ástill moves to°  4	2YawşIi! 7U¦ +¡lseif dYawÖ'{	 -- Onlyõ {AaroudD“	-- ReducÕ$'s‘ÈC"byò´¶urn amount, w{rve off >Éqrd from7 
+S angløÈ
+„ .% ÑQ*= ((cÄdYaw) + 1.0)"-- 1.0fM
+ ¸ï sIncreasÔ )$if÷ !VeG·!¨@Ã ÑMag is higher<è"µ*= (2.0 - (;
+Ó 2) /T
+:maxó†, 1e-3))Ó ôfront, 2.0f backó
+	^~ç„)!, 7–?¨Å  1.Y,õ?Wh,ç) <çUcurrYj $ª 
+-º ‚ $, h¹¢ 0"RSlideQ	à î
+	j"	ˆ*
+
+§RØU ¶VelX, 0.0,  À/vCeil)
+	 vSSetX( ,üX=%FCeilû&* ˆ  09 p?etZM ZM 
+Zš YM ?Y)
+O;qHanging5¨œ >ê„<.&
+ Z lİ› ¨StationaryŸ s
+?%(0FÛõ .Magnitude > 0.è–Î„wallDispz‚íkæe% =F d 	 &Y( ,HVÒ)I#L˜¦ ja®~ÈZs¸£
+Ì
+”ğTò-- immediately goL»hf4 ifs  ­óick is pointed far enough iN rany dir°½,©tçæ¢at least a“ßE	)M Ÿ”Mag > 16.M±
+ÿ %> OÏ$ VPÔ Á	Á 1let
+!f 0Bö oressed³ 
+¡Bí²v7•  b&º™ ÓG7 4<and5J?= 3 ~ ñ e7¨A>),qÜ zÛ  Ca < "GR|rä8Ãif m:GetCeilW~]FfHANGAB e  
+Å ±óó7"HA–HBCEILûS ˜EÅ*˜¹²	Ù
+  Sæ gáŠ4Óˆ !.v 8[
+8 ¶
+Ø ³æs  JµÃËìGArg)DâèÓ
+[ İdÿô if bit32.btest(ñeArg, 1@9Š¡+é$V2 URIGHTiq ¾1É5ÉÿÍß
+–DetermineDğøDfrom• velocityI!ø
+eO
+			7	
+Wq1MOV^‚WIRE_NETú6 or¿'%  ALEFTÚb
+Ì*B	ÍÎY ª 3	Î)< I o
+ò6$12ã Ã 
+09
+ » 0Ú
+% 	•_MOVEMENTâ›‹4> 6˜ ?Òù<xor/"
+	[
+æò"Ç h [®  	R3~ q;_
+§8 ê Ò › ‰Iª
+¾ º
+¦W) == /
+{E
+=!OL2û?POL+i  K
+/or¹M	š%Ô%<Objgf¶ ä  7%'
+›  9
+çq  Y ¡,	%:¡  	 i®€#**'ï ÙY¶–
+% $*<	*e - 0.4ØÄ  êş–%| 5¤^a
+@5ƒTRANSITI²Dı$á 7ââ ß ³Ú/-=˜ 4* 2µ  - >¼,	 = ¸»9B ! ,p)€ /b 1
+
+	=¬ 'OoF æ ;= 0 -Ö	ª1X *Ö 8
+í,
+hr,/Œ(
+ = É&^ ]µ
+
+	h·
+9ñcamera = workspace.CurrentC ( Blook# =5 •.CFrame.L -   áp-F H.Z,  Xf qx/if6< 8D¤ÚúÅ Ä_Pos +pA/ 8.aä n5= 0:-6fac e‰'- ‰!.Y#Ò¶
+A èCface[4400B×ı†Asp24r$r/ 4.0 *ÛİW'=
+ : 1_UPR:, sp24)ya¸\
+AGRABX ›# s
+68!mN
+K µ 1HORD È	
+od
+
+¹X6…! 63	:5
+ÉJ» ‹! e * 8 /+~‘- J >™ûiË±¶KAPART	; B2)
+	 b QÂ	^
+²«	CøY
+/÷w ˜Z)Ä×O 	 ¼ Ä	X
+ÑbRETURNQN~>ƒ  »0,!…  ‘¢ò-- OH NO!!! ITS ] ñ_mario_anim_y_transl#Ú ¿¬è
+× “ u´?> ;
+
+Ö
+X ;
+* Pº
+)p
+Œ_t2»H(á_@y ­?ƒœ  ÿ¡ ×.Parent.Game.0 )C !„?  uButtons  Õ&°/"  C 	&Ø' 	 * ó
+layers = game:GetService(" 3")
+, ZModelz  $ k]v Œ09Eye" 
+F  $ Û
+G   &öEfEnums. I >CF   =
+Œ ‹ 
+AÆdchar =Db.Local6ß.Character or! 
+ßAdded:Wait()
+F3¢eA¬Ì§1mode	Achar“¡ForChild("Œ  4")
+ƒb!ÃÏ*‚ _blink} dBlink"=ì dF¶DeathHandle<ö,ò,$!!To) MWarp‡7Y=â„a
+ f)
+	
+
+	'ñ!.eyes.TextureID = "rbxassetid://71294315979170"
+ß q.Disabl8+Ytrue
+!Z³aæ0	Ç j$rstuckIn$0
+!un, F,1, t
+©2	 3€@G,‚ nVIzO
+“"’#1
+¬ A>= 5Û"ƒ <É 6 - ¹!% =% Ì  V1 X
+!˜
+3\-‚  R
+„AndSpawnŸs÷-
+“ùE+Ÿ + =Ñ |
+APlayY p 
+"UNj 
+
+"l  
+z 30
+€ İ. 
+ ` l
+C4 T:ò[[
+ * cutscenePutCapOn: Put­ ó's cap on.
+ * Clears "cap in hand" flag, set eon hea ò plays sound
+ * W"­ŸãUNKNOWN43E.
+]]x Á
+— ó!ŸWqRemove(y— a.CAP_I$Uİx
+% ci	Á(VÑ¡ )63ß_take_cap_off8
+8
+Q8D8	¯TakeCapOff: :  _g$:D:ÇİşgeneralStarDances¥isInWater:íÖªdialogIDVià	!A	"T>R	-- d‹ñ BackgroundSound§5y	-- ...ªilE== 4–"K
+¶NO
+­ T== 80$Şš( "Dand(/ Ÿ"E> 0)0 O	-- i5STAŸ 	*5 âenableTimeStopó ±	-- createD|ó BoxWithResponse%  †.…f !ifµ•) Ò= 1 --[[and ga Z J ~=  Ìè]]
+	thenL $ 2h âf †l®&õ	û 
+4 Œ²getStarCollœ*¹ 2(m)r+ ¹}’-- look uØ$ f Y‡1REA˜óAUTOMATIC_DIALOG,7 !ID ,	MŒ}a.WATERÃ3 orğŒ5·+
+¾alaunchQaUntilLJÚ û 	*
+	¤I û4Vel* )î?	Ş-. ) <®IaAE® ±airStepLandS
+
+>ëc0) == ö
+–.LANDED
+	ÕR: h$R Ï
+æ	t 3¡ save menu3 <lerëh¡
+…SaveMenuJ)Z†÷but we don't have anyT L-1dle• 
+è Öø K A
+-- õo state¤B¤e%ASTAN&_DEATHÜÕIN_POISON_GASMJ. ¶SUFFOCATION^
+	S	JDìeC¹	
+!
+x,Æ	 <I ò _FALL_OVER, 80) @$6== Í{µn
+
+İrÆìp
+~+v?ACK†‰ Y%+C1î( Oğ‘A, 54ı$40ã &oSTOMAC‹ ]“ cŸQUICKSAND¸¾ Õ Â	S $5IN_e )Î)Çe!60 
+a " 1çf
+} ³õ
+if m.QuicksandDepth >= 10Ÿ ×ß“Š-		s A+= 5cK  Q
+ 
+ x	
+ 2n Ú‹6.1Ste&
+ à (½"s.J0wÜÿ6.
+’ELECTROCU^±> t C+@
+ /43Æ 	"Ä k‹ oNG, 86Â - ŸÊ?oorÉ©³
+Ism64Ö%OSM64ä ÏPULLING_DOORUAsm64±
+òttribute("Interpo&"",}R)
+	--} Schr:MäRgame.®»T
+    ; 6doo< Fchr.".c™&BDoor]±r ÑfaceAngle1 = Ÿ a`â.PreparePseudon»÷ ({RbxPart = door.pull}¿ M 2M  6tp_P 'R(l 1
+)2Yaw
+Ë--m.Position
+V¹ !  Á Canim}A3lerç 
+ibdoor")ÔIòirstChildWhichIsA("ô›or", true] apushdo(Âsm64.Shared.5 Kionsm Bpullq %aanim =@¬ U:LoadG Œl ‚)
+	--ani©(¹7 as.PULLÓq_WALK_IX¢ÁI	 ì
+
+{7Å2Å Æ2Éu—	Np
+T¼ÂOPUSHøm
+õc/shõ;P õN(sh,uõ€%õW/SHõ›
+Éõ<ì õ?SIG9L¿ "¦[³signvalue:mû Echr. ² c ÷c O ?tp}
+¡FIRST_PERS1w headboneÿdr.Neck˜ ¶,´wait(0.5)
+	e  /3 = )/ônew(-1.071,0,0) * º1s(0K-üF…rad(-23)Î(j åss 5#0)›~end)
+--Drcustom_^	1
+$--1p1CJ+ã5VT P	 ÆS"~=n
+B
+
+--û'Å/--E §•= 7ZLLOW_83--	Î 
+/	S
+
+)1!--,( Rand ( e.Focus³3 -  â	)cE<"--±è C:Has ¶ : 	~AAdd(ˆ6 æ u	end
+-- H(æ>	E B) oróæ/--ì	¡!--m 1
+--	—F	  A*#
+ _‘3
+--Çñ its uspposed TO BE IN STATONARY
+-- LOL
+-- thi¼KòA somereason has a id of numebrs idk hwo to fix
+-- can you elaborate more info onÈK$d? Slike  šñ: 67113979 IDK
+-- ohh, i think ib ÿfix there real id
+ - Ÿh_amagej©O SQUISHEDJqsquishAN­¡ÕspaceUnderCeiË" =Hmax(±¶SJ ÌJµW I<ñAsurf^i ó underSteepSurf Vò -- seems to be r–õible for settingÊ>"?
+;
+ …¤³	Ó * >va2	m.Æ óŠ7ˆïôö)H³
+> OxFF
+x S= 10.V‡3ñ becomes a pancakeÕzZ¤, =Ä /Ä äaGfxScaE5	MÊNì, " Ù t¥ >"8Has#oŠ?HcInvincG ÍŸ{$¢: 3 units; rff: 4.5 µ 	”ı61 	ZÂand 12 or 18F ºL‰ATTACKED·Î!
+.G	#)já1.8, 0.05, 1.8è2. ‘# 12^Ñù   
+~
+„X >= 3…;
+<  Ö\ 2 : ¤A#èR  '>=1ÃQ	-- 1 ´ of health
+H h < 0x0°"2 OP3¡ñ-- woosh, he's gone! r ¡DISAPPEARE!ç"I Äÿ
+wb-- un-óµ 4
+µ!30 ç íx Æ³steep floor~ı" ~ë> q.Normal8e40.5ˆTQAtan2mR6 ,Z,H ]X)
+		:BtrueÔ–¦³eep ceiling  HCeilŸ c-0.5 < ¥ ‡#Ÿ  /    
+Œ 
+½ r úNAnew(rUSins(• r) * 10.¬  ?Cos   !)
+û Check il rre's no¼1 10Ùfs awayíTs>qÅj"
+F ==  S.LEFTA*â¶	-- instant…enõ BIDLEH Ç
+"faš†%)!ed ñ	ñ than 10 secondsèUBkill *úO3ArgH‘vArg > 3ì4-- 'ı—¶	Š" 0¸&ø  
+íæ 9
+D 3$(
+ s.A_POSE9	"HOØ"ğ?œ
+\ƒ h3 se?òShakeFromHit(SHAKE) )û+& !ED³»èëÿ	d 
+[+ã G –
++u‚Š
+ÂS^­%1“ 
+­%9	½ 	R <ArgP ª
+Ú F>= 6T 
+œğ Ï<è=Ó
+/_'ApÈ{#È
+:
+Ÿ 4ÁSpawning/Exi
+x%©„Ã
+-- GROUP: s Àr2PAWô€_AIRBORN¢G	¥L!m.O-\[pJ dŒ$ bPlungeË(Ç   ¬&m.
+ Y
+d)¶µ á~/Ó_o	 ü_ £4
+ÊU fBŠ
+Ë.
+Y~î 7R¶RACTIOÁ8
+ß
+Qq« % 1ğ Ÿ©qGENERALú&¢É-
+1À8 ™ L‚1…r-D )©Î /NO·,", x\K M,•Nu¾
+á (j3ú  q eh¿& exit landæ*ì2òact_exit_airborne: Jump out of a level afteör!ecßóa Power Star (no
+ ** sparkles)
+ *Ë¡always facĞN sentranc7`2he ¼$esw ñ
+it, whether he
+ * died or he|sò"ected a star/key. Because of that, we need him toÌ`vaway
+ *Ú
+ApainĞ %byJ$hifb‘to -32.0fı -1himÍ "1
+ *JK baddingYCò0 (180 deg) to his graphics=añ. We also set
+ *# óheal counter to 31 to restore 7.7#„0 1th,© Qenabl 7Á
+ * particleÌ5 35tes²k4ƒactExitA2(m:Ô?, vÓ/	p	J
+"1Z‰	3andõ' h0±åEXIT_LAND_SAVE
+1—±5velÓ,"--A] ~SHealCO5= 3ø(‚-- rotatÚ+toİÚ¯
+ñ½Lc/
+ŸSPARKLES) Ş
+^
+½,Ë±5ï"FAw%d *` X Ğ]
+)Ú9)C0`t(I
+*KOnce 
+y0U1typFAexit¿º»  äÁ ) ‘° xLAND or|•FROM_SINGODÈb 
+ó1	qògLastCompletedCourseNum ~= 
+ a.BITDW, $FS=
+	46)# Ô setMenuMode(	 ñ.RENDER_COURSE_COMPLETE_SCREENÂ
+ñ-- gSaveOptSelectIndex = MenuOpt6d [„! 32tarş„with capTB	if &+'
+¾c 2M 
+í g=g/orf	+ f---~ 1 -- keyà ƒ O
+ú
+1²
+7 D/ =ê
+áTHROW_CATCH_KE=d*5éô-b S‚pawn key Ó! fallthrough8^
+ € D= 67¥ =
+¯KEY_SWISH)[ /83[ 1PAT±1Z &11ù ÕÈ
+U7345C] “ no break<
+		6)Ì8	–!--ƒ withoutä VÖÂMISSING_CAP)Ñ½(ÒQ>= 18M A< 554
+( 1[9) 8134:	æAHandBB:Set‚Hands.OPõş
+¡ j m< 109)“ 4154
+	i 2Bÿ HALF_CLOSED
+			|"J|yôTAKE_CAP_OFF_THEN_ONÌEE== 1è	§?Ø=DÂ	7 Z37 or5¶ [¯BRUSH_HAIRZ 8‘ ƒPutCapOn ¼
+Ë !	¬Ò- ŸÒ
+-- Stuck in P>şªUNHEAD…Cº	jE,ëM Å96, 105, 135”#'¤ ^µ¤ 4®
+ó Å127, 136, -2¦ "GR  ³ ?FEE³ 7NLEGSM ‰116, 129± W }Ÿ}Qtar dRy©÷W:@Aó}³#±'	P3
+ı'×³Pretty sureã'“Yaw isn'tu¢d rapidly
+èê	§A~= 0n 	ûÀ˜Ñ¾ OY# =r u*%.L°Y- V ;Yawö-F •Y 
++ñ'X’
+]!acÏAZDance]u)n
+‰=ı® æ
+USˆCADANCw‚ %  B)
+
+	0E È4
+ô
+~{ ’ YE>= 4¤0	™	²PEACE_SIGN)Ë¹
+õò*?endŒŞ i_EXIT,n . 1 /NO4 Ón]__WATE,6Ñ;i _¯ 
+Ç Zq>*}3)6î	)#
+¨uFALL_AF9ƒ ¼  ¼×3ÜÑ%Œ
+÷ü…µ2PLAuâİ	Áør}3Arg>Æ áV¶
+Ñ 
+²z Ôj4HQ
+ÔÀ gÀG  µÜ ò Ò>	- Ÿ
+-- any
+º Ÿ
+, K#¿
+RModelË"V.INVISIBö* m#k	.. j$â  -2#--Ùôe0xFFFF›1--	
+D´> ershiftòhKc6));
+	W´Õ§ïPUTTING_ON_CAP_#	 Ì ? 2PUTD;OQ%>-- ŸŒ4 $28I}O
+½v:« ,ú,SMYL† SA W¡DEBUG_FREEÈjX		_<şZ
+z4pos
+ Tspeed
+ aÖ ¬ |Inertiaow!
+	1 ' =f .¯Y’Down:Has( ±s.B_BUTTON){4…,; eL_TRIG¿t 50.0±‡‚qpø¾!~ eU_JPAD~ Vpos +B.øş(16.0 *  8` D` -` ?á|)Ma)
+© fnew(32¤ # *$Fins(E AYaw)Ş6, A*
+, ë W
+¯K“solve wal(’Bsionª3anoclip+ ô?posŒz;pos “2-- Ê= Çh,Y1s,1â ²‘2pos¨7 ‡,Gaif posÌ  J 	t P BSetY™  ) <"nd[	ƒ$¥ ó	Çe‚0
+€ıËY@:Ğz tM o o.Y, 0)ğyPressed¬A¬× _.Y <=[%	9$ =D	K
+CIDLE.%  ¥	õ$O i! ‰¡(Ï¼å_
+õClientCore = scrip:_A_( FÁ m_9 . )Ü9`ƒÈ âƒ = EnumsÚº § ;_
+èC  c L9$  $ j S‹  $ ¶SurfaceClas‹` ( PY"
+O 	 á  8aVStatuX   . 
+}_‰
+¢3-- İ
+'sÇ ¢—Ê ÏR{
+	Nu&3s: 	_a
+	Jump‘ R
+	End8  	'¥ A?,
+	„
++ S?,
+	AÂ
+ º,
+	OffFloor İ?,
+	VerySteep }œAsJumHT# ã 	H = 4ß I = 5Û QJUMP_Ø!MSTOP¿ )  ¤ª— OHold› D-È  . ¯¿  ŠFREEFALL½
+% ŞBEGIN_SLIDING
+.  S 
+à( ÓqFreefal»V×<— Û-£ H	’¨ 2 iÂ
+3n
+v( –SideFlimASIDE_FLIr*OLongr6
+ALONGÔ%. >oDouble  ­ „¢ ,ÛOTrip .0J ˜³ ØUNINITIALIZED¦ _Backf+¤ OBACK€- œ Ó
+¡]©³Å3: (»! (
+E) ->š`ƒ -> () =bƒ.RegisteoH¸õ tiltBodyRunning8-»¦æ%m:±¤Slope(0)
+	  (* ˆ3V / 40+,-$ 
+hV
+„ ‚playStep¬&‚ h1l	 2 )h sŸaframe1	
+ 2AiN =85CAP, Åf
+> ASTEPã_?é D 
+t4F U)/ndF‘alignWith^
+É $osº+:¨=§µÙ-}Aradi
+$40 ƒminY = - 4* 3 y, a%.YBp0_x\ U.X + = Ëöins(yaw + 0x2AAA30_z7 Z7 <Cos7 ‹ /p1o F8000o 1o 7 o 2o FD555o 2o 7 o Wtest0“new(p0_x,<a+ 150,=l \test14 14 14 24 24 62_z Dp0_yyC(³  /p1$ 1$ 2$ S2)
+
+	g   -ø <3and “or p0_y
+	q   . 
+1. { /p2. 
+52_yâavgY = (’ +J ! +# 6) /%{forwardV	 ú ã)8e >ÑAêEavgY­9 3;0_y,b (1) !c) 2) 	ñ
+yColumn = (b - a):Cross(c
+ T.Unit§ x+ 5 + :- Öm.ThrowMatrix5NBfrom N ,M )MÂbeginWalking”
+Q,d5"  4Arg¯2?)
+?Fñ4VelÂ Gd(/®‘2
+Œºø#ƒ ˜ ‚ â ùcheckLedgeClimbDowZ÷*ifÍ l£Q-- No>©ó best fix possibúcs	-- But¶B  Qfixes¡4ñ fix-required tr),4 Athen$ ãday's fixed.
+	¯c¨ š­
+jC H,.Y;
+ è,] 4det	& ı;+ (v 1* 1œ^6 ZDwall²:¬ Z a, -10,? S.8 Êã  ºÇY  .!
+	0 º%-DÈ e > 160+c Bwall6=j½E™ë @ ¦K 
+3	Ã£š”bYaw) <ì~ ˜ Å \˜new(20 * “ Xş
+ ZÂ0Ş  <% *1	ŞE1, 1E . ‚õ +39	Ş-  	ˆ¢2DOWI4* Bnimar<
+ xBDOWNš M3  
+ 
+˜slideBonk¯#asŒb, slow¤  O
+.Ÿ( >©ëƒ:BonkRefQj(ÖZ^Û9BR (q !)
+0' 
+ûE 5 ’ ¦*6set½9 0Á Ï
+~Î
+¯‚ P ‡.FLYING_ÈÆ 5> 2ÆO  H / 
+p àÑupdateSlidingÇ é6accì:Ç, lossFactorä¸ÔnewFacingDYaw f  l¥\ÈI¬3not ½ı •¡šVfloor
+Qslope± Òx( ÄIZö Xş	J1nes- dath.sqe - b ^ 2 +œ  AZ ^  
+!m.©rVelX +=,' *X *VSins(® ): Z: 
+œ	: ; GX *=’ Z  l,Å 6Z, 
+ VX)
+
+	¿b
+àŸÜD.Y -= F	6 = K ò/A > 0s
+6 +<=Ù
+ "-=ü
+ &< §
+ ˆIó=lse: 3> -OÔñ	¨  V 
+U +Œ 	 «!
+7 Œ ‹ 	'x8õ
+Y  
+	; •  &€ &BÎ
+œ ¸¶ª¾   G  Œ«ê
+ °Y	” “VBS
+q6 2Vel1 Z!:UA_¥"SaI RWindyª(j="! >¥²is capped a–² late (buttt A HSG™  @ ª‰ § ¤b1\0 4X =ÀÏØ») /½ ò"BIVelZ1 Z‚N1 q 	¶	
+wá*	í R*= -1E I iä	¹ ´Astopd
+¤n°ï Ò~ Ìe¡W ^3ide†g
+* ñ
+	--! 10k glitch®Á
+# <	 J( *= 0.5 + 
+/2100AÀ DloorÛ Qm:Get (½ è 8 İÌ_ 1 + =œÁVERY_SLIPPER, ZHARD_1 l Q = 10©
+sr8%¥Mag / 32 *“a* 0.02
+"98&
+® 
+© , 
+¤ 8£ &6£ DEFAULTK0=7™ &2™ ?NOTé	0 
+D5« * 1oldù'ò--! This is attempting to use trig derivati©6EI|*.µ(ó It is slightly off/asymmetric since it us¿Rnew XP*Q, but°"ol½T" Z .Ÿ+¢+±GZ * Û)6) *ˆ5
+
+Ä-E XE q?newq$&if® ş	N  çó &*=4 /| 
+—% BqQstopp'Ô.	KS#(mıõ¹ anot m:8‘IsSlope()¿
+	¬V^ 2 <£ ù#Ö ø	• Dtrue± areturnG /pe Qapply‡ XAccel¾3flo>´ 	 tNormal:ùá 1 ­ 
+ ' " =@
+
+(
+# K 1-È  Š ë n> N0 K
+Ò ’ .û ¡
+.if¨Ö  [
+Ë  M\
+4E() ~í*—ƒACKWARD_=$KB‰÷.8 ?FOR7 	• £  —
+úĞ] Ç ’ 
+^ 
+, ’  ” c = 5.3€| 
+4 w ,  
+r ?2.7r  / è ¦( Ú 1h r^aõ 0roÉ
+/ <¼	"+=9y  4ç Y#/ -1 	$ndg/ç
+S > Ë
+Vµ¤
+	6 )7 ô
+ • 7 
+7 P
+OÔ³1fun¬1LanÎ	Q, fri% Ã‚L Z) ¹
+!=t P F)fG 
+ö%âAhelld &AmaxTè‡  ,à…
+ ¢ = 64, nil »
+¦: vT
+F0³ ŒÔ
+SWaterv-r ÔÃ1loo?2nill ¼!Ty ŒDSLOWæ
+Ü u = 48.0¿
+ !64 Z
+
+ «math.clampo	Ú* 2.0, 24.0, Q 5	ôe<= 0.0Ÿ Œµ1 û ¨)<=—k# ? Q  5/ 5ò U Pµ Ô ¯.Y >= 0.95 F-= 1e--! Noˆ²©
+ñ cap (shell hyper
+)È” O> 64
+ƒ [xEGgt,  RYaw -
+ ™éDgnedG²
+4  n íêO)
+	)_A”	*De„decelCoef ú1opp«Tfalse ¿e$ 
+â 
+oU © 1 =  ŸCoef * 0.7ç | , ço 
+w 7*ø  & m â 	éæ 	0 ê 3	H]
+ã" äÍ  	J;r€  İG1 í oüqeratingIvE è
+  Â" ß 1Û #h X  ÃÙ¨
+"
+:Y = 32û0   
+¡İÑ[Mag <× õ!‹Mag else' Kö~ ´!y *= 6.25 /3 ·™  ö K	 ÀÕ	 ÿ(%43S D
+ ÍùË A> 48W‚ ä D= 485 §
+TcurrY×†? QfaceYãè AInt(h ¼Y+  
+#a )÷ç³shouldBeginAâóƒ7Q:Has(
+ 
++QABOVE
+3E9
+.  =£< -1 or m:X…ownhill(2 ‰°°	 ; ¹ øanalogStickHeldBacß UradiuÏ5?
+ R = to7-( ",d0x471C²òw ¢Ê
+~Ê x
++abB# >æ*„%|aDiveOr†î¡†B_PRESSE?ºñ	kick (shoutouts to SimplÜ2skS	ËQ>= 29r—@.Ì>A
+9®	§ 1, 2ë!ÿÈAÙ
+(  Q.DIVE	,  ­ƒPUNCHING)"xB beginBraÏ' #)
+Ã"CHeldá~£¢ Ss[¸V ù(ø “FÕ (‰ÅAGAINST_WALLİ k–# h
+im	LÈ:u1736481
+Ÿ BBRAKn  tĞECELERAT5 ÑöimAndAudioForWalÑ)5basĞF…	´9(
+" '  ¤% V  Ëä := 4Utargeêïõ.4accR D E > 5-( F = (c S/ 4 *ê©C&BWith
+ s÷6‡ğK)
+		>1‘, 19, 93)àÁ1TimFÓwhile true doM(
+.  n
+ğÂ &> 7úFe 2{'e
+&		@ 	
+& #if“#ÂhBC 51 X @¹¢gTIPTOE;	> A7, 21$÷ a2&23Õ
+e &D				ZY´ Ò	9  _0p-n1lKfU14, 7g"•Å "%< ’ 1ˆ‘y5 7> 2P 
+È36 	 ËA 
+È{ ‰-¹ÌWALKING‡r10, 49){  YY	ë '< ê³/ë HRUNNë Î 
+±S9, 45ë 
+p
+6D åE)&
+ wÁ
+À¢€cInt(m.ã
+" H
+ 
+	E   )úU ˜Ád 
+$F’ 
+çï
+R ëĞ :
+C OHoldG eE· 
+jùí	¶6> 6s¶×h2LOWÑ†öWITH_LIGHT_OBJ, º ,
+¬b12, 62 …w¡(×	Ş ?< 3Ş 	f´ /116 	}à‡Z/£8Ù 	íÙ "/ uKSˆ	îÈçLeavyŸ±Ä RHEAVY¬
+ç
+Â 
+­o26, 79Aõ pushOrSidleWallù;¥, startPosh “
+<2¤!-dW  xšP:E.X -b %.X& z& Z& Z"™movedDist5$!dx°!…+ dz ^ 2¯ ² 6 6* 2|
+	H4> 6×Ÿ>%(6‘
+ì¾3*"llK  ? + ï.g3
+J9 BasseqÄ3);+%.Y¥  a== nil›†ath.abs(c )?Ex71CÑ
+÷ z›23PUSusS6, 18'1~e = 	çSIDESTEP_RIGHT'	×
+£ 0
+D 9LEFC í!§nimFrame <É1¢=(¨=~
+6ING‘=ALIDE)m.WJY:Add( 2.DUJö%ÃR' 1¥
+?ArgóI	p4‚N#E&Y( 
+€ g 
+(ø
+ä?cx4000)VÅ şˆ¢	òG4Yaw,—Snim =‚C”Vbœe! B `9 %= ŸM
+ êi´h  €
+Ó» dp! nò0Õ‘tiltZ = -ĞH= ¹+Â2, -0x1555,  )G Ä!Y– * 170, 0: ; Dorsoå%.T 4
+		¦ I
+Û
+t& A.Z, ' ,ç")7 X	7 X7 X7 ?
+		† „/8Q9  … YN Z'L §7 0‡B>SheÒ‹‚ 
+oî[‡ ç	<)©oA = -—< T B %.0!<œ< 8U.0)
+
+ © –"80\8ú] 
+, X‚
+	¿i ­ I€2† 6 6 
+~2
+
+
+ m3.Z)< jºV2<<) * 45.0İ%AButt,'ô
+{?V4	r¥ 
+¾  ë»5461.3335 *L•/†&‡ œ ã/-(J ÉôR×  |c«acommon€y†6, e{M%<, aíO;¤:)B.VtAè
+àqCIm:Adjust, 2Foro4sJSÌ " Ö
+|Ş Ö«=e!
+Î	´ARIO_HOOHOOÃ
+—  DNONE  -œ(anim)
+		ÉF¢ k	3{  "HIZ ¹¾?´l
+3(gipperyËÄ Ã “« ÑVERTICAL_STARJ
+°I+À=³iGBONK©l9Ã x¹6
+d? ‡ ‡	i
+!m.>•*l; È-]$9Ë o,G  n'		 q ”  §	›
+ „ ç E  9  , & -a T
+[ ß =$ "Ø%  t ¡14 V
+4 ×D.new( ¾8& 1Ùœ ZúÉ+ NK©
+
+ş‡WithJump;sto|T U =’ P 
+Z 
+¹	‡FJump€E_ !?è  C
+| +.3	if:jò &, 
+rü E-
+	3((m$ )Š T ó,¥Cancels(
+	~4
+	l-Ttion:W b,
+	set[V :N,¸any) ->
+dÃ '#"	´< 0.2923717-3%ám:PushOffSteepL (± .ÅV q„wU`&m.'R»*= M  ËÂ"Œ¢ a 
+M A6 – 	èU› ´ 	—
+| E`b 
+0´w £ >ÀX{ (İ  ‘V
+v;(m,ª”ïX­
+n 	Ã–Ä
+]W]¹ Š wstomach
+Q[h%í-( ¥!,   ¦%$L
+¢EÁ„õ[.ò4rROLLOUTu(™.F5 5²E•Z<’Knockbackî 
+œ
+µ,
+	minFrame8
+SHeavyæ:œS–,
+	attackî>¢igëE ïŸ_ 6;~ƒBODY_HITõ64if  ÓCA
+a U |’-±R ROOOF,¯ÌÊ’Ñ 	·U¢, -32, 32)´£Âhr\& 5P
+ W-Í›#cm, 0.9Ê
+MM
+¶,$0.
+ºI - Û	/ifğ
+æ
+
+ Ü¯
+ áëuAIR_KB,×Æ#È 0 ¶'8 	Ç ¢U
+¢i§  ‚“ êB¦ $'ADEATún^½V{7GÓ 1IDLØ¾ ‡”? w'!un;
+
+Ô	&O4Y?p3Ï%
+åNONZERO_ANALOG+ •‡`ã ÍK< +7õ/1(m,6Ry a.new(1%Ã¡stepResultb¥
+( Å
+q«ï í † 	^ ÷[ o'âæ'C*
+u yZsÈLM³Ô
+ATypewDa7
+*! >ÿßöSHALLOW_QUICKSAND(*0 <0 gMOVING/ 
+s0Q+= (4•Æ
+Ô) * 3.5 - 0.5]Z·
+u- ŸÄ
+
+DEF_ACTION˜,%\
+ñ gG2artõ
+î¡, 
+”ó:Z-cÕi)ƒJumpFrom(Q )/Yh0TÉ]œ_MOVEMENTA Ú 
+–0)I
+6=zG)••TURNING_A¦	Ø8jc.FAST_$ d  ,eM0Ì 2-4. L	¥ W<= 12€#ò-- Slow down depending on face
+Œ¶ difference:dÂ·—ï~ k*Û	?min†í
+}…¦ Fast turn [3 
+GO.J	s)A Å3"EÔ œ!… GetY(n Ç3+ ¾²Zş
+äT eCROUCH± 
+µ !
+	ü-¬• 0àD$3¼#3
+
+	}Eî(µp´
+z ¦ 
+  š   =
+Â 
+Øw ‡0U>(1MagÙ ¦	øãß8±
+
+ª%£%å/¿âY)²	³!P FYaw)™ 9'{„gåhU3 = (m ::.j3‹]mario% ¬I2Obj¿H 4and ó.Behavior == "bhv/DBox".	èAZY_BOX_BOUNCEc‘ … ‘£ractStatus¦
+ =uº­DROP_OBJECV N‰ à $å @= ƒ‹Ş3k)a  é 
+û 5	¸ à¬X  ¹ > Z 
+˜4º i
+PÈ p
+B*= 0.4
+H
+T NR
+!¯  Y /V J
+
+ Dˆ ‹wU_
+{Æ.)÷=0.4´ ¬ ™B&10u …`ãì+¤×
+´  \-–
+[ @[÷ /1
+øbÿ@ Š¦ÿ0ÿ'.K ˆ 8;—@
+“9B2
+$= R_DOWN)” åqEKICK
+i & 1ÃW =„Sequence#
+ˆñ 30.5À9
+		8 _+= 8
+ß	I„4
+ø l ,Î z
+ÖF
+ %
+ Ì
+_
+û
+/A
+É”-f¦¢ï¦qÀ¿z­ =O , ‰
+)‹f5, 8$dFINISH @c\†&€G.„¸7š ‹“8gWNÊWPART1-D1 
+$6 t/$+=·S%-˜+A80000s/ÄÄ f/		$-1 0‡DA e	5 k9 F	
+§¹uZ^
+_2û?
+	
+\ £ Ç‹
+ ğ¡m.AnimSkipïpf8í?-- ã“ +
+qBD!#"if`
+_	S!.	 y¹_1‹®ğ !m:Ç­C‚,õkExits(
+± 4X_STOPbö BF	d
+\ Í,ıÖ Ñ	íÍQ ß#U ú@*
+§+]Xsš ”7sSKID_ONs K.
+¥#8
+%‚Ë
+ Ï´‘		_ Z  T \L ] :  
+]“ y cì ZÅ  K 
+œ¼   ½…
+
+P´ º 	÷«[œ (=}è)ifË 
+
+¡S­*m _!@
+Ê	Q^ t"u  ğ“
+QIDLE_Æšõ÷x/
+	O:C$’=>
+GEò) 
+H =>IÆ¨ "<Ò P<
+/?tEzò¬
+E7ÿ ¿\. ³! 	5
+$ £ÿ‰ŸR“ 
+¥ˆ¾í_g 
+P ®
+Ê	$1ÿ#T 	û 4;õ&a U&1
+ • W¯
+	V ùÄ
+ÙE¸Š˜İ%
+ß@L
+ı.‹Á ÉD?A!ÃØØ
+è ä
+ÀG\+ä
+!RIÆÚSSHELLk
+
+æÉ% Ë ¸
+› 		 0"--Ü£StopRidingşRĞ!ª  ŸF< 24g
+Ä'24İ†
+…}
+µ?R"ø û(
+¶¹6andŠ;âO
+Å i]| _5s¯
+Õ	»w—‚2CAPÖ
+ å¶ BBONKï1
+ OBONKü
+Ş:Ë	Ã--?1
+£"
+=	QbB¼å8-- #Û ú	ŸFLAVAì8 
+2@ Ç >t_CRAWL†	S
+< QBEGIN&
+cQ_  TSTOP_¼ ’‘ Ò#
+;ñµ® ´r‘  ıï £Z] ]	 1C}’÷¦sp	 	o5> 1½
+m‚Ê.@ [#B=:q
+v	GL  «¦›
+~­M!á
+ç oj 	yRm.Burß/R += 2°# 	~€>  	
+<mX	 9= 8Î ¬¢\	 ã_
+ ±,	}f" x, 32, 4¿bĞ’
+
+L,ùf)2600£ †\v,G‰µ ?tD
+<
+ÃFÿ”e Å/dnV‰9 XŒiV
+¾3_FIRE)¥	’LAVA_BURNP Ê6T-= 10 Æ‹	 
+İ6• MB²ODEAD/!TT÷ ¥ÁŠ2canAoÓ6 =.BÖÅ®ALIDEv IAIR,¦
+Š.ä	 I ù† ô$%ˆ
+ø_"â 
+Ë‘ı6< 3Û	 Ô?¯
+.†-   		 	Y
+	»“ß#nd$
+ 	EŠ =” Ñ Ç%Œ 
+º %ò	_!, ôZ
+l>•  	¼Ú ‘î
+Ø€ =Åá
+#
+1UTART_- ÙJ	(v“æDstep¤ Z
+*@ç	(	Wl!
+ó"Ô" qqc^ 	• ! FO1)
+	YKA
+Î2’
+
+= 	
+>³x,  èb)> ÷T_
+STOMACH¸	ö³C@	G ı 	
+[‡ODIVEV G	Y X	•¹ÜN2ä
+ [2^OæDIVE_PICKING_ULQ&V HI;
+	¾ BX 	¹#ãM
+öß E$Ê	vÏ:}é=
+±Cq
+	--! IÒa dive €"ó ends on the same›„ñ
+that we pick up on object,±%Iâ will not be iC  Z DA for] qcall to? å_u_W a_grab,ÒsY dend upY qregular‘ 3ing^  ¢rather tha… $ #upÇÇ– 2 .µ
+Ë!8)} iBŞÒo «ˆ	çH%Â%#eGrab()ö	†:GrabUse?j	¼
+BGrabL9F0x01 ’
+4%(msš  ‰Ô-
+}
+^HARD_?
+C(«:Gmoón ¬S, 43, tru­Z g B= 43ãT
+(Dfò 	êES== 54X CPrevx ’.SPECIAL_N FEXITöY-ÁARIO_MAMA_MIEåt *69D  BW m€ß
+¿~Ş?;¤3ON_«O, 21Ú#23‚Úm ì‘ÚR oKB, 22ø ©› Q š 0š (ESOFT¹tI  W L 3100Dº
+>M ò )W ¨GƒC£ QFRONTM ¤ ,— ÌU™ c)	] 3‰/32 (¬"	‹"Ş5OLANDù 2if •C‹Ls(m,õ¨s, m.Setï=© Dtrue}		W / ] œ¾ÑÊw
+İ Ö;	é>  g¾ 
+÷	<“ñ©—?— à!Æ{{$ /	ˆ$ª©õ ?ÃBœÃÜ ‡Œ	Â ‹šQÂ
+Å ?g8”$1SidÌw$LacV”z]
+#´´ªZ‰	Æ'-- fú6Ò
+â0
+iRemoveùz`/K+OLong©+ı
+[ ˆ°S?UH2]S	î T
+		m,Æä !IsJHthenH ¨J ±J‚LONGJUMPQ$ * ESLOW* O
+	)
+ÍuDOUBLE_&XD} µrsetTrip )#	f_% ³  P¬æ Åb	äÀô K*yÂ%OHAHAÃ)
+‰Q‰EBACK†Á
+
+ù#³¸	(® ¶´áX
+ R
+ã	Ugation1 2gc å_úûá¶
+	ø4< 6/
+ Sz-= (7 -2 t) * 0.8e¶ 1Depë1y+rSŠ)jAJump»
+a:íïheô (By Ü F>= 1Nx]
+I v2g¼>³€ Š3
+l k"å
+m"NY!5)è=0ºg› ƒÃ /¶SUU
+h¨ / =h<  ùCSINGµ
+ Z
+; $ q.è
+=  r
+óŠç › C!ÔP  --!strict$°¹ = require(×¼")
+â ¹ # =3 >?s% i !   GEnum  „ pg¼QInput\!  ] Ë
+$  f ¶>ABSubt0WUEnumsxCion. b
+
+type\Ó V ?
+
+- Ÿş²üô --[[
+ * Used byÕ1PUN!Ã to determin%'s´œñvelocity during each
+ *ÑrC.
+]]¡s¦H6ing±LQocitiœ»a{ 0, 1 q2, 3, 5~€510 «¶Ê ğAedSti 
+MŞ
+l\!  ¦l Í¥`)Ÿ!K   Î*ÂŸŸD÷J¿?end;£ØY ) 
+’WSTOMP•>§7¯.SHOCKWAVE™R] 
+X
+	ôÊ#	 ™OFF_FLOOR 	^Î<¨ ÀB ß	/‡Ÿ
+/óL	{ 4¿ 
+Ô4= 7¯ y•(© [D C+ 1]J
+  nL
+ 3-= £½L 	ö	¦!2ä
+·:—âR mUf ÒA	ã^‘c
+<&ùR--! Wä†'he¡Ñis playing, iúŸ¹°í Rused Ú 4¢to unload.v Ñallows you toÕ û
+ up a vacant or newly loadK ó slot (cloning via faken !).@
+M ?"äOHRMM" *¢ ˜ Î =s'
+
+vW_: anyÏWG( 
+  o	n	ìb¡	q.GRABS_ fÓT!Ó2 -- GRAB_POSR2OBJ5 
+ÏÒ
+e - AECT)1 (I 	è±CHOLDG ‹!		ë	ş*»  1» “‚E ¥± C)vPICK_UP0 » (µ 6,, Afalse›*ô%¤qô--! Hands-free holding.coñ on a slope or being puöÁoff a ledge Ò„%"la_bfrom a›%¡grab sets 5#'sï$£ to a non-x  I 2ãSdroppîid, caus h¿ ƒ glitch.Å$
+WA
+ƒ	·	Ï|M W 1
+
+Y z8Ù
+
+	B$QSTOP_ˆø
+'ÏPLACING_DOWN7 Å
+‰+/	Ç'==c5
+‘m„ ªOPLAC¥k6d\œ	”{	8^àËÙ
+‡ÅHOLDABLE_NPCˆ¾ â S7 	 úf 
+F-tsm:Throwè_3ect‡2'ª/WA«		qACTION_<		 S÷âAPLAY¨ú»Ùb#` 2Öœ@ ¬
+Ã/`/¿	î. á(õOSTOP56
+Ÿ ];
+_ 
+V W]}˜­
+B•‰  „Idƒ FUtil¬SUtil
+€Ç A  2irS 5
+  JWate   " ÿ!`  $ 7
+
+¡ $ • 
+%   & r¦+Mp  ( 	‘‰) 	 ñ Ftatu/   èÓj  oMethod3  g  
+ß  ¶  6Eyeƒ  G ô IN_SWIM_STRENGTH = 160A  APEED 9 csWasAt+»¡Ğ ÷ sSwimStrength =G e  E 3ter­‰¥G‚s = { 28SIF8, 4·CsBob\
+ ¢ ÛsBobIncrement RHeigh 	´ 6 Å setSwimmingà és 7, p N a¢m.Position` í¨²Level - 130é4 n$m.x èŒv )9 +~=˜J İ
+}+‘UNKNOWN43¯À ";
+I =f 
+àè 63CNear,,Æ 2Has\~ Ë 
+
+ş7Ü
+(<180)ö a_< 400£ ¸getBuoyancy› É b CG¡ ° s[- 
+ = Õ.INVULNERABLEë
+	m -cõ.	 #18~ /ifbT  S B1.25‚‚!“ 
+ £MD $-2Ç
+` ZpA†ÍKFull??nexù‘Õadjusted, walÉ¦íÄ B LSc110)
+	 % =F PÂtıù¿°B£FindFloor(? 5VBceil3 , DCeil+ K % )³j ì 
+äStep.CANCELLEDS3if  F X à(if’ -0 4160( 	ü$ =& —\è ®³  i 	w 
+¬‡4¨.Ê HIT_WALL@´& ANONE" ñ§	Ñ ô <Ò qv  @T ?!a&Áing downwarpËFSetYÇ	ˆ 2160X7/ .¥  ²HIT_CEILING|ô >× 
+ RÒ 6Î·õt#©Ã X,jS:œb)
+ p®  r@ 3 ú¯C or „	4 šxO 	•
+zx°!FLd_WATERM
+1forÑ"toû„\ ÷.Instance:GetAttribute("Force")) or=¶cÒUAngle… q•¯êqlshift(q F, 8)İ‘@ 	 Ô '	[C rC a + 1]
+js(epºäInew(V *W«DSins ¯ o), 0, + ;Cos+ ´B)!	€¿øÌ &= ¦}×XSWIMMÙA ¯ ¨È † !+=Àh  D.Y >¯¼	$80<% í	r
+6 ¡·!}!Qr k )»I*•1f-/"17 V<ÊVector3.zeroäoResult
+F=°ïêgÁ/=åcj (.Xø—aL)60»3 ) Ö 50r.new(0,X ” U f˜ˆ 8x =  ´* 6 / 10
+		  $X( 5, xf
+b 
+ê 
+b o10 / 8b ğ Ï ® °s¯#vSlowDowd€² 
+	D
+/f 7VelÅY0MX¬$!
+•³" 7 : 2y†L(.Y w–. Œ”!20!i2ÖLÕ\faceZ— É¡n Z– ‡y   LvelY@ sMç5.Y,Kœ%1b1velÌ—%ævKfaceáA Z<A T "Y)³N NzöÄ| ,¡{Y  ±”¾4 S¡velX, velY ZE
+/'hè*ô, maybeDecelThresholdb‰­K– Õò²A r
+W 7 orBPEEDŠ\ •TATIONARY7
+	u-Çh	 ¡Z8¸¨V#28½ , >Ä ›
+	% -ıÅ
+
+˜v -
+æ
+g ?Y),F F+ FX) +í6 | 
+ OY)
+	K5Yaw¹(n«2Yaw}-–Q·}ó	10 * m.Controller.StickX•	@  °ú(.Y-uVƒ!40y}
+2 k'0x¬TO =º	ò}€“±!Å¡
+
+¡áA 3.Y,Yº)Q ûW + êX
+ ñ#Y)§
+ = O = Xî -_=AÌ>-?@2æW (?
+¿o U#x4×Şt 
+¶
+	-Ø¶S !.Y¾	5 œZ5p‹ o.Y * 8ÍB
+ ?252Ïîó-- stylua: ignore
+–Rpitch!›ù 1X <Ü
+˜8 _F2
+1 ¥ ·i ^‚ É
+Š >¤ş Y ƒXƒ ’ ¤
+½ d  # ”½ ½ (/ndÔ
+Œ8IIdlel,±)	Ã..4`"ac´T$ äQS¢NAheadñXãH &.X>P;») é  4	8)
+	ñ E ˆ
+Ì È
+g
+	² "  
+FInt( ×áÈq.X / 2,.Ò+I
+4 ~R ¹	˜
+$if‡0M©!
+6r6
+ Æ¥4aniÎÉˆ
+ê7, PãôjƒWATER_WAßO
+Ù
+èresetBobVariab2:)
+	Á 	¼3x80 w
+¯¯/ 256 + 20ùs@ÃxSwimBob	+if*~ê,	
+á5% İY²zÓ *+=c ! >ÄŸ’  *ëEins(I )wzo 8
+æ /= )"
+¯s½)÷wÁ¨¾"
+m I˜O2 dok ˆ	 Xğâ % 4= W© É¬Á×^M = -¤§cÕ†<Ì> …v „¾ YÀ 
+ Y€É3Şµ ±®q"10€
+	<¶àª£ FIWALL… 1Y©C2:	ì
+¤ ïº-
+ù P Ex3F0†Yq v
+6 Ö
+ü 	T.A ;— €
+˜ !7 
+™ nZ¿]÷B b ¡	ª ? ÷3Y 1l 	jA ]F›)½5_TRAIL;
+úaKXNoise õ bimFram|A Á
+  4= 0ûª/ D= 12ú q)
+L I" Y5Å { ) ãS”	& aFprobP4¨yè#.5õE.eE· #if\ ->=æ
+ ú".Xæ" ç9< -…ë	=
+AÎ	˜^	=G ´
+ÖŠ
+e	sğcñá  .£
+D Ù2  BHOLD
+¢>± E$ndŒ	? —!Ú•playMetalŞ…ingSoundŠ,Ü0’: boolean"1notíp! |+	c+Ó!#
+´	µMIST_CIRCLE÷	 À1,$
+	!¡O andÂj£I0/or" X8~A,
+		k%Ó 
+kÄ Î
+EWâ·
+E32;¢î!10† &49¬ó5
+¼ˆ#3STEÃ )µ	N$	 ‰°Š
+çĞ 	ğû!va'Ñ5T/ 1.5À=ğ®¸	Ö<d
+	 +ÑBå 	 U<= vaø 	 7 ŠE/ 43K • o.'ÕÚ!F0.95­ ~¾9Ö ù><Q 5= 3—#V
+w’am
+ ò2 üßèD‚  çYd–&
+	Y¦Ù	Æ/ ÇÆ8rì¦0³F_lideVŠ£2Jum:Şµ 
+d
+†éÈ'
+ÔO.Y >g
+	K A
+aQtrue
+y¿›o­
+K ıù ¬i+= 0.81a ):  u ·±o
+*20»	E ‚9	 / ÎV¡ èB0.25 èX1BG@ 
+ ±	4 +èuş  
+ ?%.Yov
+
+6 EˆX = velX Z Z=¼÷ L
+å¢‡!:  x@Bg, arg3sñ		i `B´
+Ö
+”Hm tAtEnd()Ó!if² åÅ /	¦	(t\>x|F and1° •Ra_DEATH’ R y[
+ J^€)£:Áeave hos havuÆ grabbable i¦6ñ
+ type but are not normally=4 s. Since§ ‰'Resn'tè
+ñ
+ the appropriate input flag,N ¨you can usI ?h· .MØ•$ À
+1 q.CollidP_Iğ BType“, ‘ionMethodÉ=B¹+pÅ?" =.t U ?ectG 
+@ 1U Cdx = ‘XyùX@š/dz/  Z/ Z/  "Toh`!Î¯bdz, dxZ-Øm™šmath.abs(W Ö±Y÷!'		ÊË`¹ Ó™@(		
+è`U
+ ¥- ŸĞ÷Ÿ2: („(,­“ûH 
+?IDL®m
+‡
+ÓÉ¼/M| `ÌrFALLING#Ê+êBÊ7N l ûSPUNCH(¿Z ÆFÑZ  ¶BREASTSTROKJb ù1‰L3L®2  ,íT"¤Nval)İ)Û Ã< ‡ X'= « ›ñ0’ ö 	™›ü˜  ›K'	Œ %_THROWZ M„MÌ~?OBJQ%~E__+0& ®˜])g
+N #>B¼ '
+~ -ÿê"m.; ãL>and,H
+QSTOP_,I2OBJ'ÕåÚ%Ñ® 
+î …
+'sSô±:» D 	§ F;ºE$14Ã
+W„ xFLUTTERñ!ú
+L ¤8K 
+á”” /< ¤…5ì‡7 6>= ÿj4Á8 
+Ø
+U 2< 6™À 
+M9á
+³ C== 9_  #M	vQnimTo‰(Ö'
+g ÕÍG H_= 1
+	Ù¡  X ±M 8(1=E-H>;and&NSWIM<5"FAÑÈ?# J	
+aîì!s.C O™y 
+Ü!), ± )/ ZÃÀ
+
+8HX
+ë
+•q	7q_HOLD_v>6
+¿
+Ğÿÿf±
+Ùo0x00A0Ö
+9÷
+  â§¿ P 	 E>= 1„:
+è
+v!nŸX“v
+£ ş
+À A== 7'	ÂF < 2}:	 S+= 10Ù v? (”
+Ú1ô 
+E¢ 
+l ú  ¥	
+C ü
+œ	º4/25Û 2Û AÛ ÿªê30t ‰ sÅ (Ú 6	êç¡7	¬ª ¬ê	Ò¬ªù&ø
+£oÙ=Â/
+‘2 / ¥$–!q12, 0.1 5A$	¿ ; 1
+¸Lh z <ô* "[T	³1p)_d ¸UÿemNBáè@²Éñ§¼˜í(67"ldB“Ü¡ W;Ï
+1A
+&	HQ= 240">2 <W
+Z7 = ¯"­RÉRIDING;E  îLÄbóstop_shell_music‘Yş]+	îP!30^ù¯.0, 1.0)
+
+ÿ€ (š?12C+_PUNCHº	àS
+	 èÔ@-Ìc6"0'[ 3Â2æ*Bê:\3ÃF3%“'… G3¿.»//(0BWIM,x(
+|/B.xB æè›ß¾
+®(İ¨')¾éòA0) +º1­.
+© 1,© 2© 7	"ğ  )Wª+Ò
+› N› 
+sPICK_UP“ 
+ ½e ‚_4	if
+
+Í½ñ KoopaShellUnder‡-"9  
+é
+X3ê 	7t
+<hŞ±:kX
+
+K š]Î)*,ÄOPEED9u ¼ í IÆ,ß(÷8¿ ,W<S.*  8)Äûbsµ`Ş4 N	SGò!8 _PLUNGö'
+Í›
+QstateEN = (‘! ~
+„¾; AendV¡@D = s”8X5 f8"-5Ñ	( ÍR 0‹h 5-5.b'š» ³(	ç ™QFbor( B, 4)r W Ó‰\  l r.DIVING†54É±e | 2·
+l5|"/Í) =W™/)rQ  Tc
+'6/ZŠ3eakk[-O@H1150gx6kT_HAHA\€2	{Ay6 ×QSPLAS·Ï
+Ì o!ifC?nResultÓ=âT9 or¸1F >= q ç{5> 2+_ ( EM 
+O Y
+F â F ^0
+K ’ K 
+¬€ ±y˜  G S"‰ (  \I  N r xC ‘
+<çù ß 	Ó‡ÒK 	º™ÛT  šñF ßF • çO  †µ– åG  BFALL ±nåB _BUBBLEáY_STAND÷|]+
+" ö^ î ú 
+x6µıa
+Y  Í ø==_  w8d MWALK¦Yƒ	æG|ˆG˜HEAD_LEFT› 
+L sÈ²îM lM eCENTERº é		„P
+,&¦
+4 	Ú â
+	m:StopAndSet— qToFloorúuÛb
+5öb 	™ ó Œ I… Ö
+
+«R
+sf%bOÊ 76s	Ú.^ Ê E
+i È	ù ä’	‰÷İ! nÍ7È†¾j/	8Æ.0c )ÕÄ !NÓã@1F lb/ 4 * ›50	5gjŒ
+J X¥ 7# ¬ hN ¨CB )¯!EC2oun§Ä! -C6)
+	° }:PØ
+ká( &=   S§Õ
+ª7¨	_ dP	ƒ¨_³Oy•
+“É rS
+µXD
+h ]B
+f 
+Î &E eÑn×y;RUN „
+›‰g?JUM,s6airOo ğ
+ÿ
+?- ·F^h«	wÎ 1‰
+|J
+ÁKB›{	
+ …Š3)
+	«A¨" =6ru.LANDEDA‘cs·
+S  –KD“&k· ‡8J# ‡,(
+
+ ® ª1DROµ…Ø¶Êv(¾úÍ,ÒCÒMM®Ú<Ç )} °™Sz 2ß: ¨İ
+d …AJU[, 0x4JÜ 1Yaw:EìDnìDJL‡ì
+4¼Ş
+&;²DFROM";ÁaŒ_test(Ä ,ãWüõ İ;å -•
+%
+ r	Õ2Objó$ –Z_
+‰4Ù ±çr Ê·ä-i|»BC®À C _â
+	
+Ctrueì &4!1Äü€i$UÌ	ø	 „T
+0M  
+†
+7 ›àb(³
+ Âc:Kc 8?4TDYB#
+¨ G#ê £ "ÿ%		Ä
+×#Ò#
+×²7
+½
+7\€KÊ {ËùQ ­
+¹-
+pU	HNN Sk8Ö`  P5?Arg'?FOR§ 7Œ S ¥ 7X oSHOCKEÀ &‡*ëoWAAAOOó‰ L 1'dMOVINGƒ  Ö ( 	D&MVD ĞFV¶J. 
+Q8V
+NVı0…Ì
+[j)+u+¦@_DROWNZ#	¶!03¬ ÅU PA	eT3EyeM  ›óEyes.HALF_CLOSED–!ã/1“!3
+° ›"	° 2×8 ¢,° DDEADe ’Ş` ,ñ ¨.1¥®
+Ÿœ‘
+9 YÃ /^í }§¤‰#â• = Enums. X '¡/H 	.$n 	 r µ†(   & –e‘-   .˜5  å64  ©¡ÿÍ–¯¥\CW¸ª:]DE d 2and 
+dµ< 0.2923716©NØâm:PushOffSteep«'ú’.FREEFALL< >!è% wQ`*
+!¾ D6#lÁ  2OFF‘/)Ï #ó] ÃW  ú1^  C!	/ Ô
+û$
+e	â)
+H
+Z
+ï  [;T eW  
+Æ¬ø 
+»Æ[ 2 %ì	OHoldğÜÎ#[¶í¤sh È -d	ï sŸõDROP_IMMEDIATELYuş  L Ï²£[ O q
+Õ˜€Û œœ$İX ô.š	¢Š&T— +CÜ:++$Dr÷.#€2&Aplay¥ê£)#, øDtate­fäfGFram bsound:Uµm.› k=K » –q £q  Ö
+(_ ¼1fun  2 stöŸô7¾ {Ï Ê )(
+†>*( B
+Sanim)Âò¹ h ± p° 
+é ‹× Õ 
+)?
+L{¡xCancels6T %Ë ‡	
+Ä•© 	?üb  qûz{Ition
+!ƒJumpFrom-(©7	!  
+H 
+­  B	
+Ï', êª 	 \	 ø	
+Cõ”:íL„3y m	*« §©fŸC-
+--ã®s½°¢
+cg%<ù·
+=µ7> 3×<Ô%N_ı³]
+ÕIN_POISON_GAS’	b  ‹COUGHING^ 9not@$sArg, 1) 
+ Ç3Ezm  KPANT¤  <	R
+» õ]	 ß6£U È [SLEEP… ê 	j?üVr_AGAINSã{p'ó.ª k
+b
+…4£8Á'ˆN 	N ¥8O ¦8O §8’õÉ 
+v8ª82 "Ì	)
+deltaYOfÜaBehindq_H ›'- ‡~¼8ñ RelativePolar(-”tA0, 6 J€ G24 <”ll 
+
+Ì š2	>?	 ì ï?ì  Â (< gˆ‡@0Q 1end	     
+«,
+Ç
+eÍâ¾&A
+h
+H>€	®
+A ©›
+? = 
+__7	›A
+Z µZ RSCRATl] Ã] !YA"¨	Ù›Ç‰ 3SIT)Œ Œ*
+y
+‚, 1, 41,J
+ëKƒPAT_BACKZ7 ª
+1 91  }
+ê
+îı— ó
+
+¦2K  "5= -®
+§LMARIO_YAà) Z 1Z "qIMA_TIR¿I\3p Võ:
+A
+			 ÜÜ
+
+ ß
+
+ â
+
+  å
+ ,
+ ¥
+ Ü
+ Z÷c
+		)
+	V­ %WAâÖ	4
+óü%E > 2 … (Ëı¡¼{ u†	Q@H uSNORINGÄ¢F • G n>á)' Í%5> 4ÎD`n  W/ifÇ	LLÑd == 18,ı SHeavyÁ›·"p6Ø¥ æ
+CDõ  Ù Ó ŒAPlay» à 13, l
+~Ş ±­H›)( Ø-î-³q‡
+n ğ 
+İ_ W \Y Š³ş
+	4 >Ÿ —	%“û æncÊCWAKEÍ.>LEEYÊ  /aSHIVER /
+•
+B = 0™
+EüUÚ2> h€ò  ã6 „ ªã_WARMING_HAND)é
+—4Ã #HQBREAT¤O{´o
+YA_COLs  	A7 or½ÂŠ5= 8 Z ÉACLAPË S^ @Ú :PasÚÜ O”W µ § 	ob 6 == 9ë -25  
+ı ‡ *¹ £_RETURN_TOº	™R êĞ‘ VzM	¶bB…<ÃÓû 
+)
+y 	/ WY D
+[ 
+""	¨J1Ò  å  >J@Ğ
+Y÷&
+ˆi 	}¿`Ö¨9}$^ Z 
+îÏ¹
+§÷À b n!5, 9Z B±‹ `há ¤eéo>= 0x5êšp# çôCSWALK_¢Ü Ù%	º ´a× Â•î/ºÖX!›°q	Õ2
+		œ
+B
+à ”	 æ	 Ë¿
+!
+b#Ó	 sP_SKID, Tw# O@ôYz@äl	y.{õ•z±
+I&U}õ6	ù¶– 
+(·İM*{
+Ó‹
+ ~*™1Pw* é•H"äê	Jd\BHold,î$B
+Å)8
+dAND_UPvrj
+lIÙu°¦ĞÇéi
+ ·»Xœ	VJ @#J7 Â	e›02EX °
+Ã
+ƒ Y AEGINà­‹
+5 
+U Dtrue8 æ
+!‹1yà ; ¿ db
+
+e
+q ;ñ•
+	Õ>
+õ
+ ¸ ±	]
+
+¦ 
+ß © ’ vDh J|1D)ÏXP
+$ ; !³v @àÿ iß"^x#
+90ãIc{E== 4 ‚ 	¿Ô
+Esp1E±jÆ¼
+m …% 16, 12l]¡sp18 = ((6kQ°™ Ò/ 8) * 8) + 4h&et½]V(0)
+	ü»b£™º#if9&ª2p1E‰–úf# ¤B&Y( n ? *¯ +Ã7‹*,< S ı7: - -¢ c ÖxV(
+ /OS fõLO
+ ø)
+ò2<, 0÷I	¤3		ÌKCXx
+Fî
+Ê bèTS'0 aN
+Ã ìZ   JkÌ™ ‡
+jNœp¡ pë…Rmi Œ Ñ Ì 
+)ğÊ _ŸğÃ òïa%½dOñ !Å %–&b­şÿ^Qz6#AI©x]™
+ædÙ*
+´
+M
+Z	Ë
+—#®Øæ¬ BfY?ECT!"Şñ×(ß .å@S
+¥
+Œ S ù
+g_f
+Í
+wèg Ó&>!UéBº0–!ÈJ
+
+<½ @h¡LAVA_BOOSTB—fû zl	W&¸*YA
+*Ê `I
+è÷
+ ô ?÷\C,
+		¦ O
+	)
+š_TWIRLU
+] I)8_8Hasù
+J +:%í(#
+)´
+ñÂ s·Àbå=º*xÄ*+Š­1.­(3Ùm.TwirlYaw +=X çƒ
+D £ ^ u ÁŒI5Âc
+d ¬Y"GR
+2 ¿ÿ Ò 
+´
+àÕ	Ü1 
+ )_[ 
+‡Ã	 k"		
+­5INGc
+” ‚"AA9GıA=
+-Æ å
+&= ] / =0&§ ‘B 4 .3p6N&Q 3xX 5Ÿ	k 5)5
+¦&X ¸€X -71Ì.Ë–X 1° àÜà	¤"Æ@T†
+% Z‹"  •†
+‚†Wm5Boxx†É / ú CRAZY_BOX_BOUNCzª®t
+@K"EÚ
+X
+
+®Ohˆh _Yc ©y
+>_ãBFIÅ$Sà/ù3d öf [^ î
+` Ü  b 
+»ÿh   ¶N2Ğ ¼3‰&M ‹Cæ­ 
+¨<ÃH'`	¾U  !ƒ 6> 7
+*-hDYING_å )Á4<‚G
+5 ø5™ n
+
+4 Asp1CàFïù•	N M	 '~hãQ	[
+ ó7
+ ‡ÌD(Û )ÆˆÅ £
+s	Õ
+€Ü_ : 	y m
+i$A™7E §JG
+Àÿ	
+end)
+-- idk wth im doing ehre
+- Ÿ¡
+-- what uÉ (K”^àGôValidators: { [string]: (Player, ...any) ->‚Áñ } = {}
+type Echo = (! $()+QıReplicatedStorage = game:GetService("% "ğÿôCore = script.Paren  b gSharedğèRCore. G 9:Bs =  . B AlazyÒ”ñstance.new("Unrel‰ËóRemoteEvent")
+lazy‰ = = º   N*ÅÒ"LazyNetwork" Archivabøbtfalse
+
+? „.$
+p€$: ˆbname:  hÒS:Ã 3? =óFb[name]e
+% B and
+ a:IsA("
+" 	K± 4Setz‹³ 
+U, setÅÃ?–±typeof(name«"ß è
+0·Âcharacter = w $.C $ 1rooœ ' =/ 6and Â.PrimaryPart,4 Än pâ 5s =" xL´irstChild(" &s"—ß9 % =
+ sŠ G Fname(n5	if9 “ ™Otrue
+;
+²QTorsoY
+´¡•}áVint16Û
+°$ „4"Z#( "t 
+gÉs Z=lthp h  šUêŞ  ß qnumber"³ †°
+oalth <šÔ#on}Receiveˆ 4cmdÑgÖv”7e =C[cmdÑ  5and
+ _ J ,õlazy:FireAllClients( 2cmd- Z¼æOnServerû™:Connect(Ï Pive)
+PROP&   ^       ÿ   
+   SourceAssetId  +PROP   1       ï      Tags  
+P     PROP   I      ÿ      AttributesSerialize  ˆ@   ¡ Ã   Decay À   Priorityß _  ào@ 
+ $  
+A  / d^ ? h@Z R  “  -   b %  ê Ã |P     PROP%   Õ      ÿ       Capabilities!  ÿÿÿÿ«P     PROP(   ´       ÿ      DefinesCapabilities  P     PROP,   Ó      ğ   
+   LoopRegion  0`jG   ÿÿÿÿ P  `jGPROP   §       @    Looped  P     PROP:  ­      ö      Name
+   ACTION_BONK ÆFLYING_FAST çHEAVY_LANDING
+ 6IT QMETALQ  	A  Y 3 Y 6   m_WATERf MJUMP0   0 VSTEP` –PAT_BACK —SIDE_FLIPHSPIN# jWIM_KI7    /7 FWIMZ `TERRAIk DY3_GROUND"   ñ  DEFAULTD " WGRASSgd   ?ICE> w^  OSAND 	ONOW> _POOKY OSTONŸ 	ó€   Å€    ?ICE8 U   ?NOW‰ p 
+s    HHROW GWIRL¹0 :_EN- ğXIT   MARIO_ATTACKED± Dô	! EDOH
+ ¬ _P²@_WAHş6 FHAHA5 0HOO  POOHOOp –IMA_TIRED† ¬;HOO 6WAH •MAMA_MIA
+ vON_FIRE… FOOOF vPANTINGy PPUNCH  <WAH Y{ †SNORING1  2 3I ¥U_YAH² &UH$6UH2º 7EEUë †WAAAOOOW- 	lFWAHA; FWHOA) 6YAHËVYAHOOvYAWNINGšaYIPPEE!  OVkñ å LAVA_BURN§ E@LIDEm =ÿÿÿß
+H1z¼7DIE
+ OÉ”¸ }µÓ¦HERE_WE_GON ‘ÿƒKR ? LOW_LEDGEPROP!   ­       ÿ       PlayOnRemove  P     PROPw   ×      ğ	      PlaybackRegion  0`jG  Ä `jGš™?   ?   €>   0  'o€?   @@ '€  ? €>8 "  @ / €¸ [€   XÿÿBP  `jGPROPD   ·       ñ      PlaybackRegionsEnabled       	  
+K 3P     PROPX   v      ÿ   
+   PlaybackSpeed ~-  )?~  /Ì.  (™< Ì0  &h /Ìšj & P   š PROP   ¨       ÿ       Playing  P     PROPU   {      ÿ
+      RollOffMaxDistanceŒ b_†††Œ† 	/Œ8 b_   8  	/8€ bO   €— 	  cP     PROP=   {      ÿ
+      RollOffMinDistance‚ „@ b_   @  	 
+ ûP     PROP"   t      ÿ   
+   RollOffMode  ÿÿIP     PROP%   s      ÿ   
+   SoundGroup  ÿµÈP     PROP  Ì      ğ       SoundId   rbxasset://s §s/hit.wav ü id://224339308 ¯9114589043 7969584  25670740  16887596 _519876  :í5946029627    ‹ ¯6552141879 Ÿ911782333-m822492Q ·9120554658&~µşaction_jump_land.mp` 576164808` 734037233Ì  Ş^86156ù!
+± Ÿ845341797ù~1931382Ã670317487ù½ ]84645‡ 6 ó ´ ›  
+û i_2587"3Àimpact_water/ E   ù01129N9318 ­40007818691­135362176R ï37007289524982  
+v  ’ o995011 o348319 o772310 _47545T o4654378 P87760>Ì 
+  
+` _36148Ğ o704206  ?275T  8 ?405 #o507663X 6529034 	(@ o223526 _40769Ğ ¯7866498962X n996044X Ï157398861331Ë  æQ462218770924† ÿR¾î04669940509698  ü 15313596154349Âï89631253301099” ÿÿ W@3543ªo118525™ < v	­2815207981® 73793529
+¯72365552545  ê ß1971444561412Ï	 081790838\Ş7424959218091«
+893284726î	P68457u Å  7452186Æ
+ Q à 81687937¥  `­4652737370 î72914518532717ï32911004656561   `008375*?272˜  ö
+u	²  Ş7825548283336² ï81606700866623’  İ4599542846503ñ 
+? 
+ 
+} ^ ß19668667547240 Ï208475014235û
+ Ÿ197331701£ í90165059498141³ í82416458011044 
+Ò 
+‰ M
+_40744+0582_27498ÜtPt.wavPROP+   Ö      ÿ   
+   SourceAssetId  ÿÿÿÿ PPROP   m      ï      Tags  ÿÿIP     PROP%   Õ      ÿ       TimePosition  ÿÿÿÿ«P     PROP…   o      @    ÔVolume~€~€~ Bz{~ }  2}~	  3€~ %    ~ C 	K $. B K C Q      )™™ 
+ €  Y˜ 
+ h/šš} h P     PRNTÏ   ¥
+      O ´  ÿÿÿÿ¶ÈBĞ  
+  @
+ "	 0
+	  
+QT £
+qx  7/¡¦L 7 o/™„ =o§A{Ñÿÿÿÿ¶Æ@ñ     
+   	  b  &  0% 4  ğ  3 F   E   X W^ °  ]nmrqxw~
+  9/¦N 9 m/¥B‚ =`¤£ A{END     	       </roblox>
